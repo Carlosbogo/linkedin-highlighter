@@ -2,6 +2,8 @@
 
 The purpose of this extension is to highlight the job postings made by companies which have more than a 4.0 rating on Glassdoor. This is useful for job seekers who want to quickly identify companies with a good reputation.
 
+Apart from the highlighting, the extension also provides the exact rating of the company in glassdoor, as well as the number of reviews that the rating is based on.
+
 ## Installation
 
 1. Download the github repository as a zip file.
