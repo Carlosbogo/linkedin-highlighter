@@ -1,0 +1,33 @@
+{
+    "manifest_version": 2,
+    "name": "XPath Conditional Highlighter",
+    "version": "1.1",
+    "description": "Highlights elements on a page if their text matches any value in a CSV file.",
+    "permissions": [
+      "activeTab",
+      "storage",
+      "webRequest",
+      "webRequestBlocking"
+    ],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content-script.js"]
+      }
+    ],
+    "web_accessible_resources": [
+      "data/values.csv"
+    ],
+    "icons": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "icons/icon48.png"
+    }
+  }
