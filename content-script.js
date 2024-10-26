@@ -61,7 +61,7 @@ function matchElementsWithCSV(csvData, elements) {
             linkText.href = link;
             linkText.target = "_blank"; // Open link in new tab
             linkText.style.textDecoration = "underline"; // Optional underline for link
-            linkText.textContent = "Job boad"; // Display "Link" text
+            linkText.textContent = "Job board";
             linkText.addEventListener('click', (event) => {
                 event.stopPropagation();
             });
