@@ -40,6 +40,7 @@ function matchElementsWithCSV(csvData, elements) {
             const matchingRow = csvData.find(row => row[0].trim() === elementText);
             const rating = parseFloat(matchingRow[1].trim());
             const reviews = parseInt(matchingRow[2].trim());
+            const link = matchingRow[3].trim();
 
             console.log(`Match found: ${elementText} => ${rating}`);
 
@@ -55,7 +56,18 @@ function matchElementsWithCSV(csvData, elements) {
             displayElement.textContent = rating + " - " + reviews + " Reviews" + " - ";
             displayElement.className = "csv-display"; // Adding class for easier removal
             displayElement.style.color = "white"; // Change text color for better visibility
-            element.appendChild(displayElement); // Append to the matched element or place it as needed
+
+            const linkText = document.createElement('a');
+            linkText.href = link;
+            linkText.target = "_blank"; // Open link in new tab
+            linkText.style.textDecoration = "underline"; // Optional underline for link
+            linkText.textContent = "Job boad"; // Display "Link" text
+            linkText.addEventListener('click', (event) => {
+                event.stopPropagation();
+            });
+            displayElement.appendChild(linkText); // Append the link to the display element
+
+        element.appendChild(displayElement);
         } else {
             // If the element does not match any first column value in the CSV, remove the first <li> parent
             console.log(`No match found for: ${elementText}. Removing closest <li> parent.`);
