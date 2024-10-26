@@ -1,0 +1,6557 @@
+Company;Rating;Reviews
+Teleperformance;4.3;69900
+IBM;4.0;119100
+Google;4.3;57300
+Microsoft;4.2;58400
+Apple;3.6;45400
+SAP;4.2;32100
+HP Inc.;4.1;11300
+Concentrix;4.0;44000
+Freelancer;4.2;18000
+BBVA;4.2;6300
+Nestlé;4.1;17400
+Decathlon;3.6;10100
+Schneider Electric;4.3;17000
+Salesforce;4.1;21700
+Hewlett Packard Enterprise | HPE;4.1;19200
+Siemens;4.2;23500
+Ericsson-Worldwide;4.0;19800
+Airbus;4.2;7500
+Telefónica;4.1;4500
+EPAM Systems;4.1;11800
+Roche;4.2;9300
+McKinsey & Company;4.1;12900
+Procter & Gamble;4.1;18600
+L'Oréal;4.2;14900
+Gartner;4.0;8500
+Boston Consulting Group;4.2;10200
+Cisco;4.2;35600
+Booking.com;4.1;8300
+Dell Technologies;4.0;38700
+Robert Bosch;4.2;17800
+Leroy Merlin;4.0;5700
+GE;4.0;20000
+American Express;4.1;19000
+Orange;4.0;10000
+Amadeus;4.1;5300
+NIKE;4.0;15400
+Marriott International;4.0;19300
+Novartis;4.0;11200
+Allianz;4.0;9700
+Unilever;4.1;17900
+Sanofi;4.0;11400
+Johnson & Johnson;4.1;17500
+SelfEmployed.com;4.4;16200
+Globant;4.0;9800
+Meta;4.0;19500
+Danone;4.0;6200
+Umbrella Corporation;4.4;320
+Henkel;4.3;8200
+Ford Motor Company;4.1;15200
+Autodesk;4.3;5000
+VMware;4.4;12000
+ING;4.0;5600
+Criteo;4.1;1800
+Zurich Insurance;4.2;3400
+Electronic Arts;4.1;4600
+Sage;4.0;5500
+The Coca-Cola Company;4.1;9900
+Autonomo;4.4;2200
+ABB;4.0;10600
+Nokia;4.0;20400
+Hilton;4.0;12000
+GFT Technologies;4.3;2600
+Manpower;4.1;9800
+Philip Morris International;4.0;5600
+Bain & Company;4.3;8500
+Red Hat;4.1;5000
+Mercedes-Benz Group;4.1;5900
+freelance;4.2;2500
+Repsol;4.0;1200
+Boehringer Ingelheim;4.2;4500
+Infor;4.0;5400
+AstraZeneca;4.0;8500
+Intel Corporation;4.0;34100
+J.P. Morgan;4.1;24800
+Freelance;4.2;2600
+Mondelēz International;4.0;7900
+ArcelorMittal;4.0;4900
+Thomson Reuters;4.1;17000
+Robert Walters;4.0;2500
+Honeywell;4.0;23500
+MAERSK;4.0;7000
+Softtek;4.0;3500
+Eli Lilly and Company;4.1;5400
+AbbVie;4.0;5600
+The HEINEKEN Company;4.3;5200
+Volkswagen Group;4.1;4700
+Colt Technology Services;4.4;1800
+GE HealthCare;4.2;8400
+Saint-Gobain;4.1;5600
+Devoteam;4.0;2800
+Acciona;4.1;878
+JPMorganChase;4.0;31600
+Agilent Technologies;4.0;2800
+TravelPerk;4.1;361
+Mars;4.3;5800
+Boston Scientific;4.1;5900
+Diageo;4.0;4000
+MongoDB;4.2;2200
+Arup;4.0;4400
+Adobe;4.2;10400
+Oliver Wyman;4.2;2300
+Merck;4.1;7300
+Job&Talent;4.0;917
+BAT;4.0;6300
+Michelin;4.1;3600
+Cargill;4.0;8200
+GMV;4.2;499
+Dynatrace;4.1;1500
+MSD;4.2;3300
+BMW Group;4.1;5900
+SEIDOR;4.1;753
+Accor;4.0;4200
+RSM;3.8;7500
+TotalEnergies;4.0;6400
+Siemens Healthineers;4.0;5300
+Merck KGaA;4.0;3200
+Mastercard;4.2;7400
+SAS;4.0;3600
+Shell;4.1;15500
+LinkedIn;4.0;7800
+Airbnb;4.2;2800
+Red Bull;4.2;4100
+PTC;4.1;2900
+Jet2.com and Jet2holidays;4.0;1300
+US Air Force;4.1;30100
+American Express Global Business Travel;4.2;2400
+Bosch;4.1;3300
+Yahoo;4.0;6400
+Dow;4.1;4600
+Keysight Technologies;3.9;2500
+Stryker;4.1;7500
+IHG Hotels and Resorts;4.0;5200
+BD;4.0;5400
+Hilti Group;4.0;3200
+Visa Inc.;4.1;7200
+Cabify;4.0;495
+Morningstar;3.9;3600
+Grupo Bimbo;3.7;2900
+NEORIS;4.0;1200
+Hyatt;4.0;7400
+Janssen;4.0;2300
+Nutanix;4.0;2400
+Takeda Pharmaceuticals;4.0;4800
+Kearney;4.0;2500
+Deel;4.6;1300
+Air Products;4.1;1500
+DocPlanner;4.5;678
+Itaú Unibanco (Itaú BBA e Rede);4.4;26900
+Grupo Planeta;4.7;581
+Wellhub;4.2;1200
+Arcadis;4.0;4800
+Dassault Systèmes;4.1;4500
+CHEP;4.1;1100
+NetApp;4.0;5500
+Sony;4.1;3900
+Preply;4.1;392
+Tetra Pak;4.3;2300
+Pernod Ricard;4.1;2200
+ServiceNow;4.4;5100
+Avature;4.2;635
+Netflix;4.2;3000
+RE/MAX;4.2;3500
+Amgen;4.1;4500
+The Emirates Group;4.0;5400
+Emerson;4.0;7900
+Test;4.0;2100
+Workday;4.1;4000
+Northside Hospital;4.3;6800
+Strategy&;4.0;1600
+EcoVadis;4.1;388
+FTI Consulting;4.0;2300
+EDP;4.0;1400
+Colgate-Palmolive;4.2;4100
+knowmad mood;4.1;289
+Adevinta;4.0;332
+Vivo (Telefônica Brasil);4.5;13500
+Four Seasons;4.0;3700
+EY-Parthenon;4.0;2000
+Informatica;4.0;3400
+Volvo Group;4.1;5700
+Guidewire;4.3;1400
+Octopus Energy;4.9;1300
+Syngenta;4.2;3500
+Nike;4.0;2200
+Indeed;4.0;4600
+Skyscanner;4.1;622
+TechnipFMC;4.2;4300
+Datadog;4.0;1300
+TomTom;4.1;1500
+Marsh McLennan;4.0;3800
+Kimberly-Clark;4.0;4700
+Bloomberg;4.1;8700
+Endesa S.A.;4.1;328
+DONE by NONE;4.1;4800
+Alvarez & Marsal;4.1;2000
+Vrbo;4.0;827
+Flowserve;4.0;1700
+SEAT S.A.;4.1;336
+Universitat Politecnica de Catalunya;4.1;309
+JTI - Japan Tobacco International;4.2;2100
+Claro;4.1;7200
+SENER;4.2;346
+HubSpot;4.0;3700
+BMC Software;4.0;3000
+Equinix;4.1;2700
+easyJet;4.1;1600
+SLB;4.0;13300
+Juniper Networks;4.1;4800
+S&P Global;4.1;7900
+LATAM;4.3;2700
+Audi;4.2;2600
+PUMA;4.2;2400
+Everise;4.6;16100
+Atlas Copco;4.2;2500
+BairesDev;4.1;1900
+Particular;4.2;818
+Universidad Carlos III de Madrid;4.1;288
+Novo Nordisk;4.3;4200
+Tragsa;3.9;293
+Keller Williams;4.3;8300
+Siemens Energy;4.2;2500
+the LEGO Group;4.3;2800
+TheFork;3.9;290
+Freelance.com;4.2;1200
+Nfq Advisory Services;4.0;256
+Siemens Digital Industries Software;4.2;3400
+Royal Caribbean Group;4.0;3000
+Comunidad de Madrid;4.0;240
+General Mills;4.1;4600
+Coca-Cola FEMSA;4.1;4900
+Software AG;3.9;1400
+University of Michigan;4.3;7900
+Bacardi;4.0;891
+Mercado Livre;4.3;6000
+Norwegian Air Shuttle;4.3;511
+NBCUniversal;4.0;6700
+TÜV SÜD;3.4;1100
+sngular;4.3;231
+Sandoz;3.9;1300
+Roland Berger;4.0;1300
+Beiersdorf;4.2;1500
+Hitachi Energy;4.1;1500
+Socialpoint;4.1;172
+TECH Education;4.9;417
+PayFit;4.1;329
+Analog Devices;4.0;3100
+Bankinter;4.0;214
+Garrigues;4.1;211
+ERNI;4.1;243
+Version 1;4.0;773
+Doctoralia;4.0;388
+Fidelity Investments;4.2;17800
+European Commission;4.2;1600
+Mott MacDonald;4.1;2900
+Honda;4.0;4400
+BBVA Next Technologies;4.1;206
+PlayStation;4.1;1700
+Century 21;4.1;1600
+Keyrus;4.1;1200
+Wallapop;4.4;92
+Jaguar Land Rover;4.0;4100
+Palo Alto Networks;4.0;2500
+CEMEX;4.1;1600
+Learnlight;4.3;460
+Extia;4.0;919
+EDF;4.1;4800
+Fluor;4.0;3400
+NatWest Group;4.0;11800
+Corteva Agriscience;4.0;1700
+BSH Hausgeräte;4.0;1200
+Cummins;4.0;8600
+Private TV;4.1;2700
+Spotahome;4.3;224
+Mandarin Oriental Hotel Group;4.0;1100
+Swiss Re;4.0;2600
+Mews;4.5;356
+Clifford Chance;4.1;1000
+Smith & Nephew;4.0;2600
+Toyota Motor Corporation;4.0;3100
+Genesys;4.1;2700
+Between;4.0;150
+Self Opportunity;4.3;5400
+Akamai;4.4;3300
+Universidad Politécnica de Valencia;4.6;203
+Linklaters;4.1;870
+IFS;4.2;1800
+Vonage;4.2;1200
+Deutsche Telekom;4.0;2400
+Kantox;4.6;128
+Capitole Consulting;4.3;187
+Motorola Solutions;4.2;4900
+Universitat Pompeu Fabra;4.0;215
+Edenred;4.1;1700
+Caterpillar;4.1;8900
+KONE;4.0;2200
+Agoda;4.1;2600
+Entelgy;4.0;240
+Mobility Quest;4.1;1000
+Awin;4.4;759
+Edwards Lifesciences;4.0;1800
+Generalitat de Catalunya;4.0;191
+CrowdStrike;4.3;988
+Bluetab;4.2;201
+Iberostar Hotels & Resorts;4.0;326
+Universidade de São Paulo (USP);4.3;2300
+Adevinta Spain;4.5;132
+Paradigma Digital;4.2;145
+ACCIONA;4.0;251
+Cloudbeds;3.9;317
+Leadtech (Spain);4.3;128
+IESE Business School;4.1;201
+Nationale-Nederlanden;4.0;381
+Votorantim Cimentos;4.1;1600
+UNICEF;4.0;2100
+NASA;4.4;2700
+ESADE;4.3;215
+Andersen;4.1;694
+Vinci;4.0;1800
+_VOIS;4.1;1600
+ZEISS Group;4.0;1600
+Ansys;4.2;1200
+Esri;3.9;1600
+bioMérieux;4.0;1400
+Hudl;4.1;1000
+The World Bank;4.1;3500
+Clarity AI;4.5;102
+BENTELER Group;3.9;770
+QAD;4.1;593
+None of Your Business Boutique;4.1;1000
+Alcoa;4.0;1400
+Splunk;4.0;2000
+Correios;4.1;3600
+RHI Magnesita;4.0;778
+Astek;4.2;1400
+Compass Lexecon;4.1;303
+Fortinet;4.0;2700
+Nexthink;4.1;313
+Almirall;4.1;156
+Riot Games;4.2;1300
+Elsevier;4.0;2200
+Mastech Digital;4.0;809
+IGT Solutions;4.3;5200
+Myself;4.6;1300
+Munich Re;4.1;1100
+Vector Marketing;4.5;8000
+Ambev;4.3;10900
+MD Anderson Cancer Center;4.2;3300
+Médecins Sans Frontières;4.0;1300
+CAF, Construcciones y Auxiliar de Ferrocarriles;4.1;187
+Porto;4.3;4600
+Altair Engineering;4.3;1000
+RBC;4.0;17000
+Gemalto;4.1;1200
+NYU (New York University);4.3;6400
+Natura;4.1;2900
+Petronas;4.3;4500
+Qualcomm;4.0;11100
+Qonto;4.2;268
+Festo;4.0;853
+ASML;4.2;3400
+AVL;4.1;921
+Independent;4.3;1300
+SeQura;4.7;75
+Stanford University;4.3;5700
+Universidad de Granada;4.1;151
+Lockheed Martin;4.1;14800
+Ministerio de Defensa de España;4.2;163
+Arthur D. Little;4.1;505
+Sony Electronics;4.0;1400
+Atolls;4.0;281
+VTEX;4.0;792
+lululemon;4.2;9600
+Voodoo;4.2;249
+Reply;4.0;2800
+Orange Business;4.0;3200
+Adesso SE;4.0;563
+SUSE;4.0;617
+Independiente;4.3;727
+Travelers;4.1;6500
+Banco Bradesco;4.1;13200
+Google Cloud;4.2;1200
+Steelcase;4.0;1400
+Flywire;4.4;182
+Superside;4.4;364
+Tokio Marine HCC;4.0;400
+Dominion Energy;4.0;1200
+Blue Yonder;4.1;3300
+Ministerio de Educacion;4.2;175
+SKF;4.0;1600
+Servier;4.2;1100
+Carglass;4.0;482
+Delta Air Lines;4.2;8200
+Bunge Limited;4.1;975
+BIC;4.0;900
+Norauto;4.1;362
+Correos Group;3.9;144
+Schibsted;4.1;292
+Zopa;4.3;402
+Softonic;4.6;140
+Imperial College London;4.3;3600
+ITP Aero;4.3;144
+Ukio;4.4;116
+AMD;4.1;5300
+DLA Piper;4.0;1200
+ZIM Integrated Shipping Services;4.3;1500
+Solvay;4.0;2000
+Visma;4.0;467
+AIESEC;4.4;3000
+Uría Menéndez;4.4;97
+DrSmile;4.0;179
+Aruba Networks;4.2;783
+Alan;4.2;186
+Hermès;4.1;1500
+LeasePlan;3.8;644
+Universitat Autonoma de Barcelona;4.0;138
+Idealista.com;3.9;104
+Scania;4.1;2100
+Council On International Educational Exchange;4.1;424
+Mace;4.1;985
+Veritas Technologies;4.1;2700
+Por Cuenta Propia;4.2;209
+Farmacias de Similares;4.0;413
+David Lloyd Clubs;4.2;1400
+MercadoLibre;4.3;2200
+Henry Schein;4.0;1800
+Kraken Digital Asset Exchange;4.5;408
+General Dynamics Information Technology;4.0;4800
+FactSet;3.9;4600
+Porsche;4.3;1400
+Avianca;4.2;1400
+GSMA;4.0;401
+TaskUs;4.2;16800
+E.ON;4.0;1900
+Insider;4.4;1400
+Tecnológico de Monterrey;4.4;2000
+Belvo;4.6;113
+Mahou-San Miguel;4.3;131
+Product Madness;4.3;214
+Valid;4.2;718
+UCLA;4.2;5800
+Grupo Boticário;4.5;5400
+Kairos Digital Solutions;4.4;130
+The Church of Jesus Christ of Latter-day Saints;4.5;1900
+Resuelve TU Deuda;4.0;280
+Northrop Grumman;3.9;12100
+Logitech;4.2;1200
+Holidu;4.5;209
+Fiverr Inc.;4.2;3200
+Mirakl;4.1;398
+HashedIn by Deloitte;4.2;1200
+Otro;4.1;253
+SICPA;4.2;352
+GiG Gaming Innovation Group;4.0;240
+Garaje de Ideas;4.3;93
+YouTube;4.3;1700
+Cofidis;4.0;191
+CERN;4.2;1500
+Falabella;4.1;1100
+Slide Inc;4.3;1100
+Novaluz;4.8;160
+iEnergizer;4.3;5500
+Siemens;4.1;511
+Back Market;4.1;272
+Pinterest;4.1;985
+DLL;4.0;751
+SlashMobility;4.0;85
+Applied Materials;4.0;4600
+Cloudera;4.0;1200
+Columbia University;4.0;5400
+NVIDIA;4.6;5900
+Obramat;4.1;99
+FISIA;4.1;381
+UiPath;3.9;1200
+Toyota North America;4.0;4200
+Banco de España;4.0;100
+XXX Energy Drink;3.9;543
+SoftServe;4.2;1400
+Universidad de Navarra;4.1;124
+RateGain;3.9;563
+Trader Joe's;4.1;9500
+Andritz;4.0;1200
+Universidad de Zaragoza;4.0;99
+Motorola Mobility;4.2;2900
+Click & Boat;4.4;180
+SCRM;4.4;66
+Total Quality Logistics;4.1;8200
+Marvell Technology;4.1;2200
+IHS Markit;4.0;4100
+NICE;4.0;2700
+Danfoss;4.0;1600
+Vale;4.3;6800
+WEG;4.3;2000
+Infineon Technologies;4.1;4600
+Zoetis;4.0;1300
+Bending Spoons;4.7;299
+Privado;4.3;294
+Chevron;4.1;6500
+Nuance;4.0;3500
+Schreiber Foods;4.0;628
+MIT;4.3;4300
+FICO;4.1;1700
+Kaspersky;4.5;801
+NewYork-Presbyterian Hospital;4.0;3800
+Brown-Forman;4.0;747
+EUIPO;4.2;144
+Netskope;4.1;788
+Coldwell Banker;4.3;2600
+XXXX Brewery;4.1;478
+University of Manchester;4.1;2200
+European Space Agency;4.2;351
+Pirelli;3.9;1600
+Accedo Broadband;4.4;193
+Syniti;4.1;369
+UNHCR;4.1;1100
+Institute of Photonic Sciences;4.0;96
+Cimpress;4.1;653
+CloudPay;4.4;222
+Infoblox;4.4;835
+UPL;4.1;1300
+Tata Communications;4.0;3800
+DoiT;4.5;272
+GE Aerospace;4.0;4100
+Kärcher;4.0;744
+Booz Allen Hamilton;4.2;9600
+ASG Technologies;4.0;393
+Holded;4.4;78
+Nagravision;4.0;405
+Hiscox;4.0;965
+Santander Río;4.0;541
+UCB;4.0;1200
+Whisbi;4.2;94
+Hotmart;4.1;1100
+Liebherr Group;3.9;1000
+Hola;3.9;200
+Wise;4.0;1900
+Yandex;4.4;2300
+Apeel Sciences;4.0;200
+Zartis;4.7;131
+Catenon;4.1;149
+Lazard;4.0;705
+Cadence Design Systems;4.3;2900
+University of Cambridge;4.2;2700
+Veeam Software;4.0;1300
+RDT Ingenieros;4.0;90
+Banco Galicia;4.2;960
+Falck;4.7;1200
+Desjardins;4.0;3900
+Yara;4.2;1200
+Casas Bahia;4.0;1400
+Orenes Grupo;4.6;103
+SATEC (Spain);4.4;89
+Business France;4.1;421
+Partoo;4.3;289
+STMicroelectronics;4.0;3700
+Accentue;4.1;638
+The North Face;4.0;1600
+Amundi;4.0;977
+ISG Ltd;4.5;586
+GFT;4.2;153
+Banco do Brasil;4.3;5800
+Agicap;4.2;194
+Nextail;4.0;69
+Glassdoor;4.1;1100
+Seedtag;4.1;88
+S21sec;4.2;86
+italki;4.4;569
+Grupo Arcor;4.0;1200
+Commerzbank;4.0;1600
+Degusta Box;4.2;58
+NADA;4.2;113
+BestSecret Group;4.1;101
+Bynder;4.3;182
+Schaeffler;4.0;2300
+Viscofan;4.4;195
+Lingoda;3.9;481
+BMAT;4.4;60
+Real-Time Innovations;4.9;120
+NATEEVO;4.4;85
+ESPN;4.1;1600
+Louis Dreyfus Company;4.1;1600
+ICEX España Exportación e Inversiones;4.0;182
+InboundCycle;4.4;98
+ypf;4.0;2000
+Qustodio;4.5;84
+Cetelem, Grupo BNP Paribas;4.1;174
+Saint Louis University;4.0;952
+Axpo;4.3;148
+Deutsche Gesellschaft für Internationale Zusammenarbeit;4.0;2000
+King's College London;4.1;2300
+Intercruises Shoreside & Port Services;4.0;256
+Prima Assicurazioni;4.4;369
+Affinity Petcare;4.0;93
+UNDP;4.1;2200
+YES;4.2;1100
+UNOPS;4.3;520
+Sandvik;4.0;1200
+La Anónima;4.2;387
+UC San Diego;4.2;5700
+Ciena;4.3;2300
+Petrobras;4.6;3000
+Confidencial;4.1;233
+Avantio;4.6;66
+Enagás;4.6;85
+Empresarios Agrupados;4.0;87
+Madewell;4.1;1900
+Randstad Enterprise;4.0;2500
+Texas Instruments;4.1;6300
+La Universitat de València;4.5;99
+dunnhumby;4.3;1700
+Indiana University;4.1;3900
+Nothing;4.0;668
+The Good Care Group;4.6;406
+CEA;4.1;1700
+Real Madrid;4.5;111
+MuleSoft;4.0;632
+Epic Games;4.0;552
+Omni Hotels;4.2;3700
+Janssen-Cilag;4.0;257
+OpenSistemas;4.3;46
+IMSS;4.1;2000
+Ashurst;4.0;488
+Mary Kay;4.0;2300
+Turner Construction;4.2;2400
+Intralinks;4.1;614
+RWE;4.2;479
+Gerdau;4.0;4300
+Rabobank;4.2;2200
+Omega CRM;4.2;54
+TOTVS;4.3;4900
+Winche Redes Comerciales;4.3;108
+Rothschild & Co;4.1;758
+MathWorks;4.3;2700
+FCC (DC);4.4;184
+Orona Group;4.0;94
+AirHelp;4.8;197
+Grundfos;4.0;810
+Hill International;3.9;472
+Instituto Nacional da Seguridade Social (INSS);4.3;974
+Speexx;4.8;129
+Center for Genomic Regulation;4.2;83
+San José State University;4.2;1800
+Gelato;4.5;159
+Ashland;4.0;592
+Unimed;4.2;6600
+RTB House;4.3;369
+CIC;4.1;907
+TMC;4.0;235
+Auxiliar Administrativo;4.2;427
+Encora;4.1;1800
+ACME;4.0;481
+Me, Myself and I;4.4;973
+Nordea Bank;4.0;1500
+IMF;4.1;674
+DLR;4.3;712
+Norsk Hydro;4.0;635
+Schweitzer Engineering Laboratories;4.0;869
+Caixa Econômica Federal;4.4;4700
+Nenhuma;4.2;505
+Innovamat Education;4.2;70
+Accuracy;4.0;185
+CyberArk;4.3;482
+University of Southern California;4.3;5300
+Mazda;4.1;589
+Redsys;4.2;67
+Mirada;3.9;44
+Global Blue;4.0;291
+Stealth Startup;4.2;634
+Verallia;4.0;252
+GitLab;4.1;593
+Lodgify;4.6;59
+Oxford University;4.1;2600
+Keyloop (UK);4.4;335
+Amnesty International;4.0;821
+UserZoom;4.0;129
+Lingokids;4.4;55
+Technip;4.2;578
+Proton, privacy by default;4.0;109
+Memorial Sloan Kettering Cancer Center;4.0;3900
+Adaptavist;4.7;225
+CloudBees;3.9;205
+Harvard University;4.3;4100
+Grunenthal;4.1;314
+Kaizen Institute;4.0;149
+Colégio Objetivo;4.1;755
+DBS Bank;3.9;8600
+Mimacom;4.3;67
+iDeals;4.7;103
+ACN;3.9;532
+Air France;4.1;1600
+Universidad de Castilla-La Mancha;4.0;67
+Globo;4.2;3100
+University of Alcala;4.2;80
+Sigma;4.1;636
+Bosch Rexroth;4.1;1100
+Private Practice;4.2;1200
+Adaptive Financial Consulting;4.4;81
+BlaBlaCar;4.4;500
+Tribunal de Justiça do Estado de São Paulo (TJSP);4.1;2800
+Coppel;4.0;3000
+Haufe Group;4.7;117
+Workato;4.0;354
+Petrobras Energía;4.4;1900
+Teads;4.0;368
+Avon Cosméticos;4.1;563
+Intact;4.0;2400
+Workiva;4.3;762
+Ejército del Aire;4.2;74
+European Central Bank;4.4;836
+Databricks;4.2;1300
+Julius Baer;4.1;858
+Atradius;4.1;290
+Hosco;4.5;68
+DataArt;4.6;870
+Jane Street;4.4;580
+Spanish Ministry of Education;4.0;93
+Magic Ears;4.3;471
+Unemployed Help Centre;4.0;996
+European Parliament;4.4;792
+OMP;4.1;184
+Intellias;4.5;323
+Xunta de Galicia;4.2;71
+Inter-American Development Bank;4.0;859
+SAP Concur;4.1;1400
+Habitissimo;4.0;65
+Universidad Nacional Autónoma de México;4.4;1300
+Ness Digital Engineering;4.0;2700
+Yum! Brands;4.0;818
+KBR;4.1;3200
+Consultório particular;4.6;564
+LyondellBasell;4.0;1200
+Jones Day;4.0;487
+Frontier Economics;4.6;186
+Berklee;4.2;341
+Taboola;4.3;839
+RavenPack;4.4;82
+OSIsoft;4.1;460
+Sii Poland;4.1;508
+HARIBO;3.9;279
+Arquitecto Independiente;4.2;278
+O-I Glass;4.0;1200
+Landbot;5.0;21
+Fraunhofer-Gesellschaft;4.2;2500
+Hella;4.0;1300
+U.S. Department of State;4.0;2600
+Duke University;4.2;3700
+United States Federal Government;4.1;5000
+elite3d;4.4;68
+Volkswagen Group España Distribución;4.7;117
+Sberbank;4.2;2100
+Bsh Electrodomésticos España S.A.;4.0;63
+ADEO;4.2;247
+University of Minnesota;4.2;4700
+ANZ;4.0;5800
+eXp Realty;4.5;3600
+Fulbright Association;4.5;241
+Raymond James Financial;4.1;2500
+European Investment Bank;4.0;437
+Helvetia Group;4.3;180
+KU Leuven;4.1;1300
+MSCI;4.2;2000
+Asana;4.1;854
+Analistas Financieros Internacionales;4.4;80
+Latham & Watkins;4.3;722
+Coca-Cola HBC;4.1;1300
+Localiza&Co;4.4;5100
+HMY Group;4.1;91
+Azul - Linhas Aéreas Brasileiras;4.3;2200
+Celgene;3.9;585
+NERA;4.0;361
+Oyster;4.4;210
+University of Maryland;4.3;4600
+ADIF;4.2;66
+University College London;4.2;3500
+Saudi Aramco;4.3;2200
+Tecnatom;4.0;55
+King & Wood Mallesons;4.0;403
+Analysys Mason;4.3;148
+ICICI Prudential Life Insurance;4.4;4900
+Dropbox;4.3;1600
+Tata Motors;4.2;4400
+Seguridad Privada;4.1;228
+Yamaha Motor;4.0;904
+Arm;4.4;2700
+European Bartender School;4.4;97
+TIVIT;4.0;3400
+ICL Group;4.1;365
+Approach People Recruitment;4.6;124
+SSE;4.0;1300
+Chiesi;4.0;439
+ETH Zurich;4.5;2500
+Burns & McDonnell;4.2;1900
+Abante Asesores;4.0;60
+Reed;4.1;1700
+Squire Patton Boggs;4.0;307
+NN Group;4.1;356
+Sun Life;4.1;4400
+Bühler Group;4.1;705
+Telcel;4.1;995
+Ong & Shan;4.1;434
+EPFL;4.5;2000
+J.P. Morgan Asset Management;4.0;1100
+Stone;4.0;6400
+Skello;4.1;115
+Launchmetrics;4.0;86
+Sonnedix;4.7;141
+Zeptolab;4.1;60
+Universidad Pontificia Comillas;4.4;67
+YES;4.2;458
+Raona;4.0;67
+ASDF Web Hosting;4.3;280
+Packlink;4.1;51
+Holmes Place;3.8;149
+Soltec;4.2;99
+ARaymond;4.0;219
+University of Toronto;4.2;6100
+First Republic;4.4;1400
+In-N-Out Burger;4.3;4800
+PSI CRO;4.2;287
+Ramboll;4.0;1500
+Trina Solar;3.9;133
+LexisNexis Risk Solutions;4.0;1400
+INERCO;4.5;56
+BME | Bolsas y Mercados Españoles;4.2;56
+Schroders;4.0;1200
+Exante;4.6;174
+FINEOS;4.1;174
+University of Edinburgh;4.1;1900
+S2 Grupo;4.0;47
+Hospital Clínic de Barcelona;4.1;54
+Techint;4.1;820
+Thales Alenia Space;4.0;163
+Politecnico di Milano;4.0;1100
+Boston University;4.2;3500
+Houlihan Lokey;4.0;679
+Power Home Remodeling;4.5;5200
+IriusRisk;4.6;84
+Synopsys;4.0;4200
+Empresa propia;4.8;96
+Outgive;4.2;632
+Pinsent Masons;4.2;445
+EMBL;4.3;370
+Lumenalta;4.2;313
+Zoho;4.4;4800
+Mercadona Tech;4.0;32
+The Blackstone Group;4.1;837
+Helpware;4.5;930
+Home Select;4.0;67
+NYU Langone Health;4.5;4500
+Belcorp;4.1;550
+ForceManager;4.0;53
+Bouygues Telecom;4.0;1500
+Roquette;4.2;405
+Häagen-Dazs;3.9;386
+Amway;4.0;1400
+CANAL+ Group;4.1;817
+HR Path;4.0;174
+Asesoría Profesional;4.3;88
+Northwestern University;4.1;4000
+SICK;4.2;429
+Children's Hospital of Philadelphia;3.9;1800
+NetRivals;4.3;64
+The Johns Hopkins University;4.1;4100
+SCALIAN SPAIN;4.0;56
+IsGlobal;4.1;53
+Banco Pichincha;4.1;199
+Banorte;4.1;1200
+Vision Factory;4.6;120
+AES Corporation;4.3;1000
+Ejercito Argentino;4.0;797
+Eraneos;4.4;74
+Crisa;4.2;42
+Grainger;4.0;4700
+ConVista Consulting;4.3;102
+Bruce;4.0;75
+Rindus;4.3;51
+Plytix;4.8;36
+Vistex;4.0;393
+PedidosYa;3.9;1300
+Abertis;4.2;46
+Snowflake;3.9;830
+Edpuzzle;4.4;54
+iFood;4.2;3900
+Nubank;4.4;3200
+BI-LO;4.1;939
+Rohde & Schwarz;4.2;751
+Continental Automotive;4.0;283
+Startup Germany;4.2;406
+The Hotels Network;4.6;41
+Anglo American;4.3;1800
+World Food Programme;4.0;1200
+Auth0;4.5;219
+Bancolombia;4.6;636
+Seagen;4.2;428
+Pure Storage;4.0;1000
+SailPoint Technologies;4.6;876
+HACK A BOSS;4.7;59
+Tietoevry;4.1;3400
+Grafana Labs;4.1;163
+Commonwealth Bank of Australia;3.9;7300
+Royal Canin;4.0;635
+Miele;4.3;370
+commercetools;4.1;156
+UC San Francisco;4.1;3100
+Outfit7;4.3;84
+AXA Seguros;4.2;120
+University of Washington;4.2;6300
+Bunge Alimentos;4.2;744
+Campari Group;4.0;397
+Oi;3.9;2800
+Linde Material Handling;4.0;100
+AKWEL;4.1;227
+Otsuka;4.1;617
+Bechtel;4.0;2600
+Empresas Concremat;4.2;756
+UC Davis;4.2;3800
+Six Senses;4.2;91
+Interbank;4.2;395
+Michelin North America;4.0;1100
+Quantexa;4.3;141
+Meraki;4.1;720
+Playtech;4.0;523
+Liberty Seguros Generales;4.5;132
+LawFirm.com;4.0;550
+Ohpen;4.0;71
+Grupo Globo;4.1;1700
+Embraer;4.3;3700
+Generalitat Valenciana;4.0;76
+Blacklane;4.0;195
+Epson Europe;4.1;184
+Statkraft AS;4.3;287
+Grupo SM;3.9;85
+AXA / France;4.0;683
+Dun & Bradstreet;4.0;2400
+Microchip Technology;3.9;2300
+AliExpress;4.2;116
+Appspace;4.0;107
+Automatiq;4.5;96
+Coding Ninjas;4.0;928
+Noname;4.1;245
+Navy Federal Credit Union;4.1;3000
+Generator Hostels;4.1;186
+Sales Manager;4.3;300
+General Dynamics Mission Systems;3.9;1900
+Franklin Trade Graphics;4.0;613
+Telefónica;4.1;81
+Southwest Airlines;4.1;5200
+B-Water Animation Studios;4.0;56
+Pornhub;4.4;306
+Quantum Metric;4.3;232
+Ferrari;4.0;449
+Pivotree;4.0;188
+HomeAway;4.1;58
+Osborne Clarke;4.3;190
+Santander Tecnologia e Inovação;4.1;228
+Shift Technology;3.9;146
+VHIO;4.0;38
+Archetype;3.9;361
+Oriflame;4.0;447
+SES;4.1;504
+Canva;4.1;792
+University of Texas at Austin;4.1;5600
+VFS Global;4.1;1400
+Texas Tech University;4.3;2300
+SAP Ariba;4.0;667
+ARAG Group;3.9;112
+Canal de Isabel II;4.2;55
+Arizona State University;4.3;5900
+Younited;4.2;142
+Genentech;4.1;4700
+Ministério Público Federal (MPF);4.3;952
+Pullmantur;4.5;100
+Slack;4.0;1100
+Empresa confidencial;4.2;118
+Miratech;4.5;135
+Wave;4.4;436
+Spencer Stuart;4.1;542
+UC Santa Barbara;4.3;2100
+Pixie Services;4.1;57
+SonicWall;3.9;1000
+ELPOZO ALIMENTACIÓN;4.1;45
+ABCDEFG;4.0;433
+Universidade Estadual de Campinas (UNICAMP);4.6;1400
+ABN AMRO;4.1;1900
+LCC International;4.2;136
+CHS Inc;4.0;682
+Thirdera;4.6;175
+Chick-fil-A Corporate;4.0;7800
+Selbständig;4.4;472
+OSTC;4.2;203
+Sistema de Cooperativas de Crédito do Brasil;4.3;1900
+Intuit;4.3;11900
+Autentia Real Business Solutions;4.6;23
+Alliant Technology Group;4.1;125
+Hydro;4.3;349
+Impact Hub;4.1;153
+ContourGlobal;4.0;172
+Bharti Airtel;4.0;7000
+NXP Semiconductors;4.1;3000
+RTVE;4.4;57
+Los Alamos National Laboratory;4.1;1100
+Serviço Nacional de Aprendizagem Comercial;4.3;3200
+Beazley Group;4.1;365
+Delft University of Technology;4.4;1600
+H E B;4.2;13200
+Sophos;3.9;1400
+Analysis Group;4.4;676
+Equativ;4.5;193
+Moog Inc.;4.2;1400
+Cloudtalk;4.4;128
+Telstra;4.0;5000
+Rolex;4.0;592
+University of Warwick;4.3;1500
+Construcción;4.0;123
+RELEX Solutions;4.5;327
+Collabera;4.1;4800
+Wikimedia Foundation;4.0;226
+InterSystems;4.2;405
+180 Degree Consulting;4.5;339
+Quiksilver;4.0;472
+Tereos;4.1;728
+CLICARS;4.2;52
+University of Chicago;4.1;3700
+Algar Tech;4.0;3100
+Brambles;4.3;139
+Banca March;3.9;51
+Suffolk University;4.4;441
+Epicor Software;4.1;2100
+Byhours.com;4.6;40
+Wazuh;4.1;53
+The Pestana Group;4.0;177
+Limehome;4.4;55
+Le Wagon;4.3;215
+D-EDGE Hospitality Solutions;3.9;87
+Silicon Valley Bank;4.1;1500
+Bullhorn;4.0;654
+Onyx CenterSource;4.1;63
+ALEX;3.9;239
+Virtual Employee;4.0;850
+Banco Itaú;4.2;724
+Quintas Energy;4.1;40
+AtkinsRéalis;4.1;2700
+ITK Engineering;4.4;98
+University of California Berkeley;4.3;4400
+Christie's;4.0;1100
+Raiffeisen Bank International;4.2;863
+Great Place To Work;4.0;394
+Atencion Al Cliente;4.2;301
+Kuoni Tumlare;4.1;203
+Secret 6;4.1;90
+Payflow;4.1;65
+Servicio de Administración Tributaria;4.0;449
+ClearPeaks;4.3;34
+Miami University;4.1;1000
+Florette;4.3;72
+Zyte;4.3;91
+Market America;4.6;564
+SESCAM;4.2;44
+Arkema;4.0;863
+Mabxience;4.1;96
+Tencent;4.1;2800
+Banco Carrefour;4.1;503
+Tony Roma's;4.3;203
+Empresas ICA;4.0;264
+Tata Steel;4.0;3000
+Superprof;4.1;397
+Arla Foods;4.0;552
+Old Mc Donalds Farm;4.1;632
+pARTicular;4.2;103
+F.C. Barcelona;4.2;55
+Georgia Tech;4.3;4100
+Onebox;4.7;39
+Zup Innovation;4.2;2300
+Payhawk;4.3;60
+Intellect Design Arena;4.1;2400
+Universidad de los Andes;4.5;516
+Vanderbilt University;4.2;2000
+Mouser Electronics;4.0;594
+MyTutor;4.2;1300
+Vectra AI;4.1;141
+Robert Bosch India;4.0;4800
+Pluxee;4.0;315
+JFrog;4.2;385
+Advogada Autonoma;4.4;250
+VILT Group;4.4;98
+Keepler;4.8;25
+Liverpool;4.0;1300
+Privada;4.0;88
+SEB AB;4.0;752
+University of Wisconsin-Madison;4.3;3800
+SMART Technologies;4.3;384
+Washington University in St. Louis;4.1;3300
+Wabi Project;4.0;83
+Verne Technology Group;4.0;41
+Mercedes-Benz Mobility;4.0;349
+Testlio;4.2;190
+Meta IT;4.0;1400
+Instituto Nordeste Cidadania;4.1;704
+Action Behavior Centers - ABA Therapy for Autism;4.1;1600
+IK4-IKERLAN;4.0;38
+Amer Sports;4.0;190
+Lavazza;4.0;264
+Returnly;4.4;45
+Academia;4.1;123
+Rocket Internet;4.1;583
+Cimpa;4.0;176
+IA Interior Architects;4.0;337
+Axon Partners Group;4.8;35
+SEW-Eurodrive;4.3;406
+University of Connecticut;4.2;2000
+KWS Group;4.1;322
+Ekkiden;4.0;47
+Rocket Software;4.2;499
+ALK-Abelló;4.0;100
+Hubtype;4.4;54
+PARTech;4.1;339
+Zensar Technologies;4.0;5100
+Nemak;4.0;714
+Duolingo;4.0;212
+Southern California Edison;4.0;2000
+Couchbase;4.1;413
+Endress+Hauser Gruppe;4.1;571
+Exprivia;4.0;232
+RTI International;4.0;1300
+IBERDROLA Renewables;4.1;60
+Banco Popular;4.2;113
+Globalpraxis;4.1;41
+Quibim;4.9;46
+University of Birmingham;4.1;1300
+Universidade Da Coruña;4.0;42
+Ardian;4.1;293
+AESA;4.2;281
+Paradores;4.1;42
+University of Bristol;4.1;1300
+BOLD;4.0;542
+NovaKid;4.3;377
+AMBAR SOLUCIONES;4.1;34
+Netbuilder;4.3;98
+Freightos;4.1;93
+Morgan McKinley;4.0;768
+United Rentals;4.0;2200
+Ipiranga;4.1;1300
+Susquehanna International Group;4.1;999
+The Multiplayer Group;4.3;60
+Topcon Positioning Systems;3.9;242
+Sollers Consulting;4.0;104
+University of Alabama at Birmingham;4.0;1400
+Tata;4.0;1300
+NDA;4.2;147
+University of Murcia;4.3;46
+Antea Group;4.0;335
+Prefeitura de São Paulo;4.1;2000
+Alaska Airlines;3.9;1600
+Guy Carpenter;4.0;412
+LEXIDY;4.1;29
+SOAINT;4.2;87
+Voith;4.0;966
+Tinkle;4.2;42
+Hero MotoCorp;4.0;1700
+KSB;4.0;592
+AXA UK;4.0;741
+BMW;4.2;253
+El Ranchito;4.3;50
+Organon;3.9;367
+Furukawa Electric Group;4.2;440
+SENAI;4.3;2200
+Driscoll’s;4.3;347
+Technical University of Denmark;4.3;653
+Simmons & Simmons;4.0;241
+Abacum;4.5;51
+AB Tasty;4.1;125
+Grupo SURA;4.3;440
+PayXpert;4.2;50
+TATA ELXSI;4.0;3500
+Hilti North America;4.0;1700
+BCNC GROUP;4.6;44
+CAF Signalling;4.0;40
+Navis LLC;4.0;215
+Grant Solutions (Spain);4.5;72
+Smadex;4.1;33
+Votorantim;4.0;733
+DDD;4.0;171
+ISEC;4.1;219
+BEKO;3.9;159
+Student Works;4.1;791
+A10 Networks;4.0;375
+Dirk Rossmann GmbH;4.0;295
+Constructora San José;3.9;45
+HELLO;4.1;293
+IFC;4.2;1100
+Exelon;4.1;1400
+DEME;3.9;324
+P3 Group;4.0;347
+Linical;4.0;87
+MaibornWolff;4.6;93
+Case Western Reserve University;4.1;1400
+DreamWorks Animation;4.1;732
+EA Sports;4.0;159
+DD;4.0;164
+NASA Jet Propulsion Laboratory;4.3;1600
+Artefact;4.1;408
+PrimeXBT;4.7;209
+University College Dublin;4.3;978
+Self Employed Chicago;4.3;717
+University of Glasgow;4.2;1100
+ResMed;4.1;1100
+Pelmorex Corp;4.0;141
+Alicorp;4.3;330
+UC Irvine;4.2;2800
+Arca Continental;4.0;497
+World Vision International;4.0;1200
+Sunhero;4.2;36
+Spryker Systems;4.1;147
+AppleOne;4.0;1800
+SimCorp;4.0;330
+Mabe;4.2;607
+TutorABC;4.3;445
+Despacho Jurídico;4.1;115
+University of Nottingham;4.1;1700
+Texas A&M University;4.4;6200
+CIEE (Brazil);4.1;1800
+Brown University;4.4;1500
+Luckia Games;4.0;39
+Aguas de Barcelona;3.7;33
+AvaiBook;4.2;23
+Chethan's Charters- GD FEA Employer;4.4;237
+GOL Linhas Aéreas;4.0;2900
+Moss Adams LLP;4.0;1300
+Chegg;4.1;3600
+Kodify;4.8;33
+McGill University;4.1;3100
+Cinesa;4.1;48
+SAIC;4.0;4700
+Savana;4.2;44
+Marlex Human Capital;4.0;36
+Renfe;4.3;33
+Wix;4.0;1900
+SUNY Buffalo;4.3;1700
+Krones;4.1;515
+Junta de Castilla y León;4.2;36
+SPDM - Associação Paulista para o Desenvolvimento da Medicina;4.0;3000
+Zeotap;4.3;132
+Wargaming;4.2;767
+Spendesk;3.9;286
+Seattle University;4.1;534
+Syneos Health Commercial Solutions;4.0;300
+Pixar Animation Studios;4.5;333
+Digital Realty;4.0;609
+Planview;4.3;443
+Grupo Marista;4.2;842
+NextLink Solutions;3.9;75
+Lola's Cupcakes;4.0;207
+Fabletics;4.3;411
+Oil and Natural Gas;4.2;1300
+Uriach;4.2;24
+University of Leeds;4.3;1400
+LSE;4.4;1100
+NEURAXPHARM;4.0;31
+Exército Brasileiro;4.3;5500
+HedgeServ;4.0;552
+ADNOC Group;4.0;971
+Ikusi;4.2;73
+Hootsuite;4.0;805
+Ergeon;4.8;532
+University of Missouri;4.0;2200
+Prologis;4.6;478
+IDT;4.2;395
+Cervecería y Maltería Quilmes;4.2;778
+Palfinger;4.1;164
+McCain Foods;4.0;797
+Farmacia San Pablo;4.1;229
+Teralco Group;4.4;20
+Easyfairs;4.1;127
+Domino Printing Sciences;4.4;243
+MTP Métodos e Tecnologia – Brasil;4.1;78
+Universidad Católica de Murcia;4.0;35
+University of Sydney;4.2;1600
+Zurich Santander Insurance America;4.2;148
+Evercore Partners;4.4;384
+project44;4.1;456
+Frit Ravich;4.1;40
+Raising Cane's;4.1;4800
+Crimson Education;4.1;591
+ITnow;3.9;37
+Bol.com;4.2;500
+MANE;4.1;329
+Serede;4.0;1600
+Georgetown University;4.1;2100
+Extra Space Storage;4.2;2800
+Baufest;4.0;390
+SESC;4.3;2400
+Universal Orlando Resort;4.0;2200
+Morgan Philips Group;4.0;129
+Zabala Innovation Consulting;4.0;39
+Florida International University;4.1;2400
+Coca Cola Andina;4.1;1100
+Grohe;4.0;201
+L'Oréal Professional Products;4.4;184
+Purdue University;4.3;4800
+University of British Columbia;4.2;5000
+University of Florida;4.2;4300
+Publitas;4.6;81
+Random;4.2;190
+Ravago;4.0;204
+Carhartt;4.1;340
+Agile Content;4.0;119
+University of Newcastle (UK);4.1;867
+Entel;4.2;349
+Darden;4.0;2700
+Secretaría de Educación Pública;4.1;972
+Perfetti Van Melle;4.0;478
+University of Jaén;4.1;37
+IMC Trading;4.1;354
+Raízen;4.1;4500
+United States House of Representatives;4.0;2200
+Maastricht University;4.2;521
+NFQ;4.1;56
+Max-Planck-Gesellschaft;4.4;934
+Mondragon University;4.4;34
+EasyPark Group;4.2;111
+BIDA FARMA;4.0;33
+Famosa Toys;4.3;42
+Calypso Technology;4.0;331
+Icomon Tecnologia;4.0;733
+CT;4.2;273
+AHEAD;4.0;492
+SentinelOne;4.4;610
+M. Dias Branco;4.2;1400
+NATO;4.3;339
+BlueTriton Brands;4.5;1300
+University of Sheffield;4.3;1200
+BNBuilders;4.2;118
+United Bank for Africa;4.0;1800
+GLOBO;4.3;539
+Celebrity Cruises;4.0;694
+NDT Global;3.8;96
+Haier Europe;4.0;232
+KPN;4.2;814
+Stayforlong;4.3;22
+Ajuntament de Barcelona;4.1;38
+Omada;4.5;120
+Day Translations;4.8;722
+mindcurv, part of Accenture Song;4.4;105
+Riachuelo;4.0;5800
+Badger Maps;4.6;89
+Aperam;4.1;535
+RAC;4.2;611
+Universitat Internacional de Catalunya;4.2;42
+NeoDocto;4.8;7300
+Grab;4.0;4600
+The Hackett Group;4.0;711
+Groupe Atlantic;4.1;239
+CMS Legal;4.0;96
+Happy Scribe;4.6;46
+Lighthouse;4.2;85
+Autovista Group;4.4;69
+Vall d'Hebron University Hospital;4.4;29
+Ista;4.0;112
+Box;4.3;1200
+Casa da Família;4.3;229
+TU Munich;4.1;1500
+Ecommerce;4.4;245
+Environmental Protection Agency;4.2;1100
+University of Illinois at Urbana-Champaign;4.4;4200
+Iplay N Talk;4.2;83
+Limpieza Total;4.0;67
+Empresas Polar;4.5;185
+Hymans Robertson;4.3;184
+Product People;4.4;47
+Kenjo;4.1;43
+RWTH Aachen University;4.4;1200
+MAG Seguros;4.3;791
+EQS Group;4.0;121
+Direct Travel;4.2;286
+Scandit;4.1;142
+Resideo;4.3;627
+Yale University;4.1;3000
+Nonya;4.2;144
+Samsara;4.3;1100
+University of Girona;4.0;36
+Cuideo;4.8;26
+ISDI;4.3;49
+Swisscom;4.0;1000
+DataStax;4.1;584
+Vertex Pharmaceuticals;4.2;1300
+LATAM AIRLINES GROUP;4.2;234
+Cornell University;4.3;3600
+Pepito;4.2;64
+Risk Management Solutions;4.0;751
+Otto Group Solution Provider;4.0;27
+Rijksuniversiteit Groningen;4.4;658
+Incentro;4.4;103
+University of Utah;4.2;3300
+Indraprastha Institute of Information Technology, Delhi;4.3;210
+University of Texas at Arlington;4.2;2000
+Adform;4.3;179
+ConocoPhillips;4.2;1700
+Brigham Young University (BYU);4.5;4800
+Latam Linhas Aéreas;4.1;953
+Trimble;3.9;1600
+Pan American Energy;4.3;378
+LoveToKnow Media;4.1;55
+Kaseya;4.1;1800
+Pratt & Whitney Canada;3.9;822
+Avon;4.1;178
+Government of Canada;4.0;3100
+ECIJA;4.0;35
+Informa;4.0;1700
+EOS Group;4.1;252
+Altia;4.2;24
+Workana;4.2;312
+Infoverity;4.1;34
+Marco;4.1;247
+Self Employed Womens Association;4.4;1100
+DIRECTV Latin America;4.1;397
+Aston Carter;4.1;2200
+Michigan State University;4.3;3500
+Ternium;4.3;1200
+Emory University;4.1;3000
+Bit2Me;4.0;33
+Expedia (IT);4.1;165
+Save the Children International;4.0;800
+Onepilot;4.2;194
+San Juan USD - Sacramento County;4.0;346
+Varonis Systems;4.0;999
+Go Concept;4.3;219
+Invensity;4.1;86
+Universidad de Cantabria;4.1;38
+Kimitec Group;4.2;29
+Invisible Technologies;4.0;350
+StoneX;4.0;613
+Edmond de Rothschild;4.0;307
+Simon Fraser University;4.1;1800
+Waiter;4.0;176
+Kimia Solutions;4.9;39
+TMC;4.0;380
+AURORA;4.0;640
+Arista Networks;4.1;1100
+Northeastern University;4.2;3400
+Axon;4.0;667
+Tokio Marine Holdings;4.1;567
+Employer Flexible;4.1;319
+KIT;4.2;1100
+Franke;4.1;231
+Renault Trucks;4.1;298
+Nanyang Technological University;4.0;4100
+Toggl;4.4;70
+Grant Thornton UK LLP;4.0;1300
+Syracuse University;4.2;1800
+Locaria;4.4;43
+Comedy Central;4.2;205
+Tufts University;4.1;1500
+Université de Genève;4.2;531
+Ericsson IT Solutions & Services;4.1;919
+University of Illinois Chicago;4.1;3100
+Nasdaq;4.1;1300
+Market Managers;4.1;280
+Amadeus;4.3;72
+Qida;4.1;39
+Consejería de Educación y Universidades;4.1;35
+Catalan Institute of Nanoscience and Nanotechnology;4.3;33
+Yuki;4.2;37
+Sensorfact;4.1;66
+North Carolina State University;4.2;3000
+The University of Massachusetts Amherst;4.3;1700
+Ambev Tech;4.0;1200
+athenahealth;4.0;2600
+Trabajador independiente;4.3;218
+Wasserman;4.2;360
+Policía de la Ciudad;4.0;292
+Bridge for Billions;4.8;31
+alfanar;4.2;308
+FEMSA;4.2;804
+Laboral Kutxa;4.2;37
+Libbs Farmaceutica;4.4;957
+San Miguel;4.0;329
+Niñera;4.0;210
+Sales Layer;4.7;39
+Icade;4.0;117
+Danish Refugee Council;4.1;650
+Daimler Truck AG;4.2;372
+Bosch Global Software Technologies;4.0;1800
+Teaching Personnel;4.0;583
+Sotheby's International Realty;4.2;524
+Atkins;4.0;2800
+Nikki Beach;4.0;89
+Acttiv Leisure Projects;4.0;36
+DESPACHO PROPIO;4.6;61
+TechData Service Company;4.1;49
+Illinois Institute of Technology;4.0;990
+Casafari;4.4;74
+[24]7.ai;4.2;3900
+CSG;4.1;1400
+Avito;4.5;290
+Intelygenz;4.2;50
+Consolidated Electrical Distributors;4.2;787
+BetVictor;3.9;146
+Belmond;4.0;257
+Your New Self;4.5;33
+uefa;4.4;129
+Lombard Odier;4.2;341
+Jet;4.0;527
+Enza Zaden;4.4;74
+Iteris Consultoria e Software;4.2;702
+University of Exeter;4.2;858
+Westernacher Consulting;4.5;168
+Grupo Avintia;4.0;28
+Solar BR Coca Cola;4.1;1600
+TNO;4.0;408
+MKTG;4.2;492
+The Scripps Research Institute;4.2;640
+Enzen;4.3;273
+Brunel;4.1;818
+Reale Seguros;4.2;25
+CNPq;4.1;1000
+Groupe Bel;4.1;350
+Cox Automotive;4.0;2200
+Deltek;4.5;1600
+Virginia Tech;4.3;2700
+U.S. Senate;4.2;1400
+Triple-S Steel;4.1;128
+Universitat Autònoma de Barcelona;4.2;29
+GoldenRace;4.0;24
+GoPro;4.2;506
+Kraken;4.7;79
+Communities & Local Government;4.1;452
+Clínica Dental;4.1;40
+University of Valladolid;4.0;30
+University of Colorado Boulder;4.3;2500
+Imdea Materiales;4.4;38
+Cooltra Motos;4.0;37
+CECA MAGÁN ABOGADOS;4.3;22
+EPI-USE;4.3;244
+Kinross Gold;4.0;407
+Cosmic365AI;4.6;6700
+On My Own;4.3;254
+Capital Group;4.1;2400
+Sweatcoin;4.6;86
+Pfizer Limited;4.1;487
+ABC Supply Co.;4.0;1400
+Synechron;4.2;5600
+Redis;4.4;198
+Hulu;4.0;954
+AuPairWorld;4.0;205
+University of Virginia;4.2;2400
+Acorio;4.5;84
+MULTIPLICA TALENT;4.1;95
+Omexom;4.2;116
+Aché Laboratórios Farmacêuticos;4.2;1500
+PubMatic;4.0;530
+MadBox;4.9;43
+Red Arbor;4.1;18
+Deutsche Börse Group;4.1;722
+VINCI Construction;4.0;808
+Axis Studios;4.1;153
+Lucca;4.4;93
+Escritório de Advocacia;4.4;1400
+Ágora;4.1;145
+Hamburg Süd;4.3;419
+Subsea 7;4.2;1300
+Kabel;4.2;28
+Pagero;4.2;52
+Fractal;4.1;2100
+Livestorm;4.7;80
+Sastrify;4.4;49
+WGSN;4.1;262
+Emprendimiento propio;4.4;274
+IMDEA networks;4.3;24
+Dufry do Brasil Duty Free Shop;4.0;591
+Stolt-Nielsen;4.0;220
+University of Central Florida;4.0;2600
+InnoIT;4.1;23
+EPO;3.9;210
+Copperleaf;4.4;134
+TalentWorldGroup;4.0;82
+Dazeworks;4.4;341
+Hospital Israelita Albert Einstein;4.5;2700
+Novonor;4.3;1300
+Compte-Nickel;4.0;95
+Cpl Resources;4.1;1200
+DNV;4.5;125
+City of Toronto;4.1;2400
+Randoncorp;4.2;530
+Fedrigoni Group;3.9;86
+MyCompany;4.2;145
+Proxya;4.0;23
+Bdeo;4.1;21
+Poder Judicial de la Nación;4.0;319
+Time2play Media;4.3;44
+ENCE;4.1;22
+Current;4.2;503
+Cargill;4.0;455
+LiveScore Group;4.1;129
+Undisclosed Location;4.1;99
+JGC;4.2;298
+Nintendo of America;4.1;449
+Fundação Getulio Vargas;4.0;1300
+Domo;3.9;679
+SupportYourApp;4.7;736
+Parsons Corporation;4.0;2100
+Alphabet (GB);4.0;114
+PROS;4.3;686
+Aecon;4.1;727
+Patagonia;4.2;710
+DANIEL;4.1;159
+Online Data Entry Job;4.2;620
+EGYM;4.1;108
+CrowdFarming;4.0;24
+BUSINESS NETWORK BUILDERS;4.8;33
+San Diego State University;4.2;1300
+Televisa;3.9;580
+Inria;4.3;763
+Deezer;4.2;424
+Louis Berger;4.0;360
+Auxiliares de Conversación;4.0;46
+The Business Year;4.0;87
+UCI;4.1;123
+Energy Sistem;4.7;28
+Circe;4.2;28
+HDR;4.2;1700
+Metalsa;4.1;779
+Clue (Spain);4.4;26
+Gradiant (Spain);4.0;24
+Skanska;4.0;617
+Storyblok;4.2;78
+Linx;4.0;2100
+Modine Manufacturing;4.0;361
+KLM;4.0;601
+EPLAN;4.0;72
+Blinkist;4.2;120
+The Perfume Shop;4.0;473
+Vector Group;4.3;186
+Liderança Serviços;4.0;537
+Amex Interior;4.3;188
+4flow;4.5;145
+Secret Source;4.8;30
+UPCT;4.0;31
+BP - A Beneficência Portuguesa de São Paulo;4.1;1100
+S & P Global;4.1;365
+Xceed;4.8;38
+BC Public Service;4.0;496
+Comau;4.0;727
+Cielo;4.0;2200
+Microverse;4.6;165
+Right Management;4.1;605
+Cinfa;4.5;26
+OPINATOR;4.1;26
+Telenor;4.0;1400
+Endeavor Global;4.2;309
+DIGIMIND;4.1;183
+Bax & Company;4.4;26
+COSMO CONSULT;3.9;50
+Leaders Romans Group;4.1;661
+Infinera;4.1;922
+CNMC;4.1;36
+Lean Solutions Group;4.1;461
+Factoría F5;4.6;39
+persona service;4.1;173
+Veolia;4.1;197
+Bookiply;4.5;48
+Moi Même;4.3;317
+Deimos;4.2;52
+Eppendorf;4.0;264
+Activa;4.1;52
+Vector Solutions;4.0;274
+COMMON Management Solutions;4.1;20
+Viena Restaurante;4.2;78
+Severn Trent;4.5;873
+Multivision (Illinois);3.9;36
+Make;4.8;79
+CIMA+;4.1;242
+Novatec Consulting GmbH;4.6;32
+TKWW;4.0;31
+RBB Economics;4.1;46
+Softcat;4.3;681
+Goodnotes;5.0;37
+Colorado State University;4.2;2000
+Familiar;4.1;75
+Lockton Companies;4.2;1800
+Faster;5.0;27
+BA Continuum India;4.2;2500
+DuckDuckGo;4.6;29
+Barcelona Activa;4.5;25
+Metrohm;4.0;90
+Fidessa;3.9;467
+Transport for London;4.0;1700
+CNP Assurances;4.2;292
+NTNU;4.3;521
+University of Auckland;4.2;1100
+Sterling and Wilson;4.0;481
+Information Technology Institute;4.2;446
+Teleflex;4.0;966
+ESI Group;4.0;238
+APPINIO;4.3;50
+Buro Happold;4.0;668
+JDE;4.1;153
+AppNexus;4.0;305
+Boiron;3.9;151
+QUODAGIS;4.6;42
+Campofrío;4.0;28
+Nottingham Trent University;4.2;599
+Naval Group;4.1;578
+Clearwater International;4.4;57
+Wesser und Partner;4.0;51
+Lancaster University;4.3;599
+Thiga;4.3;39
+Canada Revenue Agency;4.0;2000
+Centro de Estudos e Sistemas Avançados do Recife - C.E.S.A.R;4.0;880
+University of Oklahoma;4.2;1800
+:Tappx;4.5;25
+BSH Home Appliances USA;4.0;251
+Kepler Cheuvreux;4.0;204
+Chess.com;4.6;114
+Maxion Wheels;4.3;373
+AAAS;4.0;238
+Synchronoss;4.2;657
+Whitespectre;4.9;57
+Greenalia;4.3;11
+Lightsource BP;4.3;140
+Alcoa Alunimio;4.3;107
+Sergas;4.1;39
+Instituto Tecnológico de Informática;4.3;34
+Nuvei;4.0;242
+ECOVIS;4.0;198
+CTI Clinical Trial and Consulting Services;4.3;130
+Didi Chuxing;4.0;1100
+Iris Software;4.0;2000
+US Agricultural Research Service;3.9;414
+Manychat;4.4;57
+vidIQ;4.5;75
+IESO;4.4;207
+Camunda;4.5;112
+TestGorilla;4.8;59
+24i;4.2;56
+IAV;4.3;375
+Enterprise Business Solutions;4.1;73
+Nomasystems;4.6;15
+Autoempleada;4.3;79
+IIT Madras;4.3;1200
+CME Group;4.0;1500
+X-Team;4.6;222
+Popular;4.1;378
+ITRS Group;4.2;84
+ESCP Europe;4.2;221
+Bloom Consulting;4.1;62
+Photon;4.0;2100
+Comet (NY);4.2;37
+GRANDISON MANAGEMENT;4.0;59
+Standard Bank Group;4.2;2100
+Ryan, LLC;4.2;1800
+Relais & Châteaux;4.0;81
+banco BV;4.3;1800
+FFF Enterprises;3.9;141
+Nuvolar Works;4.4;43
+University of Buenos Aires;4.0;480
+Up Group (France);4.4;92
+IMCS Group.;4.0;151
+Loughborough University;4.3;593
+University of Notre Dame;4.5;1600
+AgileEngine;4.5;348
+Cognodata Consulting;3.9;27
+J J J Microsystems;4.3;114
+Altria;3.9;1500
+Smartpricing;4.6;62
+Swvl;4.3;335
+JobTeaser;4.0;185
+CSU Sacramento;4.1;530
+U.S. General Services Administration;4.4;736
+Nexus;3.9;139
+Union Bank;4.0;1600
+Tribe.Xyz;4.6;55
+Universidade Federal de Santa Catarina (UFSC);4.5;593
+University of Texas at El Paso;4.1;871
+Talent Garden;4.1;55
+KIO Networks;4.1;237
+Taxdown;4.1;23
+MGID;4.7;119
+Hollis;4.1;141
+MST Solutions;4.1;109
+HN Services;4.2;151
+Hexacta;4.2;309
+cargo.one;4.1;53
+Universidad de Almería;4.3;23
+Innio;4.0;189
+Sharp HealthCare;4.0;1500
+Arcese;4.0;60
+IDP Education;4.1;1100
+Q8;4.0;99
+CLAAS;4.2;251
+Starmind;4.1;81
+impact.com;4.0;330
+Nintex;4.2;453
+Schrödinger;4.2;141
+Tupy;4.0;901
+Rentals United;4.1;25
+Silverado;4.1;491
+ATG Europe;4.1;38
+Retail Renault Group;4.6;237
+Silverado;4.1;491
+Kaiser Group;4.3;203
+Rentals United;4.1;25
+ATG Europe;4.1;38
+Tulane University;4.0;1500
+Receptionist and Staff Resources;4.2;113
+Neuroelectrics;4.2;14
+Mercuri Urval;4.2;155
+Farmoquímica;4.0;357
+Drexel University;4.0;1400
+Tavant;4.2;1500
+Full On Net;4.1;19
+Integra Micro Software Services (P);4.1;375
+Airbus Opérations;4.3;64
+Cocomore;4.0;42
+SEO;4.3;252
+Avance Consulting;4.6;280
+isolutions;4.6;24
+SGS Consulting;4.3;372
+Innohub Technologies;4.4;172
+Code Ninjas;4.1;934
+Monash University;4.2;1700
+Rice University;4.3;1500
+Kier Group;4.1;1300
+iad;4.1;125
+Cajero en BBVA;4.2;69
+CCI;4.1;464
+Prodiel;4.1;36
+SDF Group;4.2;161
+Selbstständig;4.7;193
+EDRINGTON UK;4.1;48
+OZON.ru;4.3;427
+The Information Lab;4.6;94
+Médicos Sin Fronteras;4.1;115
+U.S. Food and Drug Administration;4.3;1300
+Placo;4.0;78
+University of Melbourne;4.3;1600
+Crossvale;4.1;52
+Arcano;4.2;24
+Berkshire Hathaway;4.2;1000
+MVST.;4.6;16
+Business Innovation Consulting Group;4.0;20
+Caja Rural de Granada;4.6;29
+SYSTRA;4.1;816
+ALSAC/St. Jude Children's Research Hospital;4.1;590
+Next Digital Hub;4.3;17
+Universität Zürich;4.2;748
+Bosch Sicherheitssysteme;4.1;289
+Gallup;4.4;1000
+Atrium;4.2;392
+Bridgestone Industrial Products;4.1;76
+Simon Electric;4.4;28
+Intermedia;4.5;518
+Merit Group;4.0;420
+Mutual of Omaha;4.0;1300
+OCS Group;4.5;982
+Frontline Performance Group;4.4;145
+WD-40 Company;4.3;97
+University of Bath;4.2;736
+Copa Airlines;4.2;363
+Lefebvre Sarrut;4.2;55
+CSA Group;4.1;269
+Stoller Group;4.4;169
+Blu Selection;4.5;20
+UC Santa Cruz;4.0;1500
+Lesaffre;4.1;188
+Molinos;4.0;249
+San Diego Gas & Electric;4.0;441
+Mendix;4.3;399
+CEMIG;4.2;820
+IUCN;4.1;177
+Bryden Wood;4.1;49
+Lawrence Berkeley Lab;4.2;1200
+Rijk Zwaan;4.4;61
+Chubb Insurance;4.0;248
+Generation;4.2;127
+SBM Offshore;4.2;766
+Drinks&Co;4.2;25
+Colégio Bom Jesus;4.0;263
+CMS Cameron McKenna;4.0;297
+iC Consult;4.4;109
+Profile Software Services;4.2;16
+TBD;4.0;130
+ESET;4.1;362
+Heytutor;4.6;457
+Kromberg & Schubert;4.0;376
+Woffu;4.2;25
+Optiva;4.2;340
+KAYAK;4.4;406
+TRT;4.0;271
+Monsanto Agricultura;4.1;251
+Mau Nenhum Açaí e Doceria;4.3;435
+roadsurfer;4.3;58
+The University of Alabama;4.2;1500
+Oxigent;4.3;19
+FCC Construcción;4.2;36
+INVERTO;4.1;117
+Nintendo;4.3;144
+Hines Interests Limited Partnership;4.4;626
+Virtuagym;4.0;191
+Zambon Group;4.0;62
+Squad;4.4;498
+Transports Metropolitans;4.2;20
+LeanIX;4.3;190
+Hector Kitchen;4.2;31
+Universidad Nacional de Córdoba;4.0;198
+Teekay;4.0;249
+WalkMe;4.1;619
+Apiumhub;4.2;21
+Automobili Lamborghini;4.3;225
+BigCommerce;4.0;450
+YO;4.5;70
+Genera Games;4.0;26
+Royal Vopak;4.1;261
+RocketROI;4.4;20
+GRUPO EOSOL;4.3;32
+Kerakoll;4.0;63
+Katoo;4.0;27
+Enaire;4.5;18
+MRS Logistica;4.3;1300
+Basis Technologies;4.2;449
+DigiCert;4.0;390
+Kroton Educacional;4.0;1300
+Zeelo;4.6;48
+Hexion;4.0;290
+iMedX;4.0;343
+Natura;4.1;59
+Cast Group;4.2;1200
+Kiron;4.2;44
+tesa;4.0;278
+Seneca Polytechnic;4.3;771
+University of Strathclyde;4.3;620
+Verint;4.0;1200
+Universiteit Van Amsterdam;4.3;693
+TrasaTEC;4.0;20
+Endemol Shine Group;4.1;223
+Freeport-McMoRan;4.0;1200
+Concordia University;4.2;1600
+Centrica;4.0;1100
+Cirrus Logic;4.0;378
+Kansas State University;4.2;1200
+Forter;4.0;179
+LOGNEXT;4.3;21
+Man Energy Solutions;4.1;441
+Clinica Universidad de Navarra;4.2;18
+SOUTHWORKS;4.3;133
+Managment Solutions;4.1;29
+Triptease;4.7;97
+Reinsurance Group of America;4.0;592
+Futures First;4.1;970
+Zydus Lifesciences;4.5;965
+DRW;4.1;323
+ALIGHT;4.1;78
+Chinese University of Hong Kong;4.1;1600
+University of Valencia;4.1;24
+Sistema FIRJAN;4.2;685
+Seera;4.0;125
+Legal & General;4.0;1000
+Apsen Farmacêutica;4.4;432
+Grupo Júlio Simões Logística (JSL);4.0;1300
+Sol-ARCH;4.2;168
+Atlantic Health System;4.0;1200
+Loop;4.1;179
+The Nature Conservancy;4.1;1000
+Gotoco;4.8;533
+RatedPower;4.5;24
+SERVIMED Comercial;4.2;233
+Penguin Random House Grupo Editorial;4.4;33
+TRGT Digital;4.8;31
+LUISS;4.1;260
+Farma Zambon;4.3;104
+Terminal XXXIX;4.1;55
+Big 4 Consultancy Firm;4.0;191
+STILL;4.0;124
+Gofore;4.2;68
+Descartes Systems;4.0;234
+Littelfuse;4.0;564
+Tressis;4.3;25
+Native Camp;4.1;1300
+Brooks Running;4.5;241
+Telecinco;4.0;23
+Viessmann Group;4.0;203
+RBA;4.3;105
+Porsche Cars North America;4.2;290
+DeVry University;4.2;1400
+CCU;4.0;236
+Instituto de Pesquisas ELDORADO;4.4;1100
+VK;4.1;623
+BVNK;4.3;103
+University of Idaho;4.1;594
+Tredence;4.1;1100
+Universidad de Guadalajara (UDG);4.0;324
+DPR Construction;4.2;818
+Murex;4.4;1100
+Ingka Group;4.0;79
+Fonterra;4.0;651
+Arkas Holding;4.3;92
+ASAAS;4.5;451
+ironSource;4.1;337
+OmniAccess;4.0;18
+Agorapulse;4.7;119
+Capfun;4.1;120
+DEXMA;4.6;21
+ITB;4.3;362
+Colectivos Vip;4.0;21
+Sony Interactive Entertainment;4.0;152
+Stack Builders;4.5;109
+Callink Servicos de Call Center;4.0;925
+S4G Consulting;4.0;38
+El Comercio;4.1;131
+Forcepoint;4.0;1200
+Close Brothers;4.1;445
+e2y;4.6;24
+Jaro Education;4.5;1600
+University of Guelph;4.2;1100
+Banrisul;4.3;1300
+The Retail Performance Company;4.1;48
+TAG Heuer;4.0;145
+Driver Hire;4.3;254
+Ignis;4.0;26
+Popcarte;4.4;23
+Miebach Consulting;4.0;106
+Embibe;4.0;1500
+AutoScout24;4.0;95
+University of Southampton;4.2;1100
+Vassar College;4.4;307
+innocent;4.2;211
+Pacifico Seguros;4.4;128
+Akuaro;4.3;25
+Italdesign Giugiaro;4.1;56
+Centro Universitário Una;4.1;286
+Bitdefender;4.0;303
+Runroom;4.7;20
+Voxy;4.1;135
+B-Reel;4.1;46
+Fluendo;4.0;29
+ProjectManager;4.5;91
+University of Aberdeen;4.1;358
+Porsche Consulting;4.3;278
+COPASA;4.0;70
+Rolls-Royce Power Systems;4.0;303
+Grupo CCR;4.2;1200
+Nextiva;4.2;1100
+Midokura;4.2;13
+Vidrala;4.0;37
+Ecopetrol S.A.;4.1;282
+Globe Telecom;4.1;1200
+SABESP;4.2;1300
+Equinor;4.4;967
+INFUSE;4.3;237
+99;4.0;1000
+monday.com;4.2;534
+Rose International;4.3;1200
+Agencia Tributaria;4.5;23
+Associated Press;4.0;402
+Heetch;4.0;101
+ShipBob;4.3;374
+WriterBay.com;4.3;296
+Tidio;4.5;65
+NEDGIA;4.0;17
+VIP Staffing;4.3;51
+Intelbras;4.3;1000
+GENERAL DENTISTRY;4.0;164
+Obramax;4.7;211
+J-PAL;4.1;314
+Telekom Malaysia;4.2;1400
+Pentasia;4.5;29
+Esker;4.6;245
+Translated;4.3;121
+Liconsa;4.0;45
+General Optica;4.0;24
+OHLA Group;4.4;27
+Caixa;4.2;138
+arrivia;4.3;964
+Marcopolo;4.3;609
+Universiteit Gent;4.2;568
+Sojern;4.2;291
+Komatsu;4.0;984
+TU Darmstadt;4.3;567
+AlixPartners;0.0;733
+Elisa Corporation;4.1;145
+Etsy;4.0;588
+Propio;4.1;101
+Dentaid;4.0;24
+Manufacture 2030;4.0;40
+Opera Software;4.0;167
+Zenefits;4.1;710
+SIG Group;4.2;271
+The AA;4.2;940
+CREADIS;4.3;31
+Comet Global Consulting;4.2;25
+Universiteit Utrecht;4.3;489
+Orkla;4.0;69
+Corus Consulting;4.3;33
+CEO;4.3;93
+Banamex;4.1;1000
+University of Reading;4.2;515
+Plarium;4.2;227
+Enfermera Particular;4.2;156
+Tink Profitabilité Numérique;4.7;81
+Upstack;4.7;133
+Universidade Federal do Rio de Janeiro;4.3;1200
+Qualifyze;4.0;23
+Brightcove;4.0;374
+komoot;4.5;46
+Technische Universität Dresden;4.3;529
+Algofy;4.9;11
+Grupo Ortiz;4.0;23
+Mediaset España;4.3;26
+Lallemand;4.0;183
+CLARO;4.1;286
+Enfusion;4.1;387
+Pão de Açúcar;4.0;664
+IDeaS - A SAS Company;4.3;244
+Santiago Ways;4.1;30
+Colégio Visconde de Porto Seguro;4.1;363
+Xandr;4.1;268
+Haivision;4.3;68
+Edgewell Personal Care;4.0;504
+Gartner Studios, Inc;4.0;53
+CAL POLY;4.3;1100
+Smilegate;4.2;49
+Neoenergia;4.1;981
+HEARST;4.0;44
+Power Digital Marketing;4.0;406
+Mindera;4.4;252
+Redbooth;4.3;37
+ACR Homes;4.3;375
+EUROCONTROL;4.0;93
+The Intern Group;4.2;79
+King Abdullah University of Science and Technology;4.5;773
+Jhonson & Jhonson;4.2;78
+TED Conferences;4.3;240
+DeepL;4.1;52
+Tyk;4.0;62
+Camden Property Trust;4.4;850
+Financial Times;4.3;823
+Maier Group;4.1;19
+Synergy Manhattan;4.1;153
+PriceLabs;5.0;29
+Globalia;4.0;31
+Swansea University;4.2;506
+WeRoad;4.6;63
+Host;4.0;688
+Cookpad;4.0;66
+ISAGRI;4.1;119
+Apisero;4.3;876
+Blue Square;4.1;283
+Centauro Loja de Esporte;4.0;1100
+Geosyntec Consultants;4.0;347
+Groupe de l'Etudiant Marocain;4.0;114
+Eames Group;4.1;128
+Utility Warehouse;4.0;687
+Kainos;4.2;586
+Homa;4.2;67
+Staff Management SMX;4.2;990
+Copisa Grupo;4.0;18
+HM.CLAUSE;4.1;191
+Fivestars;4.0;295
+EIT Urban Mobility;4.1;30
+Absolute Internship;4.5;27
+ADAMA Agricultural Solutions;4.0;373
+Acciona IT;4.0;148
+Guest Ready;4.0;96
+Incyte;4.0;184
+Keytree;4.4;48
+Chili Piper;4.4;91
+Telemarketing Company;4.0;134
+Monster Energy Company;4.0;246
+Eze Software;4.1;609
+Embry-Riddle Aeronautical University;4.0;911
+Axion Energy;4.0;247
+NDA;4.2;77
+Universidade de Brasília (UBN);4.3;554
+ESSS;4.1;109
+Circle Internet Financial;4.2;150
+Teamware Solutions;4.5;1600
+US Department of Health and Human Services;4.1;787
+Blue Zoo;4.3;101
+Serikat;4.0;19
+PTV Group;4.1;70
+Narcotics Anonymous World Services;4.2;555
+UFV;4.5;140
+Avanttic;4.4;25
+PSC Biotech Corporation;4.4;324
+Unilab;4.1;316
+Vrije Universiteit Amsterdam;4.2;465
+Popcore;4.2;28
+Mobile One2one;4.1;20
+Oliva;5.0;25
+Software Engineering Institute;4.3;216
+Moffatt & Nichol;4.4;149
+Atlas Professionals;4.0;276
+Makro Atacadista;4.3;1000
+StackAdapt;4.1;264
+BeInCrypto;4.0;95
+Mortenson;4.2;715
+Pöyry;4.4;169
+Arauco;4.1;503
+Salto Systems;4.0;33
+Imdea Software;4.8;17
+Nana;4.0;107
+Save the Children;4.0;80
+Estudio de Arquitectura;4.0;69
+Jazz;4.3;381
+Cartoon Network;4.2;158
+Babysitters;4.3;294
+University College Cork;4.0;470
+La Panadería;4.1;64
+Bonitasoft;4.6;54
+Cardiff University;4.1;780
+FTMO Evaluation Global;4.3;97
+Printify;4.5;196
+Pavigym;4.3;22
+BROWNIE;4.3;17
+Uppsala University;4.4;526
+Circontrol;4.0;22
+Josep Carreras Leukemia Research Institute;4.0;14
+SORINT.lab;4.0;103
+Emerald Stay;4.7;27
+Orange Bank;4.1;47
+Playrix;4.1;198
+Silverlink Technologies;4.6;392
+Essence Group - Israel;4.0;92
+Antra;4.1;525
+Middlebury College;4.3;430
+Talent International;4.5;207
+Boise State University;4.1;773
+Teach For All;4.0;76
+Stihl;4.0;297
+Derbysoft;4.1;36
+Grupotec;4.2;22
+Pampa Energía;4.2;141
+Tribunal de Justiça do Estado do Paraná (TJPR);4.6;895
+Innovation Strategies;4.0;13
+Validity;4.7;293
+Fiat Automóveis;4.2;318
+BDC;4.0;411
+Optima Tax Relief;4.3;556
+The Linde Group, Inc;4.3;70
+No One Left Behind;4.0;150
+Systems Evolution;4.2;333
+Creatio;4.6;257
+Infovision, Inc.;4.2;600
+Fraternidad Muprespa;4.2;19
+Grupo Nacional Provincial;4.2;461
+Gran Bahia Principe;4.2;57
+Improving;4.0;344
+Mimecast;4.0;610
+RMIT University Vietnam;4.0;376
+PEP;4.1;215
+Research Foundation of CUNY;4.2;720
+ESN International;4.4;100
+Oliver James;4.2;642
+Pictet;4.0;406
+CHG-MERIDIAN;4.0;52
+Credit Karma;4.2;464
+Diseño Gráfico;4.3;76
+Dassault Aviation;4.0;397
+EoS Fitness;4.0;1000
+Wildix;4.4;62
+NETZSCH Group;4.2;206
+RTE - Le Réseau de Transport d'Electricité;4.1;457
+BrowserStack;4.3;730
+Omie;4.1;751
+Tigo Colombia;4.2;183
+VoxSmart;4.1;30
+Headout;4.0;219
+Increnta;4.2;24
+Borealis;4.0;193
+Fat Face;4.0;723
+SomeOne;4.0;142
+Ayuntamiento de Madrid Área de Gobierno de Obras y Equipamientos;4.2;18
+Northvolt;4.0;722
+Kolibri Games;4.0;115
+Empleados de Pemex Asociados;4.1;76
+Kahoot!;4.2;57
+TIP Group;4.0;116
+cetelem;4.1;36
+Academia Sinica;4.1;584
+RootstockLabs;4.2;79
+Unnax;4.1;16
+CASIO COMPUTER;4.0;139
+Golf Galaxy;4.1;469
+Heroes Technology;4.0;31
+MTS Globe;4.1;25
+ABEI Energy;4.1;17
+Locaweb;4.0;714
+GSN Games;4.2;132
+Scopic Software;4.6;180
+Hospital Ramón y Cajal;3.8;21
+King County;4.0;620
+Engel Küchenmontagen;4.8;7
+Takeda;4.2;66
+BizAway;4.0;24
+bChannels;4.0;83
+Gurit;4.1;34
+Bitso;4.0;209
+Social Discovery Group;4.2;115
+Deepki;4.3;67
+Raiffeisen Bank;4.3;245
+Gogokid;4.1;244
+Toks Restaurantes;4.3;164
+Close;4.8;52
+Mixmax;4.8;56
+ília (Brazil);4.3;304
+Sensormatic;4.0;106
+Nippon Gases;4.0;18
+Zucchetti;4.1;105
+Universite du Luxembourg;4.3;432
+The Boston Globe;4.2;569
+Sciences Po;4.1;212
+DWS;4.1;200
+Gong;4.2;457
+TU/e;4.4;736
+Micro-Star International;4.0;94
+Edrans;4.0;49
+Advantio;4.7;69
+Deez Nutz;4.6;311
+Imperva;4.3;756
+ArianeGroup;4.1;365
+Cleo (United Kingdom);4.0;128
+Empresa Metropolitana de Transportes Urbanos (EMTU);4.4;140
+Prosperity;4.3;32
+Visium;4.6;35
+Universidad Nacional de Colombia;4.6;274
+Altamar Capital Partners;4.6;21
+Hostaway;4.8;55
+University of Surrey;4.1;681
+Grupo ASTRA;4.2;352
+LMI;4.0;519
+Renfe;4.2;20
+Cabot;4.0;358
+Blue Star;4.5;757
+Online Business Systems;4.5;296
+jember;4.8;15
+Thought Machine;4.0;219
+ImmoScout24;4.0;262
+null (India);4.0;102
+Tinkoff Credit Systems Bank;4.4;621
+IWC Schaffhausen;4.0;108
+Purple;4.6;149
+Helmerich & Payne;4.1;412
+Refurbed;4.5;34
+Chevez Ruiz Zamarripa;4.0;118
+Ejecutivo de ventas;4.3;108
+Loyola Marymount University;4.3;741
+Maze;4.4;47
+Fini;4.3;142
+OneCoWork;4.3;19
+Webcreek;4.3;336
+Supermercados Mundial;4.2;398
+IGG;4.3;265
+Air Force Reserve;4.3;511
+Taulia;4.7;275
+Swapcard;4.3;82
+Rockefeller University;4.2;398
+Sandvik Coromant;4.2;139
+FreeWheel;4.0;286
+Moove Lubrificantes;4.0;332
+IMDEA;4.1;19
+Rastreator;4.3;18
+Aalto University;4.4;695
+Kamstrup;4.3;38
+Artsy;4.1;176
+Interaction Design Foundation;4.0;56
+Fortis Games;4.2;47
+Elon University;4.3;367
+Groove Jones;4.1;38
+Miami Dade College;4.0;753
+Bitly;4.3;89
+Business Intelligence Associates;4.1;41
+Made Up Name;4.1;87
+CTT Express;4.1;17
+ifm group;4.4;129
+PM-International;4.0;253
+Kearney & Company;4.5;287
+T2Omedia;4.3;21
+SplitMetrics;4.6;59
+ROI UP Agency;4.2;24
+MFS;4.2;630
+ScanSource;4.1;642
+Vizzuality;4.6;17
+GVC Gaesco;4.0;15
+Universidad de León;4.5;15
+Universidad de La Laguna;4.1;15
+SaaS.group;4.8;25
+Casa de Família;4.4;107
+delaware;4.1;551
+HOMAG Group;4.1;76
+NetLogistiK;4.1;120
+Noneya Business;4.0;332
+Singular;4.1;112
+APWireless;4.3;84
+Factorial;4.0;10
+ODEC;4.0;24
+Plains All American Pipeline;4.1;326
+Taleo Consulting;4.1;90
+Relive;4.2;16
+Mavens;4.9;131
+Royal BAM Group;4.0;303
+Swedbank;4.0;599
+Daniel Owen Ltd;4.2;81
+ASB Bank;4.2;586
+DocGo;4.4;857
+Brazzers;4.4;194
+Ripley;4.1;141
+Jampp;4.2;75
+Pontificia Universidad Católica del Perú;4.1;229
+Recorded Future;4.1;210
+Propelland;4.0;31
+Companhia Brasileira de Alumínio;4.1;654
+Genial.ly;4.8;15
+Premiumguest;4.3;29
+Fundação Instituto de Pesquisa e Estudos de Diagnóstico (FIDI);4.1;205
+ASICS Digital;4.1;83
+Universidad Tecnológica Nacional;4.1;389
+Roams;4.0;18
+Nexoom;4.0;15
+Reloadly;4.0;26
+SoloLearn;4.0;51
+DECA Games;4.0;46
+Odigo;4.0;43
+PECO;4.2;337
+Humana;4.0;289
+Finixio;4.8;194
+State of Oregon;4.0;439
+Wieden+Kennedy;4.1;495
+Keiner.com;4.1;100
+Fitbit;4.0;466
+Universidad de Córdoba;4.1;21
+Asksuite;4.5;65
+University of Derby UK;4.0;318
+Somewhere;4.2;82
+Accent Advisor;4.4;83
+Belastingdienst;4.0;183
+Pontificia Universidade Católica do Rio Grande do Sul (PUC-RS);4.1;683
+Smartmatic;4.0;152
+DGA;4.3;47
+Lasting Dynamics;4.8;37
+Computer Vision Centre;4.2;24
+Instituto Politécnico Nacional;4.2;396
+Auren;4.0;169
+UC Merced;4.0;632
+Ventura TRAVEL;4.6;118
+VEKA;4.1;121
+Restaurant Associates;4.3;657
+Encamina;4.0;13
+IVIA;4.4;140
+No No No;4.4;54
+InterQuest Group;4.0;109
+Balanz Capital;4.2;120
+Infraspeak;4.5;75
+Reedsy;4.2;31
+Laboratorios Pisa;4.0;770
+Universität Freiburg;4.0;326
+beBee;4.8;31
+Robert Bosch Tool Corporation;4.1;325
+Chapman University;4.0;587
+"""Ramón y Cajal Abogados";4.1;21
+Aeromexico;4.0;652
+Unimed - Rio de Janeiro;4.3;604
+Acorns;4.0;251
+Red Bull Media House;4.1;195
+SBB CFF FFS;4.0;497
+UVE;4.2;16
+Qkids;4.3;838
+Prefeitura Municipal de Campinas;4.0;552
+Quality Assurance;4.1;46
+University of York;4.3;552
+Pablo;4.0;75
+Winid;4.6;18
+ThetaRay;4.5;77
+Promega;4.2;259
+Scandic Hotels;4.0;190
+Lucasfilm;4.3;299
+Boskalis;4.2;281
+Findus;4.1;53
+F1RST Digital Services;4.0;620
+Metaswitch;4.3;188
+Tractive;4.9;110
+Littler Mendelson;4.3;328
+GrafTech International;4.0;118
+IPM;4.2;53
+Marathon Oil;4.1;490
+wabi;4.0;84
+EventsCase;4.1;26
+Birkenstock;4.1;95
+Boyden;4.4;128
+No;4.1;51
+Freelancing Design;4.3;130
+Optimum Solutions;4.0;691
+ISGF;4.0;53
+Yodo1 Games;4.6;57
+CMR;4.1;106
+Centre for Research in Agricultural Genomics - CRAG;4.2;17
+ED&F Man;4.6;160
+Fyffes;4.0;48
+GreenTomatoMedia;4.9;85
+University of Sussex;4.3;539
+PSD Group;4.0;87
+Wonga.com;4.1;144
+Customertimes;4.5;326
+Cadbury;4.2;194
+Alkermes;4.2;477
+Durham University;4.4;610
+Stenn Technologies;4.0;39
+EMPAUA;4.3;32
+PhotoHotel;4.1;49
+Call Center QA;4.2;208
+Conacyt;4.2;216
+Stahl;4.0;60
+University of Rhode Island;4.1;561
+CSE Mecânica;4.3;133
+Pontificia Universidad Católica de Chile;4.2;178
+Napptilus Tech Labs;4.6;9
+KBC Advanced Technologies;4.3;84
+Beezy;4.5;14
+Turo;4.1;438
+SUNY Albany;4.2;502
+Expertos en Ciberseguridad, Ciberinteligencia y RedTeam;4.5;10
+Oura;4.4;89
+Dextra;4.6;489
+Wonder Research;4.1;486
+Brainnest;4.1;158
+BCN Group;4.1;62
+afg&;4.3;80
+BOFA;4.0;207
+Meetic;4.4;115
+Falabella (Chile);4.0;144
+OC&C Strategy Consultants;4.3;408
+WTC (Spain);5.0;6
+Trinity Industries;4.0;539
+Testa Technologies;4.7;1200
+Empresa;4.4;23
+Cledara;4.6;19
+Azertium IT;4.0;12
+GlaxoSmithKline Pharmaceuticals;4.0;222
+Esteticas;4.0;68
+Sketch;4.7;20
+Cuidadoras;4.6;88
+Premier IT Solutions;4.2;188
+goeasy;4.0;567
+Grand Hyatt;4.0;356
+Pharma Logistics;4.2;143
+Fremantle;4.0;51
+Leadoo;4.0;36
+Galileo Learning;4.2;620
+Sumsub;4.1;39
+Spain Internship;4.0;26
+Lloyd's;4.1;241
+ProMinent;4.0;93
+Fotowatio Renewable Ventures;4.3;20
+Santex Group;4.8;288
+ioBuilders;4.8;10
+BRYTER;4.1;48
+Clintec;4.2;68
+Parrot;4.1;151
+Basque Center for Applied Mathematics;4.1;15
+Flow Traders;4.0;216
+KKR;4.1;438
+Universität Göttingen;4.2;308
+Acceptance Insurance;4.1;514
+LOLA MullenLowe;4.2;23
+Seqera;4.8;24
+City of San José;4.0;448
+Vix Logística;4.1;621
+Hospital Clínico San Carlos;4.1;15
+Serviceform;4.4;32
+Grupo Jorge Batista;4.0;188
+FAPESP;4.6;564
+Knockout Gaming;4.1;20
+PJT Partners;4.1;113
+Melt Group;4.2;8
+WebCargo;4.2;12
+Witzenmann Gmbh;4.4;63
+Fred. Olsen & Co.;4.0;54
+W1 Consultoria;4.0;646
+Universal Pictures;4.2;141
+Vio.com;4.5;55
+Groupe INSA;4.1;220
+scandiweb;4.2;262
+Product Hackers;4.5;16
+University of Alabama in Huntsville;4.1;507
+Kokua;4.4;749
+Fermator;4.2;20
+DWCC;4.2;80
+Translational Genomics Research Institute (TGen);4.1;103
+Arlo Technologies;4.5;139
+Android Developer;4.2;123
+ROSS VIDEO;4.4;201
+Heap;4.6;290
+Grupo A;4.1;215
+CAT Financial;4.0;258
+Bob’s Burgers;4.4;525
+House of Commons;4.0;401
+Reward Gateway;4.1;282
+Marc O’Polo;4.0;78
+GFT Group;4.8;51
+A2 Consulting;4.0;59
+Hospital Santa Catarina;4.4;319
+Optima Global Solutions;4.3;23
+Woolworths (South Africa);4.0;622
+Cyncly;4.0;55
+Provalliance;4.7;32
+Naranja;4.3;245
+University of Leicester;4.0;477
+LALALAB;4.4;93
+University of San Diego;4.1;518
+Bentley Motors;4.2;403
+Elle Magazine;4.0;157
+Garment Printing;4.3;22
+Horizons;4.0;55
+Sortlist;4.1;45
+Channable;4.5;70
+Darwinex;4.6;19
+Universidad Javeriana;4.5;206
+Intrepid Travel;4.6;243
+WS Audiology;4.0;438
+Confidential;4.0;151
+Parallels;4.0;169
+Quantium;4.2;405
+Université de Lorraine;4.0;193
+Aguas Danone;4.1;46
+Cien;4.6;20
+Bitfinex;4.7;78
+The Orchard;4.0;179
+Consolidated Contractors Company;4.0;750
+CloudGaia;4.4;78
+Universidade Federal de Uberlândia (UFU);4.3;307
+Sanoma Corporation;4.0;82
+My Amazon Guy;4.1;289
+Civir;4.4;14
+Business School Notenboom;4.3;22
+Argos Multilingual;4.3;80
+Uniasselvi;4.0;537
+Jackson Family Wines;4.0;155
+Mind the Bridge;4.5;16
+Middle Tennessee State University;4.1;532
+Garanti Technology;4.1;306
+RocaSalvatella;4.0;14
+Aimplas;4.1;17
+I Challenge Myself;4.2;106
+Pima Medical Institute;4.3;563
+OMIE;4.5;73
+Trasmediterránea;4.2;19
+Joom;4.3;74
+Education For Employment;4.3;30
+Keller Group;4.0;242
+TU Braunschweig;4.3;282
+MC MUTUAL;4.0;18
+Dermofarm;4.3;18
+Fundación Santa María la Real de la Patrimonio Histórico;4.3;19
+ThousandEyes;4.4;147
+Unblur;4.2;11
+Roiback;4.1;17
+Universidade Estadual de Maringá;4.6;189
+Lund University;4.3;492
+IOActive;4.3;72
+Omdena;4.2;156
+Redexis Gas;4.1;17
+Department for Business, Energy & Industrial Strategy UK;4.0;362
+Catalonia Trade & Investment;4.3;28
+BMG;4.0;203
+Cadastra;4.1;387
+Veoneer;4.0;445
+Clever;4.6;91
+AEG;4.0;459
+SRP;4.3;429
+Undisclosable;3.9;94
+CSI Leasing;4.1;67
+UNASP;4.0;222
+Precisely;4.1;408
+MEGA;4.2;171
+ARANER;4.0;20
+Akuo Energy;4.3;82
+GuruWalk;4.3;18
+Monumental Sports & Entertainment;4.0;235
+Universidade Federal de Viçosa (UFV);4.6;305
+NovaFori;4.0;30
+Universidade Federal de Pernambuco (UFPE);4.4;531
+TU Dortmund;4.2;242
+Plano ISD;4.0;459
+Cambridge University Hospitals;4.0;253
+Océ;4.1;330
+Orphoz;4.5;46
+Anglo-Eastern Ship Management;4.0;659
+VONZU;4.4;16
+Lynx Group;4.0;76
+Instituto de Astrofísica de Canarias;4.1;19
+Manchester United;4.1;500
+Privateaser;4.4;53
+Proxify;4.4;347
+WildBrain;4.0;401
+Groupe Chantelle;4.1;145
+QTS;4.3;440
+ANÓNIMA;4.4;20
+HGA;4.3;197
+Firmdale Hotels;4.2;214
+Interface;4.2;268
+Remerge;4.5;93
+Besedo;4.1;145
+Grupo Edelvives;4.0;16
+Lukkap;4.4;18
+IFP Energies Nouvelles;4.4;281
+JLR;4.1;317
+Ovrsea;4.2;80
+SRS Consulting;4.5;343
+AttackIQ;4.1;27
+Secretaria de Salud;4.1;288
+BenevolentAI;4.1;110
+Xcelirate;4.8;21
+MAMA Shelter;4.5;149
+Netcore Cloud;4.2;535
+Hospital de Clínicas de Porto Alegre;4.6;295
+Kennedys;4.1;329
+Arkose Labs;4.1;148
+Tapestry;4.1;444
+AMBOSS;4.1;180
+Evertec;4.0;223
+Transocean;4.2;533
+The Francis Crick Institute;4.1;348
+EcoAct;4.3;56
+TBS;4.0;104
+Stout;4.1;278
+Stäubli;4.0;154
+ONERA;4.3;214
+Horváth;4.3;336
+Gilat Satellite Networks;4.1;116
+Röhlig Logistics GmbH & Co. KG;4.0;86
+E.life Group;4.2;434
+ada;4.0;508
+INTA;4.0;25
+Ajuntament;4.2;11
+Tomedes;4.6;178
+Lateral;4.0;45
+ESPRO;4.2;454
+Dimensions;4.0;360
+ACT Auditor-General's Office;4.0;29
+University of Hertfordshire;4.1;375
+Juro;4.5;61
+Méliuz;4.3;344
+Wiz;4.6;228
+RoomRaccoon;4.4;51
+Unobravo;5.0;38
+Organic;4.1;170
+Scania Hispania;4.1;37
+PPRO;4.1;146
+Universidade Federal de Santa Maria (UFSM);4.5;279
+Btech Technical Center;4.1;21
+Saudi Telecom;4.3;554
+Consultório Odontológico;4.4;389
+PUC Minas;4.5;499
+MailerLite;4.5;46
+University of Central Oklahoma;4.0;383
+ADRA;4.2;207
+Researcher;4.3;80
+Agencia EGO;4.4;50
+011h;4.5;13
+Arkopharma;4.1;37
+Lumon;4.1;23
+Spacewell;4.1;83
+SAP Business Objects;4.2;98
+Wilo Group;4.2;229
+Lazard Asset Management;4.0;144
+Eurosport;4.2;103
+Banco de México;4.4;260
+Unite;4.4;43
+Erasmus University;4.3;686
+Teamleader;4.4;90
+Talent Clue;4.1;19
+Aegis Media;4.1;170
+Trekksoft;4.1;34
+Ontier;4.2;12
+Grupo Pikolin;4.1;17
+Modyo;4.4;63
+Samarco;4.7;419
+JindalX;4.1;669
+Linde;4.1;110
+Coveo Solutions;4.1;282
+ERT, Inc.;4.3;147
+Bavaria S.A.;4.4;116
+Schunk Group;4.0;67
+ANWB;4.2;140
+Lar Cooperativa Agroindustrial;4.0;437
+Banco Caixa Geral (BCG);4.1;42
+Lucta;4.1;23
+Logiscool;4.2;87
+Servian;4.2;248
+VDX.tv;4.2;81
+Comisión Nacional de Mercado de Valores;4.3;16
+Salescode;4.0;101
+Vistage Worldwide;4.0;246
+Ivanhoé Cambridge;4.2;235
+Ministre des Armées;4.0;354
+Latham & Watkins;4.1;62
+Cambridge Consultants;4.1;233
+SITA;4.0;103
+Ben & Jerry's;4.0;496
+The Key Talent;4.2;16
+Nova Talent;4.1;20
+Geolog International;4.0;221
+Nurse Next Door;4.0;496
+Newpark Resources;4.1;161
+Bufete Jurídico;4.1;24
+Rossi Residencial;4.2;172
+Credico;4.0;367
+Able;4.0;76
+Irdeto;4.0;379
+FRS Recruitment;4.5;110
+VMware User Group;4.4;102
+Uniper;4.1;349
+BPI - Business Performance Institute;4.2;44
+Speechify;4.7;101
+Vardhan Consulting Engineers;4.4;1100
+sync.money;4.2;24
+FNA;4.6;23
+Valve Corporation;4.6;95
+Hamilton College - New York;4.5;264
+Big Bang;4.1;206
+EIT Digital;4.3;38
+Hospital San Javier;4.3;67
+yo misma;4.8;40
+Circula;4.7;35
+Kik;4.1;94
+KUKA Robotics;4.0;147
+POET;4.5;399
+Witei;4.2;19
+KA Resources;5.0;6
+Chalmers University of Technology;4.3;415
+Production Paradise;4.0;28
+Blue Telecom Consulting;4.1;14
+Kissflow;4.0;307
+Ayala Land;4.2;243
+University of Greenwich;4.0;387
+OnTheGoSystems;4.8;69
+ParexGroup;4.0;107
+Aquiles Solutions;4.6;26
+Astibot;4.2;20
+University of Helsinki;4.2;378
+Rakuten Kobo;4.0;290
+Igeneris;4.8;19
+Université catholique de Louvain;4.2;405
+Bella Italia;4.1;370
+INL;4.1;343
+James;4.0;374
+Almarai;4.3;478
+Decide Soluciones;4.4;16
+MyHeritage;4.4;268
+Socialmood;4.1;23
+Nertus;4.3;13
+CEAR;4.2;21
+Unión de Créditos Inmobiliarios;4.1;17
+Cactus;4.6;18
+PROCOLOMBIA;4.0;113
+Foobar;4.7;39
+EG;4.5;54
+UIC;4.1;59
+Numberly (1000mercis group);4.0;410
+Sheffield Hallam University;4.0;328
+Andersen Lab;4.4;417
+Cytora;4.2;37
+MoEngage;4.3;308
+PRIM;4.1;23
+Gino's Pizza;4.0;60
+SECOM Plc;4.1;128
+Successive Technologies;4.1;503
+CCS Global Tech;4.0;301
+Mary Kay;4.4;91
+Tuyú Technology;4.0;14
+Luko;4.0;51
+DANA;4.2;354
+VOLT (United Kingdom);4.4;38
+KfW;4.1;341
+SponsorUnited;4.2;127
+MarketAxess;4.0;202
+TEST COMPANY _ DO NOT APPLY!;4.2;123
+Extern;4.3;153
+Fichtner;4.2;95
+acens Technologies;4.1;7
+Grupo Sabemi;4.1;210
+Adenza;4.1;124
+DoubleVerify;4.3;235
+OCUS;4.0;153
+Kinsta;4.2;75
+Applied Research Associates;4.1;234
+Americans for Democracy & Human Rights in Bahrain,;4.0;98
+Alchemy Tuition;4.4;157
+Beeline;4.4;371
+DataDome;4.8;92
+UDC, Inc.;4.1;95
+Emirates Global Aluminium;4.0;179
+Syngenta Digital;4.1;201
+Inforges;4.1;10
+Digital Legends;4.0;13
+Timescale;4.1;37
+Vogue;4.2;100
+Outvise;4.7;22
+Fon Wireless;4.0;14
+Userlytics;4.5;24
+Vente-unique.com;4.0;69
+AssessFirst;4.5;77
+TU Kaiserslautern;4.3;165
+Newport;4.1;326
+Arbisoft;4.5;350
+ForwardKeys;4.6;17
+Hospital La FE;4.5;12
+2 C Casado Consulting;4.2;13
+Elkem Silicones;4.1;138
+EPTA;4.2;67
+Playspace;4.5;17
+United Nations Volunteers;4.0;193
+Padtec;4.2;302
+KRUK;4.2;41
+ASME;4.1;135
+Justos;4.5;54
+The Hebrew University of Jerusalem;4.0;455
+Housell;4.6;14
+Auctree;4.3;12
+Frontify;4.5;57
+Figma;4.3;161
+Visual IQ;4.0;108
+Lingaro;4.1;195
+Pion;4.2;145
+Gobierno de España Guardia Civil;4.4;18
+Wesleyan University;4.4;369
+Weborama;4.3;53
+Driiveme;4.3;27
+CIC biomaGUNE;4.4;16
+Grupo Agora;4.2;8
+ICAR;4.1;133
+EPM;4.5;161
+TourRadar;4.3;103
+ZHAW;4.0;176
+Intercom Enterprises;4.2;109
+IPT (Switzerland);4.1;54
+e-Frontiers;4.0;28
+MTU Aero Engines;4.0;298
+Farmasi;4.1;44
+Kakao;4.0;239
+Sprinter;4.1;15
+Alkami Technology;4.2;221
+Administración General del Estado;4.1;15
+Alcorce Telecomunicaciones;4.6;17
+SMS;4.4;478
+ALOIS;4.5;623
+Leadfeeder;4.2;48
+Enext;4.0;313
+Fluentbe;4.5;50
+Avicado Construction Technology Services;4.6;53
+Submer;4.2;10
+Galileo Financial Technologies;4.2;262
+Àrea Metropolitana de Barcelona;4.5;15
+Aranca;4.0;402
+Remessa Online;4.3;281
+Aqualia SL;4.1;17
+Svitla Systems;4.5;177
+Openprovider;4.7;29
+Andreas Stihl;4.4;340
+BOSH Technology;4.5;72
+Lyst;4.0;102
+Inatel;4.2;343
+QS Quacquarelli Symonds Limited;4.0;279
+Universität Bern;4.2;293
+Middlesex University;4.0;364
+BeMobile;4.0;113
+Quimidroga;4.3;19
+Wakam;4.1;41
+Aura;4.0;105
+BETC;4.1;320
+Kairos Technologies;4.2;47
+BAC Credomatic;4.2;244
+Trustwave;4.1;670
+Naranja X;4.2;405
+Universitario de Tecnología y Arte Digital;4.1;15
+EveryMatrix;4.0;92
+Systems Planning and Analysis, Inc.;4.3;239
+ONE TO ONE Corporate Finance;4.2;32
+BlueJeans Network;4.6;325
+Symphony Solutions;4.4;172
+Trov;4.7;96
+Gorilla Logic;4.4;371
+Aptos;4.0;293
+IntelliSense.io;4.5;35
+Pixeon;4.2;246
+Hivency;4.1;51
+Asian Development Bank;4.1;449
+FourSeasons Hotel;4.2;95
+GreenYellow;4.0;173
+Amach;4.6;61
+Pilatus Aircraft Ltd;4.0;103
+Board of Innovation;4.2;45
+Tractable;4.1;125
+Drooms;4.3;37
+Claremont Consulting;4.7;31
+NHL;4.2;162
+FloQast;4.0;179
+University of Antioquia;4.7;108
+Libelium;4.3;6
+Hexagon;4.1;91
+Accesa;4.4;284
+Leiden University;4.3;433
+Chainlink Labs;4.3;57
+Runbase Adidas;4.3;52
+R+V Versicherung;4.3;258
+Simnovus;4.3;29
+Emprendedor;4.3;85
+La Casita de Inglés;4.4;19
+Idilia Foods;4.5;14
+Forum Sport;4.1;15
+Instituto Nacional Electoral;4.2;413
+Synthesia;4.7;95
+888 Spectate;4.5;99
+BIP;4.0;42
+Europrop International;4.3;14
+TrustFord;4.2;265
+Pennylane (France);4.7;93
+UENI;4.1;132
+Merz Group;4.1;178
+Duetto;4.1;61
+Campos;4.5;177
+Deutsches Krebsforschungszentrum;4.1;306
+"""Grupo Trigo (Spoleto, Koni, Gurumê, LeBonton)""";4.0;285
+Prat International Brands;4.0;9
+Kompas Gramedia;4.1;301
+Intergiro;4.2;28
+Wallet Hub;4.1;194
+Nuna;4.0;100
+Percona;4.6;131
+UNFPA;4.1;399
+GoComet;4.3;173
+SCS Engineers;4.2;213
+Quorum;4.0;215
+MD Financial Management;4.2;330
+Not Sure;4.0;168
+Cultural Care Au Pair;4.0;366
+Galliford Try;4.2;262
+OSB Group;4.4;251
+HHHunt;4.2;239
+Jacto Agrícola;4.0;299
+Vital Human Resources;4.0;65
+University of Central Missouri;4.1;289
+Picard;4.0;304
+IQ Option;4.2;133
+FonYou;4.0;24
+Hack The Box;4.4;63
+Caylent;4.4;116
+Paul Smith;4.0;309
+Consultant indépendant;4.6;250
+THIRDHOME;4.5;162
+Metropolis Healthcare;4.2;208
+Attest;4.1;68
+UN-HABITAT;4.4;206
+Audiense;4.3;24
+KIRCHHOFF Automotive;4.1;186
+Essentialist;4.0;13
+ETL GLOBAL;4.1;8
+My Language Skills;4.2;37
+IDB Mobile Technology;4.5;25
+Urbantz;4.4;32
+smartclip;4.0;26
+Parque Tecnológico Itaipu;4.1;168
+Altarea Cogedim;4.0;183
+auto entrepreneur;4.3;226
+University of Tübingen;4.1;298
+iPhone Photography School;4.0;51
+Química Anastácio;4.0;185
+Filestage;4.8;46
+SARA;4.1;118
+Rydoo;4.5;196
+Technion;4.2;413
+Citibeats;4.0;19
+in-tech;4.2;141
+NavVis;4.2;116
+Strada;4.0;59
+Professional Data Analysts;4.3;92
+ICR;4.3;173
+Client Server;4.1;72
+Carvajal;4.0;144
+Turner International;4.2;138
+Multilingual Jobs Worldwide;4.2;22
+Kaltura;4.0;270
+Confluent;4.0;33
+Fontainebleau;4.3;268
+StarOfService;4.5;83
+Evidera;4.0;213
+Hesperia;4.0;14
+Wasabi Sushi and Bento;4.0;299
+LabWare;4.4;168
+TechEdge;4.0;19
+Centro Nacional de Biotecnología;4.5;8
+GREFUSA;4.4;14
+Appodeal Stack;4.5;27
+Nadie;4.1;35
+Moka (Indonesia);4.2;160
+Mi empresa;4.3;11
+Cognigy;4.3;61
+John Sisk & Son;4.1;279
+Fusion Global Business Solutions;4.4;38
+Dentsu World Services;4.2;151
+Robeco;4.3;164
+Alliance Française;4.0;96
+Scribbr;4.4;88
+BTech;4.0;47
+OMNILIFE;4.0;211
+Galicia Seguros;4.2;99
+Lean Tech IO;4.2;208
+goetzpartners;4.2;116
+GerenteWeb;4.3;54
+Triumph Motorcycles;4.1;208
+Allen Recruitment;4.3;62
+Bemobi;4.2;215
+AXIOM Sales Force Development;4.2;41
+Akvelon;4.1;263
+DNB;4.0;273
+Jo Malone;4.0;278
+Escola Padrão;4.4;193
+Mighty Animation;4.2;96
+TGS-NOPEC;4.1;204
+IDC;4.1;97
+AEE Power;4.3;13
+Solida Energía Renovable;4.0;19
+Nexe;4.0;17
+Noser Engineering;4.1;27
+Cato Networks;4.2;152
+Deutsche Leasing AG;4.0;51
+Bell Integration;4.0;119
+Grupo Éxito;4.3;152
+Dékuple;4.2;42
+Geen Idee;4.2;44
+Rheinische Friedrich-Wilhelms-University Bonn;4.1;296
+Natural Intelligence;4.0;262
+CodeSignal;4.2;46
+Interplayers;4.2;301
+Altios International;4.0;78
+Enerplus;4.7;96
+Hospital das Clínicas (HC);4.2;259
+AED ENGINEERING;4.1;22
+Kerv;4.5;247
+Jotform;4.3;164
+GSE Group;4.6;81
+Petits-fils;4.0;63
+Leti;4.4;45
+ProntoPro;4.0;85
+ABOCA;4.2;26
+Esteyco;4.6;12
+Caixa Popular;4.1;15
+Grupo Varma;4.1;12
+Elmya;4.1;15
+SM Investments;4.1;113
+Pitang Agile IT;4.6;275
+TTT;4.1;115
+Fluidra;4.1;6
+Bob W;4.3;29
+Sezzle;4.1;185
+Universidad Central de Venezuela;4.1;78
+Itnig;4.1;14
+Mark Spain Real Estate;4.1;297
+IPSY;4.2;197
+Southwark Council;4.0;233
+Aldaba Servicios Profesionales;4.2;11
+Moonfare;4.2;85
+servidor publico;4.2;98
+Hike;4.1;319
+RENOLIT;4.0;50
+ENAVATE;4.1;167
+Nedap;4.5;59
+Bkool;4.3;13
+Universität Heidel­berg;4.1;281
+University of Otago;4.0;286
+IMF;4.0;30
+ENEA;4.2;119
+VEON;4.4;324
+ZEISS Industrial Metrology;4.0;71
+WIKA;4.2;79
+Adecoagro;4.4;282
+TVH Parts Co.;4.1;225
+Corsearch;4.0;296
+CER Education;4.3;52
+Zendrive;4.1;99
+UPV / EHU 2016 Summer Courses Foundation;4.3;15
+Flowable;4.5;20
+UIC;4.6;49
+Marca;4.2;13
+Galileo;4.1;72
+Bemobile;4.4;10
+Premier Group Recruitment;4.2;134
+Innerspec Technologies;4.0;16
+autobiz;4.2;81
+NTT DATA Deutschland;4.0;147
+Leibniz University Hannover;4.1;264
+reclamador;4.3;14
+Apartool;4.4;14
+Sorli;4.1;14
+Elements;4.3;37
+El Cocinero;4.6;28
+ZEAL Group;4.3;28
+Colgate University;4.4;291
+Banesco Internacional;4.1;72
+Mikros Animation;4.3;139
+Phorest Salon Software;4.6;129
+MP Lifts;4.1;12
+AuditBoard;4.1;147
+Universitätsklinikum Köln;4.1;128
+Catella;4.2;28
+Ceragon Networks;4.1;307
+parcelLab;4.7;81
+Café Bazaar;4.4;182
+Cuerpo Nacional de Policia Gobierno de Espana;4.2;14
+Soluciones Alegra;4.2;102
+Giant Animation;4.2;36
+La Mafia se sienta a la mesa;4.2;13
+Logwin;4.2;47
+People Pro;4.3;76
+BERICAP;4.0;50
+Ferroglobe;4.1;27
+Cronos;4.0;200
+cbs Corporate Business Solutions;4.2;60
+Andersen Tax & Legal;4.0;17
+Damm;4.1;21
+Webimpacto;4.0;9
+airfocus;4.8;35
+Copper (United Kingdom);4.2;58
+Newtech;4.1;181
+TieTalent;4.9;17
+Stay U-nique;4.8;24
+Ab Initio;4.4;70
+ZZP;4.5;54
+Online Trading Academy;4.2;344
+Banco de de Credito BCP;4.2;265
+Grupo Hospitalar Conceição;4.5;301
+Valant;4.2;54
+PIMEC;4.6;16
+MercatsCity S.L.;4.4;9
+Mr & Mrs Smith;4.3;86
+Excell;4.1;196
+Habber Tec;4.1;29
+Null Corporation;4.2;55
+Pragma;4.5;260
+Continental Properties;4.3;238
+Liverpool Football Club and Athletic Grounds;4.1;289
+Strapi;4.6;25
+ILO;4.4;342
+YANDEX;4.3;211
+Workpath;4.4;31
+Magnolia International;4.4;40
+Graphite Growth;4.3;40
+Lindeman & Associates;4.0;61
+Riskonnect;4.4;172
+NinjaOne;4.4;248
+Grupo Noa;4.4;146
+Productividad Asistentes Administrativos;4.4;59
+San Jacinto College;4.0;243
+Lacera;4.0;21
+Careerplus;4.1;49
+Servitalent;4.9;17
+Simplr (Spain);4.1;18
+Generalitat;4.0;14
+Bart;4.0;224
+ARLANXEO;4.0;238
+Hubstaff;4.0;56
+Payara Services;4.7;51
+Virtuo;4.4;44
+Creditsafe Technology;4.3;76
+Bi4all;4.0;79
+Totto;4.2;39
+Process Street;4.7;44
+Decathlon Sports Club;4.2;45
+Sorbonne Université;4.0;256
+University of Houston Downtown;4.0;269
+Wageningen University & Research;4.4;145
+International Fund for Agricultural Development;4.1;216
+Van Oord;4.2;233
+Intuitive Technology Partners;4.3;290
+IMMO Investment Technologies;4.1;38
+The Valley;4.1;11
+MIP Holdings;4.2;132
+Systems Plus;4.6;416
+PDG;4.5;231
+Henry (Argentina);4.5;232
+University of Tokyo;4.0;316
+McKinney and Company;4.0;73
+ALTHEA Groupe;4.2;87
+Nutrition et Santé;4.0;29
+DATEM;4.1;39
+Clean Energy Associates;4.0;115
+GIRO;4.1;203
+Play‘n GO;4.2;84
+Unicommerce Esolutions;4.2;265
+Mota-Engil;4.0;280
+Instituto Superior Tecnico;4.0;324
+Universal Music Publishing;4.1;123
+TYPSA;4.2;12
+Integra Financial Services;4.1;99
+Barista;4.3;146
+Seguradora Líder DPVAT;4.8;257
+Williams College;4.6;287
+Drogaria Onofre;4.1;242
+Pitch;4.6;69
+John Smith Agency;4.2;232
+Silverlight Research;4.6;209
+Unmanned Life;4.0;12
+PRAHS;4.0;54
+ZaranTech;4.0;114
+GRUPO J.JUAN;4.2;13
+Celeo Redes;4.0;56
+Audika;4.2;84
+Audemars Piguet;4.4;135
+Oxford Instruments;4.0;215
+ESL Gaming;4.0;43
+Instant Group;4.1;134
+Taptap Send;4.5;91
+Startupbootcamp;4.2;89
+Opus Talent Solutions;4.2;201
+UTC;4.1;151
+Mercury;4.4;81
+Globant Consultancy;4.4;44
+Ministerio de Asuntos Exteriores y Cooperación;4.2;30
+Pamesa Cerámica;4.1;15
+Tropicfeel;4.1;4
+Rimac International;4.1;165
+VIVAGYM;4.4;12
+ARTE (France);4.0;55
+Bulletproof (Canada);4.0;50
+Empa;4.1;216
+Gunvor;4.0;92
+Jobsity;4.3;182
+AT Internet;4.2;57
+Ninety Nine Financial Markets;4.4;10
+Trucksters;4.3;11
+RetailNext;4.5;126
+LUKOIL;4.2;327
+Oetiker;3.9;35
+Simply Business;4.2;257
+The Oyster Partnership;4.5;167
+Global Omnium;4.2;14
+Ecoembes;4.6;11
+Saint-Gobain PAM;4.2;99
+Closer;4.0;98
+SEG Automotive;4.0;261
+Civil & Environmental Consultants, Inc.;4.4;144
+Namecheap;4.3;199
+Impressico Business Solutions;4.4;189
+Burckhardt Compression;4.2;131
+BetWarrior;4.3;42
+Cashier Live;4.1;145
+Kemira;4.0;231
+EMC Consulting;4.1;225
+DMC;4.4;105
+Garver;4.5;149
+Art of Problem Solving;4.1;192
+Universität St.Gallen;4.4;262
+Moneytrans;4.1;14
+Ecole Polytechnique;4.3;229
+Andrew Staffing Recruitment;4.2;25
+Bondora;4.7;60
+Cecabank;4.2;12
+Masai School;4.0;258
+Bros Group;4.8;22
+Proforma;4.0;317
+Eskimoz;4.0;53
+BMW Group UK;4.0;155
+Neo9;4.2;11
+10000.com;4.3;48
+Banco de Córdoba;4.0;74
+Egress Software Technologies;4.6;182
+EXOGROUP;4.3;7
+Alejandro Informática;4.1;29
+Redradix;4.1;8
+S&you;4.0;13
+VEED.IO;4.2;52
+Beumer Group;4.0;65
+INDG;4.0;80
+PVcase;4.9;22
+Go-Staff;4.2;351
+Esmalglass;4.5;19
+SDG;4.3;14
+St Paul's School;4.0;83
+Colegio San Patricio;4.0;17
+AvaTrade;4.2;128
+Open Cosmos;4.1;36
+Revieve;4.9;14
+W BARCELONA;4.0;12
+Royal Society of Chemistry;4.5;149
+Université Grenoble Alpes;4.3;227
+Ypióca;4.4;106
+ABB Motors and Mechanical, Inc.;4.2;241
+CMV;4.1;27
+Aegon Life Insurance Company;4.0;170
+Águas de Manaus;4.4;138
+Auriga IT;4.4;110
+Nologin;4.4;16
+Polyglot Group;4.0;36
+Lumon Pay;4.1;44
+Log-In Logística Intermodal;4.4;211
+Novum Bank;4.0;33
+Universidad Nacional de La Plata;4.2;239
+UCAS;4.1;164
+Sullair;4.6;252
+VDL Groep;4.0;185
+Organización Corona;4.7;84
+CIC nanoGUNE Consolider;4.2;12
+Both People & Comms.;4.6;16
+Index Exchange;4.2;262
+IronFX;4.5;367
+White Hat Gaming;4.1;43
+RevenueCat;5.0;32
+loveholidays;4.1;159
+SYSPRO;4.1;140
+Gestión Tributaria Territorial;4.1;11
+Qindel;4.6;11
+Cloud District;4.1;10
+Adikteev;4.5;98
+GBM;4.1;131
+Trilogy;4.0;177
+Mast-Jägermeister;4.2;93
+Savings United;4.5;25
+Wireless Logic;4.3;27
+Royal College of Surgeons in Ireland;4.2;208
+IAEA;4.6;197
+Lab Cave;4.4;9
+Hospital Germans Trias i Pujol;4.5;12
+Sam Media;4.3;35
+FORUM;4.1;110
+Hospital Mãe de Deus;4.2;208
+Net Solutions;4.1;188
+‍Telesign;4.0;176
+Agape Care;4.6;279
+Vigilant;4.3;24
+Alkimii;4.9;6
+Brevo;4.1;263
+Smith + Andersen;4.1;180
+Raisin;4.3;144
+Travelopia;4.0;158
+PALEX MEDICAL;4.2;22
+EGGER Group;4.3;154
+Riplife;4.0;8
+Varma & Varma;4.3;110
+Impala Travel Technology;4.5;25
+Wimbledon;4.7;245
+Uniguest;4.2;100
+American Institute For Foreign Study;4.1;97
+Grupo México;4.0;193
+Embat;4.4;10
+Etalentum;4.1;7
+Intracon Spain;4.2;15
+Surecomp;4.3;84
+NGS Global;4.6;54
+Eurocamp and Al Fresco;4.1;41
+Relyens;4.1;30
+SENA;4.7;176
+Hettich;4.4;248
+Citelum;4.1;106
+Aura;4.0;180
+SoftProject;4.1;8
+3g office;4.0;15
+HUK-COBURG;4.2;106
+iubenda;4.2;36
+Junior Acheivement;4.1;222
+Singular Cover;4.0;13
+Status;4.7;109
+Scalable Capital;4.2;103
+Groupe Beneteau;4.0;84
+Codorníu;4.0;12
+Grand Palladium Resort and Spa;4.0;59
+BMCE Bank;4.0;156
+WeTravel;4.3;78
+Leavy;4.7;80
+Didomi;4.4;50
+CARE International;4.0;243
+Ayuntamiento de Gijón;4.1;14
+Nordex;4.0;33
+Codelco;4.1;152
+Fontys;4.0;93
+MAS Global Consulting;4.4;117
+Nemely;4.9;11
+DocuWare;4.4;56
+Perion Network;4.6;152
+Northumbrian Water Group;4.4;139
+National Research University Higher School of Economics;4.3;258
+ITERIAM;4.2;18
+Fitnet Manager;4.1;22
+Action Contre la Faim;4.1;146
+Momentum Data;5.0;12
+AnswerFirst;4.5;188
+4Geeks Academy;4.5;36
+Signicat;4.7;18
+Sedena;4.4;29
+TiER1 Performance Solutions;4.6;88
+Marketing 360;4.8;214
+Outpost24;4.3;23
+JustPark;4.2;81
+Memora Processos Inovadores;4.5;113
+Blinklearning;4.2;17
+Hefame;4.0;14
+Valsea IT;4.1;16
+Sura México;4.3;215
+Princeton Plasma Physics Laboratory;4.2;113
+Axelerant;4.5;141
+Linio;4.4;219
+STRAMMER;4.0;35
+Neinor Homes;4.0;6
+LuxuryEscapes;4.0;174
+PHENIX (France);4.1;63
+Ministerio de Obras Públicas;4.1;55
+Bebidas Fruki;4.4;112
+Nexllence;4.1;43
+Cyberbit;4.0;217
+Sorbonne Universités;4.1;200
+Maxcolchon;4.5;14
+Diputació;4.3;9
+Plus Ultra Líneas Aéreas;4.1;13
+Sytac;4.1;51
+BCP;4.1;185
+Meridional Seguros;4.3;53
+Linköping University;4.3;219
+e-bot7;4.7;64
+Tellus Informática e Telecomunicações;4.2;147
+Avantia;4.4;116
+Chupa Chups;4.1;13
+Draper Triangle;4.1;30
+Pierpoint;4.1;92
+Banreservas;4.2;69
+Selectiva;4.5;10
+Zubale;4.0;162
+Bocconi University;4.5;276
+Böllhoff Group;4.1;115
+Coconut Software;4.5;82
+CBTalents Global Recruitment;4.3;103
+The Private Family Office;4.2;80
+SBE;4.4;71
+SOLCOM;4.4;59
+ETC;4.1;137
+McDonald's Towing;4.0;77
+Cynet Security;4.1;119
+RIKEN;4.3;157
+AS;4.6;8
+Reperio Human Capital;4.3;35
+TaxDome;4.6;69
+Piktochart;4.4;43
+Construcciones Rubau;4.1;11
+Darwin Recruitment;4.3;166
+Bitnami;4.2;17
+Joe Duffy Motor Group;4.0;85
+Ascent;4.0;72
+Solaria;4.0;17
+Ayscom;4.0;7
+Smartbrand;4.1;11
+Outfund;4.5;37
+Simon;4.0;14
+ECC;4.2;165
+Belron International Limited;4.2;176
+Wyser;4.1;41
+Me Myself & I (WA);4.6;43
+Sports Basement;4.0;186
+Captify;4.2;143
+HBPO Group;4.2;48
+Adservio;4.0;196
+Clínica Sim Médica;4.0;189
+European Bioinformatics Institute;4.3;179
+SEVERIANO SERVICIO MÓVIL;4.3;8
+Qualipharma;4.5;7
+GammaUX;4.2;9
+Human Made;4.8;28
+Torii;4.0;63
+Streamloots;4.8;13
+FRHI Hotels & Resorts;4.1;195
+BBA inc.;4.0;170
+ITI Data;4.3;131
+KONE;4.0;110
+Ultra Tendency;4.2;21
+Banco de Chile;4.0;99
+Mobility Ado;4.3;77
+Zeus;4.3;110
+apetito;4.1;134
+Banco de Crédito e Inversiones;4.6;101
+SACMI Group;4.4;108
+Avalora;4.3;11
+Importaco;4.1;16
+TAPP Water;4.1;12
+ASTAR;4.0;120
+Natura Selection;4.2;16
+Growth Acceleration Partners;4.2;202
+Uterque;4.8;17
+ALEATICA;4.1;25
+ADVA;4.1;174
+Banco Davivienda;4.5;108
+Chaumet;4.0;82
+Aquila Marketing;4.1;53
+The Video Editor;4.2;68
+CoreBiz. Group;4.2;151
+Gaia Silva Gaede & Associados;4.0;177
+Condor;4.1;135
+BrainStorm;4.2;121
+Skybound Wealth Management;4.0;153
+CIRCUTOR;4.0;10
+PROCON;4.6;73
+BITS;4.6;290
+sdg;4.1;6
+Exasol;4.0;85
+Voith;4.0;104
+LevelTen Energy;4.5;28
+Zinkia Entertainment;4.2;9
+Tecnofor;4.0;11
+Redur;4.0;10
+Castor;4.1;54
+Sofinco;4.0;23
+Sigma Software;4.4;186
+Helexia;4.1;35
+Go Further;4.4;179
+VeraContent;4.2;15
+Crédit Agricole Assurances;4.1;144
+Bloobirds;4.6;13
+Orbea;4.1;15
+RepIndia;4.1;263
+OnlyFans;4.5;132
+Esperanto Technologies;4.1;21
+Espace 3000 Groupe Cassard 25000 besancon;4.4;130
+Viesgo;4.1;11
+The Breach Studios;4.1;15
+tado°;4.4;44
+Vreasy;4.3;25
+Pizza Market;4.0;14
+Volkswagen Caminhões e Ônibus;4.0;179
+Celarity;5.0;226
+SBC;4.2;61
+Royal FloraHolland;4.2;85
+Gem;4.3;111
+IKEA Foundation;4.2;54
+Berry College;4.0;183
+A-Mon Compte;4.6;77
+TOWA PHARMACEUTICAL;4.5;12
+Inversimply;4.3;12
+Linesight;4.2;149
+Wayra;4.0;33
+Argenta;4.0;130
+Google Summer of Code;4.7;204
+NeoGames;4.2;119
+La peluqueria;4.3;21
+Coches.com;4.0;13
+Ayuntamiento de Valencia;4.5;14
+Cambridge House (Spain);4.5;12
+Gredos San Diego;4.0;15
+Alvaro Moreno;4.1;12
+RATIONAL;4.1;93
+Grafton Recruitment;4.1;73
+Bonial International;4.4;111
+Guardicore;4.9;91
+Venafi;4.0;141
+SwissBorg;4.6;72
+Instituto Nacional de Estadística y Geografía;4.4;135
+Luís Simões;4.3;27
+Authority Partners;4.6;203
+GRUPO TRAGALUZ;4.6;10
+DCOOP, S. COOP. AND.;4.0;15
+Cero Design;4.2;7
+Pride Mobility Products;4.8;205
+Skydweller;4.8;8
+MEX Group Worldwide;4.0;159
+Advantage Group International;4.0;78
+Limagrain;4.0;171
+EdCast;4.1;206
+A-dec;4.2;116
+Accelalpha;4.1;173
+Glia;4.6;138
+Atrium;4.2;62
+Moz;4.0;105
+ShipHero;4.2;98
+Samara Energy;4.7;19
+Rossellimac;4.1;11
+Qubit;4.2;147
+XPLANE;4.5;21
+Fyte;4.7;61
+June Homes;4.0;108
+TGG Accounting;4.4;83
+Sectra;4.5;110
+Point.P;4.1;179
+Optima Media;5.0;18
+Naska.AI;4.3;10
+GRUPO NS;4.1;6
+NxStage;4.3;138
+IIT;4.3;255
+Ava Labs;4.4;46
+Crehana;4.0;111
+Boursorama;4.3;149
+Caviar;4.2;211
+Avertim;4.0;118
+Mercantil Banco;4.0;75
+PanaderÍa La Unión;4.0;37
+WordPress Developer;4.5;91
+Computer Aided Technology;4.4;131
+Agência Nacional de Aviação Civil;4.2;177
+Universidad Peruana de Ciencias Aplicadas;4.2;76
+HM Group;4.4;240
+Universidad de Huelva;4.1;11
+TEES;4.3;83
+Mailjet;4.2;42
+Tarang;4.0;138
+Focus Group (UK);4.1;133
+HeliosX Group;4.3;118
+BEONx;4.9;15
+GF Hotels & Resorts;4.3;170
+Kapten;4.5;76
+allmyhomes;4.0;42
+Cuyna;4.2;16
+Sygris;4.3;8
+University of Los Andes;4.2;54
+ifeel;4.4;10
+Splendia;4.1;22
+LambdaLoopers;4.7;8
+Kompyte;4.1;18
+Socorro ISD;4.1;160
+Basware;4.1;514
+BrandBastion;4.7;46
+ManpowerGroup;4.2;33
+Bigblue;4.6;46
+Medical Science & Computing;4.0;84
+Granol;4.1;157
+LÚCID Design Agency;4.0;15
+Beckhoff Automation;4.4;91
+FourthLine;4.1;26
+Satchel;4.0;59
+DataScientest;4.0;77
+Swan.io;4.8;26
+Zeppelin Konzern;4.2;128
+Empresa Brasil de Comunicação;4.2;161
+MedSIR;4.2;12
+Fain Ascensores;4.2;15
+Distribuciones Froiz;4.2;10
+Teva;4.1;41
+Teravision Technologies;4.4;103
+Neat;4.4;47
+Universidad Nacional de Cuyo (UNCUYO);4.0;110
+Iridium Satellite;4.3;145
+Colegio Salesiano Dom Bosco;4.5;87
+SimScale;4.9;91
+Brad's Deals;4.1;64
+prueba;4.7;4
+Beyond;4.3;118
+Tandem Bank;4.2;117
+Insendi;4.2;15
+Thielmann;4.4;13
+América Móvil;4.0;189
+ALE;4.0;60
+OTR;4.0;56
+Nomo;4.0;39
+Sancor Seguros Generales;4.0;156
+47 Degrees;4.5;14
+ViewLift;4.1;101
+Noquiero;4.0;4
+Skyline;4.2;152
+Zespri;4.0;42
+VassarLabs;4.1;178
+Somos;4.6;98
+eZdia;4.2;67
+Seedstars;4.4;92
+May Business Consulting;4.0;10
+mendesaltaren;4.3;11
+Altafit Gym Club;4.1;14
+Center for Monetary and Financial Studies Foundation;4.4;11
+Zoi;4.5;18
+AutoUncle;4.6;26
+PACO Collective;4.0;33
+Prune;4.0;114
+Creative Culture;4.8;51
+INITEC Energía;4.2;10
+Ulabox;4.7;10
+The SPA Studios;4.2;17
+Temper;4.2;84
+BOLT;4.0;149
+Carpedia International;4.3;114
+United Call Centers;4.2;83
+Prime Energy;4.3;39
+Machinio;4.9;96
+Grupo Magna Cosma Internacional;4.0;141
+Cubic Telecom;4.5;110
+Samuel and Co Trading;4.0;77
+CPP Group;4.0;56
+TM Grupo Inmobiliario;4.1;8
+Bell Integrator;4.5;98
+Potato;4.7;86
+Fake Landscapes;4.5;98
+Colsubsidio;4.3;90
+Almas Industries;4.2;40
+TI Automotive;4.1;26
+Uphold;4.7;155
+Martin/Martin;4.2;34
+Codeworks;4.2;33
+Tigo;4.0;188
+Rousselot;4.0;81
+Leonid Group;5.0;10
+Colegio Universitario de Estudios Financieros;4.3;11
+Amadeus;4.2;24
+Popeye's Supplements;4.2;103
+Vectalia;4.2;9
+GT Motive;4.0;14
+Important Not Important;4.2;12
+Cabin Crew;4.3;45
+Tangará Foods;4.1;131
+haddock;4.9;9
+Actian;4.0;145
+Alpha-Net Consulting Group;4.3;13
+Aquiva Labs;4.7;101
+Unitel;4.2;77
+Atresmedia Corporación de Medios de Comunicación;4.3;7
+Schwarz IT Barcelona;4.5;7
+Coosto;4.4;36
+Dealfront;4.2;24
+ValidaTek;4.3;70
+Irish Distillers;4.1;102
+Dura-Line Corp;4.1;123
+Polarsteps;5.0;23
+eRepublik Labs;4.2;18
+VISCOFAN;4.0;30
+Flux IT;4.2;116
+France Télévisions;4.0;140
+WebInterpret;4.1;65
+LaSalle College;4.1;103
+Kelogg;4.3;84
+Localistico;4.1;16
+Lisicki Litvin & Asociados;4.2;70
+ALICE;4.4;94
+Prink;4.1;16
+Megafon;4.1;162
+Government of Navarra;4.3;10
+Bilbao Ekintza;4.8;9
+Ixxus;4.3;18
+Datametrics Software Systems;4.1;13
+Ministério da Economia;4.2;154
+Doodle;4.1;48
+Toucan Toco;4.4;72
+BOUNCE;4.2;155
+Mstech;4.1;135
+Hellotickets;4.9;13
+Geolab;4.4;144
+Coverflex;4.9;28
+Sensor Tower;4.0;81
+Point;4.5;79
+Acnovate Corp;4.1;38
+NEXTEL;4.4;89
+Sutton Group;4.0;102
+EDITED;4.2;59
+Green Man Gaming;4.5;95
+iFS;4.1;81
+OROLIA;4.0;49
+Unialco (Grupo Uvesco) frutas;4.0;13
+Universidad de Burgos;4.8;10
+Farmacia;4.3;11
+Vertica;4.3;70
+BidX1;4.3;22
+Driver Trett;4.1;18
+Solarcentury;4.0;24
+Bitget;4.2;105
+Webtech Developers;4.0;62
+H.Essers;4.0;125
+Yobbers;4.3;11
+SHR;4.3;33
+Universidad de Santiago de Chile;4.1;37
+TK;4.2;66
+Welcome to the Jungle;4.4;94
+Apiux Tecnología;4.1;27
+Halma;4.0;138
+hireful;4.6;54
+Grupo Binternational;4.7;19
+Tidart Digital Media & Data Agency;4.0;11
+Two Circles;4.1;74
+Nivoda;4.4;59
+RDT;4.4;25
+quantilope;4.1;81
+Minas Tênis Clube;4.4;103
+Keycafe;4.6;38
+Retail Rocket;4.3;17
+Universidad Nacional de Rosario;4.2;96
+Expensify.com;4.8;75
+Saltech Consulting;4.2;6
+FARMATODO;4.2;58
+Masabi;4.3;67
+ECE;4.0;121
+Unmind;4.0;48
+Orca Studios;4.2;13
+Lely;4.0;103
+Manfred;5.0;7
+Databox;4.2;88
+Comfica;4.0;17
+University of the Balearic Islands;4.0;16
+Solarpack;4.1;11
+IVY;4.4;112
+CLS Catering Services;4.0;54
+Mercell Holding;4.2;10
+Cuatroochenta;5.0;2
+Cuatroochenta;5.0;2
+ASOCIACIÓN DE INVESTIGACIÓN Y COOPERACIÓN INDUSTRIAL DE ANDALUCÍA.;4.3;8
+360dialog;4.8;41
+outsourcing4work;4.2;167
+Solventum;4.0;64
+Osmosis;4.1;92
+Holborn Assets;4.0;125
+HOSTELERIA APLICADA;4.5;13
+MyCloudDoor;4.2;16
+SadaPay;4.2;140
+Netatmo;4.2;101
+Knauf Insulation North America;4.0;134
+Ooo;4.0;45
+Meilleurtaux;4.0;114
+Splendid;4.4;163
+Elo Touch Solutions;4.6;146
+MACSF;4.0;116
+Atani;4.0;12
+Shakers (Spain);5.0;11
+Les Roches;4.0;31
+Tyndall National Institute;4.1;147
+GLAMSQUAD;4.2;171
+Eligo Recruitment;4.1;26
+MOI;4.4;78
+Cyber-Duck;4.3;41
+Monkey Taps;4.3;6
+First Response Finance;4.8;110
+Jibble Group;4.7;96
+DG Trésor;4.2;64
+Revealbot;5.0;9
+Gurobi Optimization;4.5;29
+Bp Oil (Uk);4.2;18
+Consentio;4.1;9
+DMD.Solutions Consulting;4.3;9
+Lightbox Entertainment;4.0;12
+KKK Inform Data Services;4.1;98
+DeustoTech;4.1;13
+IOMED Medical Solutions;4.8;5
+Meteologica;4.8;8
+Empresa Metropolitana de Abastecimiento y Saneamiento de Aguas de Sevilla;4.8;16
+Empresa Metropolitana de Abastecimiento y Saneamiento de Aguas de Sevilla;4.8;16
+Vall d'Hebron Hospital;4.2;11
+Donostia International Physics Center;4.4;10
+Sky Climber;4.8;90
+Boston Dynamics;4.4;87
+Vaimo;4.1;103
+Playvox;4.4;90
+Warner/Chappell;4.2;74
+IMG ARENA;4.2;52
+Tecpetrol;4.1;148
+itestra;4.6;13
+Kraken;4.7;23
+Programator Web;4.4;27
+Exotec;4.5;54
+Interway;4.3;14
+FreeUp;4.6;214
+Aplicaciones Informáticas Domingo Alonso;4.1;8
+Groupe IMA;4.2;48
+Coniq;4.5;33
+Secretaria de Saúde Pública do Pará (SESPA);4.2;40
+Grupo GTD;4.1;45
+Banco BICE;4.1;79
+Nethermind;4.7;38
+Moniepoint;4.2;131
+Travailleur Autonome;4.5;100
+Intellect Business Solutions;4.0;9
+Universität Bielefeld;4.1;128
+Pepperstone Group;4.2;89
+Pulpomatic;4.3;23
+Volvo Trucks;4.1;75
+Anima Kitchent;4.3;7
+CIC bioGUNE;4.2;9
+CodeOp;4.8;9
+Hannun;4.3;6
+Worten España Distribución;4.0;15
+Clientify;4.5;17
+Fabric;4.0;85
+Scality;4.7;134
+OpenAI;4.4;65
+WaveMaker;4.4;84
+Wacom;4.0;116
+DSS, Inc.;4.3;107
+Nuria;4.2;60
+CTU;4.0;125
+Tecnospeed;4.3;104
+Universidad de La Sabana;4.5;87
+Amby;4.4;31
+LELO;4.6;102
+Fundación Fisabio;4.3;6
+Campmany Abogados;4.9;10
+Deliverea;4.6;5
+Higher Education;4.0;95
+Faria Education Group;4.6;118
+CCE;4.2;48
+Waste Recycling and Processing;4.1;65
+CCTV;4.2;150
+Expert Truck Drivers;4.7;10
+BayWa;4.1;80
+Spraying Systems Company;4.0;134
+Adthena;4.4;87
+GlobalVision;4.5;110
+MAF;4.1;75
+Zolar;4.0;44
+Insider;4.6;48
+Design Engineers;4.5;44
+EL INDEPENDIENTE;4.6;22
+GDS Link;4.0;45
+Prodevelop;4.0;7
+Auto-Entrepreneur;4.5;51
+Auto-Entrepreneur;4.5;51
+Codat;4.0;71
+Vortexa;4.8;85
+Groupe ELSAN;4.0;100
+Opinov8;4.7;34
+Quadrant;4.0;172
+Startups.com;4.4;73
+B.Yond;4.0;58
+Paysend;4.5;91
+GSA Capital;4.4;49
+QbD;4.1;32
+ESRF;4.0;65
+Department of Jobs, Precincts and Regions;4.0;63
+GM Holden;4.0;131
+Designer Autônomo;4.2;39
+North Sails;4.3;59
+ITCROSS;4.8;7
+BMV;4.1;84
+Spaceboost;4.1;11
+Bestinver;4.2;11
+FRISELVA;4.8;6
+Liberty Seguros;4.4;43
+Tier 11;4.7;29
+ALLPLAN;4.0;28
+SMX Services & Consulting;4.2;31
+CloudLinux;4.5;58
+BUCHI;4.1;48
+Codelearn;4.6;13
+Clearly Local;5.0;96
+Cyberhawk Innovations;4.4;39
+Hansgrohe;4.2;106
+Osborne Recruitment;4.2;41
+EDSA;4.1;71
+SalesScreen;4.9;48
+Pearl Lemon;4.4;218
+Colégio Marista;4.4;82
+Z Energy;4.2;76
+Asistente Online;4.3;49
+XWP;4.6;37
+Alcor Solutions;4.1;131
+Universität für Bodenkultur Wien;4.1;72
+Fresenius Medical Care;4.4;70
+PagBrasil Pagamentos Eletrônicos;4.9;72
+Universidad Icesi;4.3;97
+Kramp Groep;4.0;70
+H Influencer;4.0;101
+MBP;4.5;104
+Juzgado Primero de Primera Instancia;4.1;24
+GlobalMed;4.0;103
+Hult EF Corporate Education;4.0;30
+Pangea;4.3;17
+ProLeiT;4.4;42
+Method;4.0;70
+La Serenísima;4.3;114
+Isprox Consulting Work Solutions;4.4;13
+Emuca;4.4;9
+Arsys (Spain);4.3;7
+ACOTRAL;4.6;11
+Bella Aurora Labs;4.0;8
+Advent International;4.3;104
+Universität Innsbruck;4.3;113
+Playa Hotels & Resorts;4.3;72
+Studio Gobo;4.5;73
+sidenor;4.5;12
+Be Live Hotels;4.0;14
+CGI (Nevada);4.0;38
+test IO;4.0;219
+HelmsBriscoe;4.1;93
+Waverley Software;4.7;85
+Hortifrut;4.3;31
+ABC;4.0;25
+RBA;4.2;21
+Viceri-Seidor;4.0;85
+Kemp;4.6;104
+RCR Technology Corp.;4.0;28
+LUZ;4.0;49
+GoGroup;4.6;28
+Intergrupo;4.2;101
+Universidade do Estado de Minas Gerais (UEMG);4.1;122
+Grupo Peñafiel;4.0;80
+Sarbacane Software;4.2;45
+OTC;4.5;26
+Universidad de Extremadura;4.4;22
+Blanquerna - Universitat Ramon Llull;4.3;6
+Atlantic Copper;4.1;9
+Universidad Internacional Menéndez Pelayo;4.3;15
+Orange Bank SA Sucursal en España;4.2;5
+Hipermercados Tottus;4.1;139
+Trackunit;4.1;61
+DogBuddy;4.7;23
+Gruner + Jahr;4.0;82
+Quales Group;4.2;69
+Arbor Education Partners;4.1;66
+Elegant MicroWeb;4.5;120
+Sopro;4.2;100
+BedaKid;4.1;82
+SERVITEC;4.1;26
+Gradiant;4.4;26
+World Mastery;4.8;11
+Institut Barcelona d’Estudis Internacionals;4.5;10
+Airbus DS Government Solutions;4.2;22
+Instituto Federal de Pernambuco (IFPE);4.3;114
+Garanti Bankası;4.1;133
+Vexia;4.0;97
+Witco;4.2;33
+Innovecs;4.6;85
+AmpiFire;4.3;48
+Emerging Travel Group;4.0;57
+Adistec;4.0;73
+Coperion;4.0;110
+OSCAR;4.2;96
+Eskimi;4.2;67
+FÖRCH;4.1;29
+Atecna;4.0;55
+Diana;4.2;56
+Dawsongroup;4.4;64
+Atos Medical;4.0;109
+Cellenza;4.0;53
+Conway Regional Health System;4.1;111
+Universidad Panamericana;4.5;140
+Energize Recruitment;4.6;112
+CleverAds;4.0;13
+Paulig Group;4.2;41
+Basque Center on Cognition, Brain and Language;4.2;12
+DALEPH;4.3;13
+CROC;4.5;108
+FEUP;4.3;151
+Itaca;4.0;11
+Fever-Tree;4.2;47
+Network for Teaching Entrepreneurship;4.1;87
+AZA Finance;4.6;82
+Poclain Hydraulics;4.3;111
+Consórcio Construtor Belo Monte;4.4;67
+Senovo IT;4.6;61
+Duvel Moortgat;4.2;45
+Maestra;4.4;59
+Alenia Consulting;4.9;26
+The Good Food Institute (US);4.9;60
+TauRho Transcribes;4.6;136
+Goodays;4.2;52
+Coordinadora;4.5;45
+Nuclebrás Equipamentos Pesados;4.1;106
+BlueBay Asset Management;4.0;103
+Inmunotek;4.0;9
+Grupo Aluman;4.0;13
+Región de Murcia;4.2;12
+Nebulab;4.9;22
+Emark.;4.6;16
+AVIN Systems;4.1;130
+Farmacia Comunitaria;4.0;16
+MBA;4.3;10
+AMA SERVIÇOS;4.3;37
+CADTECH Engineering Solutions;4.0;41
+Apply Digital;4.2;104
+Dow Chemical;4.0;53
+GPO Group;4.4;9
+Mosquito Squad;4.1;127
+Escuela de Ingeniería de Bilbao;4.2;9
+Declarando;4.0;9
+inLab FIB;4.8;11
+Nikken Sekkei;4.1;39
+Icam;4.3;36
+Fresco;4.2;24
+Muñoz Corporativo;4.0;97
+Language Course SL;4.6;19
+Aimsun;4.5;8
+Planhat;4.3;50
+Universidad de Chile;4.2;125
+Studyportals;4.1;99
+CATERPILLAR;4.3;69
+Ridestore;4.8;70
+Psyma;4.0;25
+MIELE;4.0;25
+Chofer Privado;4.0;74
+Pod Group;4.3;9
+VFS US LLC;4.3;97
+Javi Systems;4.2;206
+Userpilot;4.6;28
+UIB;4.4;18
+OBS;4.0;53
+jejeje studio;4.2;21
+Médecins Sans Frontières;4.1;84
+SISSA/ISAS;4.3;68
+Cajero;4.1;67
+ITX Corp.;4.1;57
+MB92;4.0;12
+Université Paris Dauphine;4.3;144
+University of Bergen;4.4;110
+FinecoBank;4.0;106
+Liquats Vegetals;4.0;13
+Next Chance Group;4.1;7
+Barbara IoT;5.0;5
+Altro;4.0;73
+AEDAS Homes;4.3;11
+Universidad de Lima;4.0;45
+NAC Constructors;4.6;22
+DFS Deutsche Flugsicherung;4.3;40
+ABI;4.2;95
+MACE;4.1;68
+Methodex;4.5;4
+asf;4.0;86
+Schmersal Gruppe;4.1;103
+Ejercito Nacional De Colombia;4.7;61
+Visiotech;4.2;9
+Lawson Chase;4.6;9
+Herta Security;4.9;6
+DISID;4.8;4
+Salao de beleza;4.3;112
+Consulta Privada;4.3;21
+Prisma;4.2;45
+STANHOME;4.0;25
+Solo Deportes;4.2;40
+Scalio;4.6;52
+Nexton;4.6;62
+Azucarera;4.3;11
+VivaLing;4.2;57
+Extia Ingénierie;4.3;83
+T.I.P.S.A.;4.4;11
+TheyDo;4.7;11
+Nota Bene;4.3;12
+MGS Seguros;4.0;9
+Sra. Rushmore;4.3;4
+The Ocean Race;4.3;5
+GD Human Capital;4.6;4
+Ayuntamiento de Oviedo;4.3;9
+Inveready Technology Investment Group;4.0;7
+Montero Aramburu Abogados;4.8;7
+Seddi;4.5;6
+Zalaris;4.4;105
+BVI;4.1;100
+Creaform;4.2;71
+Kwanko;4.4;62
+The Lee Company;4.0;85
+Supercomputing Centre of Galicia;4.3;5
+Muse Group;5.0;26
+Ebro Puleva;4.0;16
+VERESCENCE;4.0;62
+Artlogic;4.4;27
+Mundo Joven;4.0;38
+Lead Tech;4.3;40
+SafeBreach;4.8;86
+Sany Heavy Industry;4.0;116
+Ambiental Limpeza Urbana e Saneamento;4.1;97
+Argo Solutions;4.0;82
+Compactor (Brazil);4.0;24
+FSP Consulting Services;5.0;39
+DPZ;4.2;140
+HeyJobs;4.3;167
+Immuta;4.2;55
+Estamp;4.7;10
+Centro de Biología Molecular Severo Ochoa;4.0;13
+Ryan Transportation;4.2;99
+STL;4.3;35
+Banco Falabella;4.1;139
+Tresata;4.1;41
+Insight Technology Solutions;4.2;39
+Duoc UC;4.3;46
+EWE;4.2;75
+Orbis Consultants;4.0;64
+Nas Daily;4.4;42
+Atlantic Coast Merchandising;4.2;96
+Venga;4.4;50
+SIRT;4.1;8
+Prestalo;4.1;9
+Marine Instruments;4.8;6
+Fall Creek Farm and Nursery;4.1;27
+M3 Engineering & Technology Corp.;4.3;100
+Bovis (Spain);4.0;12
+Peoplepath.io;4.3;57
+AGM;4.2;48
+Universidad del Norte;4.3;148
+Myriad Provisions International;4.5;90
+Visca Web;4.1;8
+ETC;4.0;58
+Lano Software;4.3;22
+Cafeto Software;4.3;109
+Scentbird;4.7;75
+Emera;4.0;72
+Tirant lo Blanch;4.1;9
+MARUGAL;4.2;12
+ESSALUD;4.1;60
+balena;4.1;40
+Nyoibo Studio;4.2;88
+Constructor;5.0;37
+Lorem Ipsum;4.1;37
+Pinturas Prisa;4.4;51
+CAP INGELEC;4.5;23
+3i Group;4.5;66
+Electric Square;4.4;59
+Advanced Programming Solutions;4.8;11
+Advanced Programming Solutions;4.8;11
+Fundación Tekniker;4.6;8
+Nubika;4.3;10
+Plexus Tech (Germany);4.1;9
+Grupo Tus Media;4.1;8
+Instituto de Biomecánica de Valencia;4.1;10
+Fuego Camina Conmigo;4.0;7
+Some Company;4.2;45
+GetWith;5.0;6
+Rocket Digital;4.1;8
+Zendal;4.0;7
+Itequia;4.1;5
+Aitana Management;4.1;6
+TherapyChat;4.1;8
+TheVentureCity;4.5;11
+Instaleap;4.4;52
+Dolce Vita;4.2;37
+Timestamp Group;4.3;45
+AMEC;4.3;67
+Stanton Chase;4.1;72
+Tambourine;4.2;63
+Camp Ozark;4.1;150
+Lang.ai;4.8;8
+iBus Media;4.1;21
+CGA;4.1;70
+Amway;4.1;99
+FGH;4.2;77
+Denmark Ministry of Foreign Affairs;4.1;51
+VHR;4.4;64
+Yves Rocher;4.2;64
+Teemwork.ai;4.0;94
+Sabico group;4.0;12
+IM Mastery Academy;4.2;55
+Angelini Holding;4.2;11
+Itainnova;4.3;8
+Hotel Investment Partners;4.4;12
+TAVIL;4.0;8
+Leadclic Solutions;4.4;7
+ZZZ;4.2;45
+Hasselt University;4.1;84
+Ontwice;4.2;15
+Banco Bci;4.6;57
+Urban Campus ( France);4.2;8
+ESAT;4.3;21
+Imperial;4.0;61
+Loginter;4.1;99
+International Mission Board;4.1;119
+WebiMax;4.1;91
+Twin Pines;4.7;9
+GSSR;4.6;17
+Lebanese American University;4.4;185
+Hebron;4.0;96
+SENER Ingeniería y Sistemas;4.0;7
+Bluespace Self-Storage;4.4;9
+Fuerte Hotels;4.6;9
+Volpak;4.6;9
+Maped;4.1;61
+Hotelplanner.com;4.5;175
+Arhis;4.4;15
+DEUS (Netherlands);4.6;10
+Unnati;4.4;44
+ROADIS;4.1;17
+Wirex;4.2;72
+Kognitiv Inc.;4.6;61
+EURAC;4.2;54
+The Urban Unit;4.1;65
+Kcell;4.0;65
+Diputación;4.6;7
+OCU Ediciones;4.0;5
+Puleva Food;4.4;12
+Ayuntamiento de Granada;4.6;9
+Puleva Food;4.4;12
+Ford Espana;4.4;9
+Yoplait;4.2;97
+ASD Data Services;4.2;46
+Viseven Group;4.0;62
+Secretariat;4.1;64
+Flos (ITALY);4.0;13
+Worky;4.6;18
+Future Connections;4.5;9
+Image de Marque;4.2;16
+XYZ (Hong Kong);4.3;81
+Noventiq;4.0;80
+BrightInsight;4.2;54
+Séura;4.0;34
+Tinybird;4.2;16
+Nederlia;4.9;10
+Cromsource;4.5;67
+Cleverlance;4.5;46
+IN-RGY;4.5;32
+Meisterlabs;4.0;21
+HypeAuditor;5.0;80
+GBTEC;4.5;12
+Nichirin;4.0;19
+Spanish Embassy;4.1;25
+Autorité des Marchés Financiers France;4.2;66
+Bluecell;4.5;13
+ITESO;4.5;111
+Runa HR;4.1;110
+we are era;4.1;37
+Don Bosco;4.1;59
+Qualis;4.0;58
+Vidsy;4.5;40
+Itera;4.0;19
+POLICÍA NACIONAL DE COLOMBIA;4.4;57
+Guelph General Hospital;4.1;72
+Adaro;4.5;92
+Distribuidora Independiente;4.8;71
+Ayuntamiento de Sevilla;4.3;7
+ORQUEST;4.1;5
+Barkibu;4.2;7
+INOXPA;4.1;15
+Grupo Familia;4.5;72
+Test123;4.4;40
+Tecnoquímicas;4.3;99
+Empatica;4.1;26
+Yumeda;4.8;14
+Leds C4;4.1;7
+DAAD;4.4;92
+Abitat Construction Solutions;4.1;43
+RCD;4.0;11
+GitKraken;4.6;13
+CODA GLOBAL;4.3;58
+AUSA (Autopistas Urbanas S.A.);4.0;39
+Nunhems;4.0;22
+Kempen & Co;4.1;59
+Centro Médico de Campinas;4.3;84
+MegaLabs;4.2;23
+Expert Systems;4.1;13
+Sparta Commodities;4.6;8
+The Remote Company;4.6;50
+Terry Soot;4.8;48
+Peaksel;4.7;25
+Alter;4.1;5
+ATAI Life Sciences;4.7;44
+Fábrica Carioca de Catalisadores;4.4;91
+NODRIZA tech;4.6;9
+Università Roma Tre;4.2;107
+Trama Comunicação;4.0;48
+Ghent University Global Campus;4.2;78
+EASYRECRUE;4.3;27
+Alstrom Gris;4.3;30
+Bla Bla;4.5;12
+Arts et Métiers;4.3;96
+Grupo Hamada;4.0;61
+Editorial Projects-Education;4.2;38
+Bacardi Martini;4.4;20
+ScrumStart;4.4;61
+Penningtons Manches Cooper;4.0;46
+The Glover Park Group;4.0;76
+Loka;4.5;67
+Viña Concha y Toro;4.1;80
+Linguo Go;4.1;171
+Sabio Holdings;4.3;29
+Multiscan;4.2;15
+IMDEA Materials;4.8;8
+CAF Turnkey & Engineering;4.2;5
+habitaclia;4.5;4
+Hoteles Globales;4.5;12
+Build38;4.6;9
+Ventas Y Servicios;4.2;68
+Ferreyros;4.5;66
+Unica;4.0;55
+FlexTrades;4.9;101
+Grupo Guidoni;4.1;78
+Universität Konstanz;4.5;36
+Tamoin;4.2;9
+ASAP Worldwide;4.0;18
+source{d};4.2;10
+GoTrendier;4.1;11
+OneRagtime;4.1;12
+BBDO Argentina;4.1;60
+Universidad de San Andres;4.3;71
+Hive;4.3;38
+CQ Medical;4.6;40
+OMICRON electronics;4.4;72
+Reliance Health;4.0;107
+MY.GAMES;4.6;62
+femtasy;4.4;24
+tts;4.5;35
+ICAO;4.0;92
+International Services;4.3;115
+CIS Abroad;4.3;39
+Mindojo;4.1;51
+Advanz Pharma;4.1;58
+Consultorio Particular;4.4;76
+Magna Powertrain Engineering Center;4.0;79
+iKhokha;4.6;87
+Expero;4.9;18
+Ingka Centres;4.2;35
+ICBF;4.1;54
+Bayes Esports Solutions;4.0;44
+Grupo Coomeva;4.3;68
+Banco Del Pichincha;4.1;30
+Psyop;4.2;69
+Quotatis;4.2;43
+APIVITA;4.3;41
+Valley College;4.1;54
+COINLIST;4.0;40
+HOSPITAL SAN ROQUE;4.2;13
+Mutter Ventures;4.6;23
+Centro Nacional de Análisis Genómico;4.4;10
+Grupo Penny Wise;4.0;11
+The Happy Beavers;4.7;48
+Sport City Gimnasios;4.1;55
+Unikie;4.1;31
+Ferrovia Transnordestina Logística;4.2;47
+ALO7 Network Technology Co;4.3;134
+Siigo;4.0;87
+JustPremium;4.4;47
+Valid;4.2;40
+Minsair Brasil;4.0;51
+AZURE HR;4.0;17
+ImageX;5.0;95
+Proponent;4.0;30
+Nimble Giant Entertainment;4.0;38
+Dibal;4.2;10
+Publicis Groupe;4.0;61
+Sinergia Media Labs;4.1;66
+AR;4.0;33
+Ayala;4.4;63
+DEVOPS;4.3;38
+Software Engineering;4.0;54
+IDENER;4.8;6
+Grow Comunicacion;4.1;8
+Coinscrap Finance;4.6;7
+Supply Nexus;4.3;9
+AUXILIAR CONSERVERA;4.7;7
+STAGE CLEAR STUDIOS;4.4;7
+Consejería de Educación, Cultura y Deportes;4.6;8
+Investoo Group;4.2;74
+Lost Boys Interactive;4.2;63
+Aeronautica;4.7;82
+NTV;4.1;30
+ONTIME Logística Integral;4.1;11
+Finergreen;4.1;14
+IDPP;4.1;47
+Eneba;4.2;40
+Dexia Crédit Local;4.1;51
+Sophilabs;4.1;33
+Carlos O'Kelly's;4.0;94
+Xpertal;4.0;90
+Superscript;4.1;53
+Planner 5D;4.5;19
+Rocket;4.3;21
+Mize;5.0;10
+SettleMint;4.4;24
+Decos;4.3;88
+ExaGrid Systems, Inc.;4.3;273
+International TEFL Academy;4.2;31
+Maflow;4.0;35
+Reliable Controls;4.5;41
+Save the Children;4.3;32
+TELANTO;4.3;11
+La Vanguardia Ediciones;4.3;10
+Stratton Mountain Ski Resort;4.0;81
+TECHO;4.0;102
+All Inclusive Marketing;4.5;44
+AppAgent;4.8;7
+VIRTUS (Brazil);4.5;80
+nPlan;4.8;26
+Stafford House International;4.0;94
+Regent Seven Seas Cruises;4.0;87
+Lolo;4.2;18
+YESNYOU;4.4;39
+Restaurante Mau Nenhum Grill;4.2;20
+Tastewise;4.5;57
+BRIC Group;4.8;9
+Codex;4.0;65
+Banco de la Republica de Columbia;4.6;101
+RMS;4.2;60
+ClickBank;4.3;76
+Tejas;4.0;58
+Lemon.io;4.9;80
+Fortris;4.6;9
+Devour Tours;4.8;11
+CrediMarket;4.0;6
+Tecalis;4.4;7
+Fundación Servipoli;4.0;15
+Fundación Universidad Empresa;4.0;6
+Les Roches Marbella;5.0;10
+Caja Rural Central;4.0;10
+anfix;4.1;9
+Evolution Europe;4.1;9
+Nexthink Spain;4.4;5
+Aigues de Barcelona;4.4;9
+Incotec;4.1;14
+AI bees;4.3;73
+Azul Systems;4.5;62
+Ferreteria EPA;4.3;46
+Massive Bio;4.1;30
+Cervecería Nacional Dominicana;4.4;42
+Business Analysts;4.1;53
+Classic Photographers;4.4;57
+ProFinda;4.3;35
+Diabolocom;4.0;27
+Mitgo;4.4;79
+Flock;4.0;63
+STRATESYS TECHNOLOGY SOLUTIONS S.L.;4.0;10
+IZHARIA INGENIERÍA;4.2;9
+Kanteron Systems;4.9;6
+Programa de las Naciones Unidas para el Desarrollo (PNUD);4.3;42
+Tigers Childcare;4.7;25
+LACER Afterschool Programs;4.0;12
+The Language Doctors;4.3;73
+Moburst;4.2;53
+Lohika;4.4;133
+Eros International;4.5;115
+Gtreasury;4.1;78
+Paymentology;4.5;61
+The European Society for Blood and Marrow Transplantation;4.0;10
+Psicólogo Clínico;4.5;55
+Tauw;4.1;32
+TMF;4.0;48
+factory14;4.1;12
+Ikos;4.4;24
+Sirenis Hotels;4.0;21
+Wunderdog;4.1;16
+LoveCrafts Collective;4.0;64
+Tracsa Cat;4.6;73
+Seequent;4.1;97
+Brave;4.6;40
+Court of Justice of the European Union;4.3;51
+Magna Ludum Creatives;4.6;19
+Trouva;4.2;72
+Ackerman McQueen;4.2;79
+Bookassist;4.2;13
+Beeline (Kazakhstan);4.5;92
+ROTA Agency;4.2;101
+Opal Financial Group;4.2;98
+young promotion;4.1;12
+EthiFinance;4.3;24
+Bluefish Communications;4.3;23
+Psicotec;4.2;9
+Prysma;4.0;10
+Fundación Cepaim;4.0;8
+Bonnysa Agroalimentaria;4.4;9
+GoodNews;4.3;9
+TT Technologies (Information Technology);4.1;26
+TAXI;4.1;110
+Christeyns;4.2;23
+Santa Ana College;4.3;61
+Interex Group;4.0;74
+Nipponflex;4.4;80
+Indizen Optical Technologies;4.1;6
+APPSfactory;4.1;50
+No Limit Creatives;4.1;96
+City of Medellin;4.2;46
+Stoke Travel;4.5;13
+Receptions;4.4;45
+Brand Finance;4.0;69
+Absolutely No Nonsense Admin;4.7;46
+United Nations Economic and Social Commission for Asia and the Pacific;4.2;139
+Hofmann SLU;4.1;10
+Fretello;4.8;20
+Go Global Travel;4.0;23
+Armada;4.0;24
+Conselleria d'Educació, Cultura i Esport;4.7;7
+Overture Life;4.4;7
+VIARIUM INGENIERÍA,;4.5;10
+Hospital Universitario 12 de Octubre;4.1;9
+BROSETA;4.1;10
+vFairs;4.2;77
+AG Solution;4.3;9
+BW Papersystems;4.0;39
+Professora Particular;4.6;46
+Intellectsoft;4.7;54
+Rumo Soluções;4.2;81
+Aboitiz Equity Ventures;4.2;76
+EC Innovations;4.6;51
+Colégio Sagrada Família;4.5;20
+Empty;4.3;8
+OMG;4.0;64
+Denso;4.2;48
+Assistante Administrative;4.0;53
+Elrow;4.4;6
+sotysolar;4.1;10
+TransGlory;4.0;10
+Europamundo Vacaciones;4.4;8
+Empieza Por Educar;4.6;9
+Improven;4.3;6
+CHM;4.0;11
+Storyteq;4.1;32
+Poke House;4.0;48
+StuartCo;4.0;32
+Escuela Bancaria y Comercial;4.0;70
+Not Your Business;4.2;18
+XING E‑Recruiting;4.2;22
+Tu Vieja;4.1;9
+RCP Ranstadt;4.1;26
+OMG;4.0;55
+JLL Partners;4.0;68
+Legal Soft;4.0;103
+Scrive;4.5;53
+Carlson Wagonlit Travel;4.0;70
+SITECH;4.3;37
+Best Upon Request;4.0;56
+RMT;4.2;33
+Hospital Materno Infantil;4.6;39
+Colombina;4.5;48
+Helpjuice;4.3;24
+Hearst;4.0;43
+Alcom Electrónicos de México;4.0;50
+CTI;4.1;41
+Lily's Kitchen;4.1;40
+Port de Barcelona;4.5;8
+TSD Consulting;4.3;7
+Deuser Tech Group;4.1;8
+Polygonal Mind;4.3;3
+Lightbox Animation Studios;4.3;7
+Chillistore Technologies;4.5;23
+Wise Athena;4.5;13
+NOK;4.0;23
+Banco Interamericano de Desarrollo;4.1;34
+Qumram;4.9;11
+AZKOYEN;4.6;10
+BEKA Finance;4.1;14
+Ucademy(Spain);4.0;6
+Coxabengoa;4.2;10
+Sigma Technologies (Ohio);4.3;62
+Vinmar International;4.1;69
+Implement Consulting Group;4.5;48
+PSL;4.0;38
+Seguros Rivadavia;4.3;76
+Start.io;4.3;60
+Daxx;4.5;77
+ITQ;4.3;34
+Congreso de la Nación Argentina;4.2;27
+Sitly;4.2;22
+Laboratoires Théa;4.2;30
+Board of European Students of Technology;4.4;55
+Share Creators;4.1;53
+Mahisoft;4.6;35
+Agentero;5.0;4
+Stensul;4.6;62
+OriGene;4.7;44
+Saphire Solutions;4.3;7
+Iran Khodro;4.0;103
+Cortag Indústria e Comércio;4.1;36
+INS Global;4.5;60
+Neumann Kaffee Gruppe;4.1;34
+MODO;4.3;57
+University of Jyväskylä;4.0;72
+Syngenta (Asia Pacific);4.1;71
+100Devs;4.9;139
+Electronic Identification;4.3;8
+Smartvel;4.2;5
+Monereo Meyer Abogados;4.3;8
+BIOIBERICA;4.2;5
+Viajes Para Ti;4.4;8
+Gram Games;4.5;36
+luisaviaroma;4.1;51
+Lenses.io;4.0;10
+Flad Architects;4.2;43
+Artistic Milliners;4.0;92
+Atlantic Group;4.2;73
+Finaro;4.1;72
+Superbet;4.1;49
+British Embassy Mexico City;4.2;46
+Pixel and Pixel;4.1;6
+Novanotio;4.7;4
+Smart Global Governance;4.3;25
+The Worldfolio;4.2;16
+redcoon;4.3;16
+Virtus;4.4;40
+Maxon Group;4.2;41
+Juniper;4.2;37
+Spotcap;4.1;28
+Promart;4.5;57
+Redbee Studios;4.3;72
+Innovative Technology;4.5;78
+JBL Group;4.3;49
+Lantmännen;4.0;64
+ClickIT Smart Technologies;4.6;65
+Oui;4.2;43
+gmp Architekten;4.0;67
+Universidad Popular Autónoma del Estado de Puebla;4.2;62
+Bp Gas Station;4.0;65
+TECNUN;4.0;16
+Tarjeta Shopping;4.0;51
+AiFi;4.5;42
+Yardzen;4.1;59
+GERENTES;4.2;52
+Chamberlin Roofing & Waterproofing;4.1;66
+American School of Barcelona;4.8;7
+Interacso;4.8;5
+Agencia Española de Medicamentos y Productos Sanitarios;4.1;8
+Hallam;4.5;64
+Scuola Normale Superiore;4.2;52
+INTUS Windows;4.2;48
+USFQ;4.6;63
+CVC;4.0;28
+Beta-i;4.0;33
+QuoIntelligence;4.6;10
+Sain Gobain;4.2;52
+Estrada Consulting;4.3;27
+Armando Montelongo Companies;4.0;105
+Time Doctor;4.8;121
+Mango IT Solutions;4.2;72
+Promsvyazbank;4.0;84
+Nubik;4.6;69
+Good Company;4.2;89
+Sandler Training;4.1;79
+Mimi Hearing Technologies;4.5;44
+Troop (Spain);4.7;3
+INVYO;4.3;14
+Smithers-Oasis Company;4.1;43
+La Relève;4.7;16
+CCEP;4.5;14
+PRH;4.0;20
+Inventa;4.6;37
+Nomad Capitalist;4.8;84
+JDE Peet’s;4.0;50
+Liliana;4.1;63
+Biko;4.5;9
+ROICOS;4.5;16
+Peoplematters;4.9;5
+Madrid & Beyond;4.1;10
+RVF International;4.5;10
+Viva Games Studios;4.1;7
+Delivery Associates;4.4;41
+CEF;4.7;43
+Gradle Inc.;4.0;74
+Oetker Collection;4.2;42
+Dhar Mann Studios;4.7;86
+The Sports Facilities Companies;4.1;67
+INIT;4.0;45
+Credicorp Capital;4.2;150
+Vivendi;4.0;55
+EasyMile;4.3;54
+NO WAY;4.2;23
+Tubos de acero;4.1;50
+SDD;4.3;18
+Proemion;4.3;27
+Stiftung Warentest;4.1;27
+Educaria;4.2;12
+RCD Hotels;4.3;34
+Durman;4.2;15
+México Desconocido;4.5;9
+Ravensburger;4.0;54
+Clio;4.1;40
+Digital Silk;4.0;77
+Piscines Desjoyaux;4.2;17
+3H Partners;4.0;40
+Promofarma Drogarias;4.0;109
+Amplemarket;4.9;17
+Adare Manor;4.0;56
+Elica;4.0;56
+ContecNow;4.7;9
+GrupoUno CTC;4.0;6
+La Despensa Ingredientes Creativos;4.2;9
+Hispacold;4.5;7
+CAFOSA GUM SAU;4.5;10
+Tenkai Technologies;4.6;13
+GOVERTIS Advisory Services;4.7;8
+Fly-Fut;4.4;13
+Laminar (United Kingdom);4.3;28
+Cellusys;4.2;34
+United Nations Framework Convention on Climate Change;4.1;99
+Steigenberger Hotels;4.0;65
+INVOKE;4.6;8
+Snippet;4.2;4
+Improva Consulting;4.8;6
+LS Retail;4.8;41
+Gymlib;4.2;47
+Andovar;4.4;58
+Intelligence Partner;4.0;10
+INIA;4.3;13
+Fundación Real Madrid;4.1;13
+Kennedy Wilson;4.0;75
+Glady;4.6;71
+ICC;4.5;62
+Consultoria de RR.HH;4.0;17
+Talent Hackers;4.5;7
+Tennders;5.0;7
+Heller;4.3;41
+Verian;4.0;30
+Almabani General Contractor Company;4.1;90
+Royal Caribbean International;4.1;70
+Chillisauce;4.1;73
+Skandia;4.0;64
+CNC;4.0;50
+Brazmax;4.4;37
+ev.energy;4.7;7
+Dija;4.4;20
+University of Carabobo;4.1;29
+Alpha (Spain);4.0;6
+QA Engineering;4.5;37
+Backus;4.2;68
+Shamrock Companies;4.2;27
+Ayoka;4.2;43
+HeadHunter;4.7;51
+ERCO Worldwide;4.4;53
+Livit;4.8;51
+Casa dos Ventos;4.4;49
+MATRIXX Software;4.1;52
+Soporte Técnico;4.0;41
+CM Capital Markets;4.0;27
+SIA Group;4.0;12
+3D Cloud;4.5;72
+Jose Luis Salons & Boutique;4.1;26
+Supermercados Peruanos;4.2;69
+Prosci;4.1;39
+Sotogrande International School;4.2;8
+Serimag Media;4.0;9
+Circular;4.4;7
+LOEWE;4.3;12
+Saban Community Clinic;4.1;46
+Optic Power;4.0;100
+¡Hola!;4.4;9
+Next Matter;4.2;5
+ObviousPeople;4.3;30
+Behance;4.9;35
+Ammann Group;4.2;48
+Robinson & Cole;4.0;47
+Süss MicroTec;4.2;42
+Garware Technical Fibres;4.2;67
+PlanetHoster;5.0;167
+Ubits;4.2;81
+Pepe's;4.2;20
+Added Value Solutions;4.1;12
+Danobat;4.7;8
+Work From Home Adviser;4.3;41
+Ibiza Rocks;4.4;11
+Rollbar;4.4;17
+Axxon Consulting;4.2;82
+AAI;4.2;48
+Aidoc;4.5;47
+Raiffeisenbank;4.0;50
+SafetyWing;4.4;33
+Auditoria Superior de la Federacion;4.3;54
+Tempotel;4.0;1
+SEARCHIT;4.1;7
+Aresbank;4.0;5
+Link To Media;4.3;9
+El Arte de Medir;4.5;7
+DevCenter (Spain);4.6;3
+Museo Nacional Centro de Arte Reina Sofía;4.1;6
+Calima Solutions;4.9;12
+Logixs;4.3;11
+FoshTech;4.5;4
+Fundación Laboral de la Construcción;4.4;6
+Le Petit Ballon;4.2;9
+Concentric Advisors;4.5;42
+Simplr;4.0;60
+Aenor Internacional;4.0;10
+Scoot Networks;4.5;25
+Luminovo;4.9;55
+Digital Product School;4.8;36
+Orchestra (Paris);4.7;39
+Instituto de Tecnologia Química e Biológica;4.1;17
+Giochi Preziosi;4.1;45
+Abcdefg Naming Agency;4.0;58
+FRISS;4.0;43
+NovaRed;4.0;51
+Zanders Treasury, Risk, and Finance;4.6;36
+ONErpm;4.0;59
+UI Designer;4.1;42
+Littlejohn & Co.;4.4;9
+Genasys;4.4;7
+Primavera Sound;4.6;9
+humanITcare;4.5;8
+ONCE;4.1;7
+Entertainment Solutions;5.0;6
+TACTIO Management Consulting;4.2;8
+quirin bank;4.3;6
+Bionest;4.1;19
+La Brosse et Dupont;4.2;32
+Spidergap;5.0;10
+Lombardini22;4.1;44
+RESEAU ENTREPRENDRE;4.3;37
+EFE;4.0;20
+Syde;4.7;19
+Academica;4.3;52
+NIER Ingegneria S.p.a. Società Benefit;4.0;25
+360 Talent London;4.4;50
+Aggregate Intelligence;4.0;47
+Amigos de las Américas;4.0;43
+Integra;4.3;34
+Saunier Duval;4.0;15
+ModiFace;4.2;47
+Effilab;4.1;54
+Makeup Artist;4.4;55
+Leuphana Universität Lüneburg;4.2;45
+Mercaux;4.5;12
+YAZIO;4.9;21
+YouCanBook.me;4.1;13
+Azumo;4.0;32
+SQA Consulting;4.1;31
+Compensar;4.7;77
+Principle;4.1;59
+Deutsche Hospitality;4.1;56
+Boycor;4.3;3
+TRANSPORTE INTEGRAL DE PAQUETERIA;4.0;10
+Voxel School;4.5;10
+Centro de Biotecnología y Genómica de Plantas;4.0;9
+Institut de Robòtica i Informàtica Industrial;4.6;8
+Elevate Agency;4.5;32
+Icon Solutions;4.1;32
+BACKEND;4.0;35
+Konstant Kreative;4.3;77
+K21;4.3;11
+OctaFX;4.0;26
+Anoniem Mensfiguren;4.0;19
+Vogue International;4.0;37
+FALCON;4.2;29
+MHI;4.1;12
+Peru Ministerio de Educacion;4.2;29
+Zero Latency;4.2;30
+Entrepreneurs Circle;4.0;39
+Global Search Services;4.3;38
+TAPTAP Networks;4.0;5
+Eu Empresa;4.6;15
+Grupo Impacto;4.3;60
+Rootstack;4.4;58
+Euro Exim Bank;4.4;67
+OAK’S LAB;4.8;39
+Decode;4.2;33
+Pandit Deendayal Petroleum University;4.1;74
+Vogue (Australia);4.3;21
+InVision Communications;4.0;38
+Mortgage Solutions of Colorado;4.6;68
+Cementos Molins;4.2;10
+Barcelona City Council;4.5;10
+Exodus;4.3;34
+GameChange Solar;4.1;47
+Los Altos Software Testing House;4.6;63
+Auna;4.3;57
+Projectus;4.6;36
+UnternehmerTUM;4.0;46
+Red Sift;4.1;24
+Lavanderia;4.2;33
+Travod International;4.1;55
+Dragonfly;4.0;37
+Brightgrove;4.6;53
+Mozio;4.5;46
+Alfen;4.0;35
+REVA;4.1;65
+Junta de Extremadura;4.1;11
+Canterbury English TEFL;4.3;14
+Fuell;5.0;10
+Fundación Vicente Ferrer;4.6;5
+TUC RAIL;4.4;56
+Camorim Serviços Marítimos;4.3;70
+TCN;4.6;33
+Saphetor;4.6;15
+MDE Installations;4.2;46
+Mention;4.3;39
+Comeet;4.4;23
+Schmitz Cargobull;4.2;26
+Women's Health;4.0;17
+Keifitech;4.6;9
+Influencity;5.0;18
+Kaizen;4.0;27
+Chicco;4.1;36
+Corporación Digitel;4.3;53
+SmartCow;4.0;76
+HOLOPLOT;4.6;34
+Lodgerin;4.2;10
+La seu central de l'Institut Català de Finances (ICF) es troba a:;4.4;7
+Tyris Software;4.6;6
+La seu central de l'Institut Català de Finances (ICF) es troba a:;4.4;7
+Ibermutua;4.2;9
+Talent-R;5.0;9
+Junta de Andalucía;4.8;6
+Cabildo de Gran Canaria;4.6;6
+Hotel Ushuaia Beach Hotel;4.8;9
+BlitWorks;4.2;5
+Omega Peripherals;4.2;6
+Macrosad;4.2;7
+Starlab;4.1;13
+Pearson Ham Group;4.6;15
+EDEM;4.3;8
+Surexport;4.0;8
+AIReF;4.6;6
+Future Fibres;4.4;10
+Mormedi;4.6;7
+Melon;4.4;45
+ACIS;4.1;45
+CD Sales Recruitment;4.4;50
+inlumi;4.0;38
+DOJO;4.0;35
+Pininfarina;4.2;36
+Universidad Nacional del Litoral;4.0;56
+Culmen International;4.6;44
+FSDH;4.3;73
+Kreativstorm;4.7;56
+Cafam;4.1;41
+Hygraph;4.4;18
+TLM Partners;4.0;42
+SUSA flexibel studentenwerk;4.3;35
+Mifarma;4.2;8
+Fusion for Energy;4.1;23
+CEOE;4.3;10
+Lleida.net;4.5;2
+Bolbrac Digital Printing;4.4;13
+SENSIA Solutions;4.1;6
+Oceans Code Experts;4.8;42
+Career Karma;4.0;57
+Human Rights Foundation;4.2;57
+Marathon Sports;4.0;60
+LGFG Fashion House;4.7;66
+V.Ships Brasil;4.2;69
+Optima Family Services;4.1;23
+Airbnb Management Service;4.2;28
+Truevo Payments;4.4;29
+Viva - Executive Assistants;4.9;66
+Bar & Barman;4.3;28
+Doist;4.7;30
+LOEWE;4.2;8
+Escalate;4.0;32
+Combo;4.7;32
+Darwoft;4.4;63
+Sensus;4.0;37
+KUO;4.0;19
+BMT;4.0;15
+Norvento Enerxía;4.0;13
+BANKINTER CONSUMER FINANCE;4.6;7
+Interactius;5.0;2
+Laboratoires Grand Fontaine;4.2;7
+Last.app;5.0;5
+Grup Montaner;4.6;7
+Disbesa;4.5;7
+BIM;4.0;28
+Cleeng;4.7;49
+HSSMI;4.0;29
+Mostly AI Solutions MP;4.6;23
+Bestway;4.7;52
+Python Software Foundation;4.7;41
+DJ's Landscape Management;4.0;37
+SIKA;4.1;32
+Bam.tech;4.2;34
+Cuprum;4.0;44
+Sayers Technology;4.1;49
+ALTIUS;4.0;11
+TraineeLand;4.0;17
+Hostel One;4.6;16
+Mediolanum Bank;4.3;7
+Aptitude Global;4.0;13
+Rapidminer;4.6;57
+MASS Design Group;4.1;49
+Syngenta Seeds;4.0;46
+Hochland Group;4.0;20
+La Cure Gourmande;4.0;14
+Socialicity;4.5;6
+Savia;4.9;8
+Terumo Europe;4.2;28
+Game Lounge;4.1;19
+Impact Partners;4.2;40
+Carnovo;4.5;10
+Hiperbaric;4.0;8
+Cocinas;4.2;23
+Makersite;5.0;24
+Cludo;4.1;34
+SkySpecs;4.0;32
+Ozone Overseas;4.0;70
+SOS International;4.0;50
+Signature Travel Network;4.5;49
+Beetroot;4.6;47
+The American School Foundation;4.1;55
+Grability;4.1;47
+Centro Pfizer-Universidad de Granada-Junta de Andalucía de Genómica e Investigación Oncológica;4.1;8
+Martico;4.3;6
+AdQualis;4.3;8
+CeleBreak;4.2;9
+Ragasa;4.3;47
+Andjaro;4.3;40
+Zavala Civitas Executive Search;4.4;13
+Further;4.6;35
+Preply Educacional;4.1;24
+Ratiopharm;4.1;16
+Altair;4.3;8
+Grupo Index;4.1;20
+Core Strengths;4.2;42
+FH;4.0;42
+The Fulbright Program;4.4;15
+Woebot Health;4.1;19
+Mudafy;4.1;59
+Zazmic;4.1;65
+Glomark International;4.3;11
+Presence Marketing Group;4.3;59
+PGS Software;4.2;33
+Presspart;4.7;11
+TBSCG;4.3;8
+RTS;4.1;44
+New York City Football Club;4.4;49
+T-Solutions;4.0;48
+Matific;4.2;108
+Flumotion;4.5;7
+Servicios financieros Carrefour;4.1;8
+Servicios financieros Carrefour;4.1;8
+Vanadys Solutions;4.4;5
+Enerparc;4.2;24
+Verbund;4.5;30
+Baxter Planning;4.0;27
+Pivotal London;4.6;39
+BNM;4.0;36
+Roga & Kopita;4.6;48
+PredictX;4.0;52
+Plotly;4.8;39
+Tria Federal;4.0;34
+Passion Digital;4.2;49
+Nubelo;4.3;8
+ERSIgroup;4.1;16
+Repsol Sport Centre;4.0;22
+Harvest;5.0;3
+UserWay;4.7;48
+Pento;4.1;14
+Universidad Nacional de San Juan (UNSJ);4.2;50
+SafeBoda;4.0;62
+Sqs Software Quality Systems;4.0;52
+Folder IT;4.3;45
+Descartes Labs;4.1;26
+TRW Sun Steering Wheels;4.1;49
+SAAM Towage;4.5;37
+Selecta Digital;4.0;6
+La Sirena;4.6;6
+Altamar Private Equity;4.2;11
+Rumbo;4.2;9
+Federación Española de Baloncesto;4.2;8
+Seopa;4.5;32
+Adkomo;5.0;8
+Instituto Tecnologico de Galicia;4.7;4
+Ómibu;4.0;6
+Tierra Burrito Bar;4.0;9
+COBRE LAS CRUCES, S.A;4.3;4
+Institut Català;4.4;7
+Edificio Educa EDTECH;4.5;7
+Deiser;4.1;8
+Europavia;4.3;10
+Diater;4.0;3
+Pepito grillo;4.2;10
+Pérez y Cía;4.0;6
+RE Resource Group;4.1;22
+Experta ART;4.1;53
+University;4.1;67
+British Institutes;4.0;57
+Sherpa;4.0;51
+Distribusion;4.0;23
+EUSA;4.4;25
+KEPAX;4.9;32
+Impala;4.0;11
+Zaelab;4.6;30
+Kubikware;4.8;41
+Gallina Blanca Star;4.0;9
+Barlovento Recursos Naturales;4.1;9
+PrideCom Comunicación;5.0;2
+WinSystems;4.1;9
+Brite;4.0;14
+ADEX;4.0;45
+Lingo Live;4.0;60
+Jina AI;4.2;25
+CoreWeave;4.4;34
+ProHealth;4.2;32
+Rebelmouse;4.4;48
+Fozzy;4.3;31
+Sandos Hotel & Resorts;4.3;41
+SO Connect;4.4;17
+Auditor of Public Accounts;4.0;29
+Selbständig;4.3;25
+Secoex;4.2;8
+B THE TRAVEL BRAND;4.2;7
+Onroad;4.5;4
+Nalanda Global;4.1;7
+Universidad Nacional de Quilmes;4.4;32
+Grupo Ramos;4.2;55
+Daw Se;4.1;29
+Putney Student Travel;4.5;34
+Grupo Odilon Santos;4.2;21
+VIQU Recruitment;4.8;42
+Kernel;4.3;39
+Admiral Slots;4.1;58
+RICARDO;4.4;11
+SMR;4.2;28
+Nuba;4.3;19
+Quark Tecnologia e Inovação;4.7;14
+Tecnópolis;4.1;58
+Logitech;4.0;29
+Tigo Telecel;4.0;57
+Quality Objects;5.0;3
+BMW Ibérica;4.5;6
+Hanzo (Spain);4.6;6
+Assembler Institute of Technology;4.6;9
+Grupo TRC;4.4;5
+AZ Capital;4.5;4
+Calaf Grup;4.3;6
+Caja Rural de Asturias;4.1;8
+PREMIUM MADRID CENTRO MÉDICO Y DE REHABILITACIÓN;4.6;10
+Silk Aplicaciones;4.4;2
+Grupo Español de Cáncer de Pulmón;4.0;8
+Caja Rural del Sur;4.1;8
+Externalia Outsourcing Comercial;4.1;6
+Mutares;4.3;19
+BSN;4.1;24
+Javier's;4.2;20
+Cooperativa de Consumo dos Empregados da Mondelez Brasil, Philip Morris Brasil e K&S Alimentos;4.1;30
+Global Leadership Adventures;4.3;39
+COREnglish;4.1;63
+Juju;4.2;40
+Eldar;4.1;48
+Plano Sports Authority;4.5;61
+Go Nimbly;4.3;41
+Sopra Steria Custom Software Solutions;4.4;20
+LINK Mobility;4.0;8
+LAVINIA;4.2;6
+CPS Group;4.3;39
+JTI;4.2;63
+Adman Media;4.0;10
+Itera Processes;4.2;10
+Groover(France);4.9;28
+Redslim;4.4;8
+Single Frame;5.0;18
+Sumas;4.2;8
+RINGANA;4.5;13
+EPI-USE Labs;4.6;11
+Service Layers;5.0;15
+Auto-desk Solutions;4.3;17
+Corendon;4.0;19
+Hôtel Kyriad;4.0;47
+Token.io;4.5;12
+Claretiano Colégio;4.0;16
+Blue Window;4.1;30
+Native Teams;4.9;59
+Decibel;4.1;16
+Nationale Suisse;4.2;12
+MVP Match;4.5;24
+TERMINALFOUR;4.0;13
+Oxford Language School;4.0;8
+renfe;4.0;6
+Pro-Art Dental Laboratory;4.1;98
+Mercato;4.0;40
+Legislatura de la Ciudad Autónoma de Buenos Aires;4.3;49
+Sandaya;4.4;41
+GMR Transcription;4.4;65
+Alicia;4.3;26
+PayEm;4.7;25
+Klingele Papierwerke;4.3;25
+netzstrategen;5.0;2
+Apiax;4.6;51
+Torro;4.0;53
+Kayzen;4.3;28
+Elkem Group;4.3;44
+GTA;4.1;33
+Harmonic;4.1;12
+Kurita;4.0;14
+Red Pimiento;4.4;18
+Nextility;4.0;19
+helpHousing;4.7;6
+Alpha Bioresearch;4.2;7
+Cinfo (Spain);4.0;2
+ELIX Polymers;4.3;8
+Fertinagro Biotech;4.3;6
+Roche Farma;4.4;8
+Fábrica Nacional de Moneda y Timbre;4.1;8
+Ad Maiorem;4.1;7
+Universite de Moncton;4.0;44
+Linguava Interpreters;4.0;51
+Crema;4.2;35
+Encora;4.0;41
+DealDash;4.5;38
+Lottie (United Kingdom);5.0;23
+Prüftechnik;4.3;24
+Grupo Mabel;4.2;29
+SquarePoint;4.0;6
+Factiva;4.2;11
+Future Workshops;4.8;13
+At-Bay;4.6;30
+Coeo;4.5;27
+COMAC;4.0;27
+Grupo Industrial Reyma;4.3;22
+Axiom Group;4.0;44
+Hero Gaming;4.3;39
+Perstorp;4.2;42
+Metalcam;4.7;15
+Getlife;4.7;6
+Shadow Robot Company;4.4;10
+Iomob;4.4;10
+Nucoro;4.3;5
+Locus Analytics;4.4;23
+Tooploox;4.3;46
+Tiama;4.0;43
+Linguamatics;4.5;28
+Tecsisa;4.8;6
+Heytrade;5.0;4
+mbudo;4.1;4
+Audens Food;4.0;7
+The Music Republic;4.3;9
+REFRIVAL;4.5;4
+DQSconsulting;4.7;7
+G-advisory;4.1;4
+Genjoy;4.0;7
+XARXA SANTA TECLA Sanitària, Social i Docent;4.3;5
+Aircury;4.9;11
+PROMOCIONES HABITAT;4.5;4
+Connecting Visions;5.0;8
+Ayuntamiento de Málaga;4.2;8
+Irontec (Spain);4.5;4
+Plastic7A;4.0;7
+Centre for Effective Altruism;4.4;13
+Fersa;4.1;10
+Cámara de Comercio de Bogota;4.5;28
+Sprinter Health;4.6;18
+Ayuntamiento de Almería;4.2;5
+AHK Spanien;4.5;8
+Manolo;4.6;7
+Rootstrap;4.2;72
+Regus do Brasil;4.0;43
+Kandidate;4.3;45
+Greenbank Holidays;4.0;54
+DSB;4.0;31
+Encord;5.0;40
+Digicode;4.8;55
+Norwegian University of Life Sciences;4.0;47
+AMZSCALE;4.9;28
+Sugatan;4.5;42
+EK Services;4.0;4
+Alvantia;4.0;8
+Correcto;5.0;8
+Axis Data;4.4;7
+ABAL Technologies;4.6;20
+Artelys;4.3;29
+Banco de Investimento Global;4.2;36
+EcorNaturaSì;4.0;26
+UFINET;4.0;37
+projekt0708 GmbH;4.4;7
+OXO;4.5;20
+European Union;4.2;29
+MacPaw;4.7;39
+Dropsuite;4.7;66
+University of Eastern Finland;4.1;77
+Adler Social;4.2;44
+Fyo;4.2;47
+obat;4.6;15
+diffferent;4.1;31
+Arthur Andersen & Co.;4.5;42
+Ingenieros Civiles (ICSA);4.0;16
+Forus Health;4.0;38
+The Medical Affairs Company;4.2;28
+Maverick Media;4.4;32
+Klaus;4.8;28
+softgarden e-recruiting;4.3;22
+Norango;4.2;17
+CAPSiDE;4.1;6
+VRANDED Haus;4.3;7
+Parc Científic de Barcelona;4.0;7
+Logiscenter;4.0;8
+Onda Cero;4.1;7
+Smarkia;4.8;10
+Bluekiri;4.4;6
+Cruz Roja Colombiana;4.6;14
+IT Company;4.1;25
+Astaldi;4.0;46
+Coccinelle;4.3;31
+Farm Direct Foods;4.2;26
+Castille;4.3;27
+Sv Technologies;4.0;5
+Designlab;4.4;42
+Intrepid (AL);4.7;17
+MESPACK;4.7;6
+GBS Finanzas;4.5;7
+IQS;4.8;5
+Schlaich Bergermann und Partner;4.5;14
+Hamilton Home Loans;4.2;25
+CT Ingénierie;4.2;15
+First Due;4.5;19
+DOXA;4.0;19
+Kannegiesser;4.1;14
+Academic Bridge;4.2;17
+Pullmantur;4.1;10
+IHR Consultancy;4.3;11
+SGAE;4.2;6
+RepeatMD;4.3;38
+GBH;4.8;45
+Scott Bader Company;4.2;34
+NXLog;4.3;21
+ANVISA;4.3;27
+Lausanne Business Solutions;4.4;31
+Igor;4.4;18
+Camarero Racetrack;4.0;7
+be one solutions;4.1;33
+wpd onshore;4.2;45
+MatchCraft;4.5;32
+Tribunal de Justiça de Alagoas (TJ/AL);4.3;48
+EIGENSONNE;4.2;19
+Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport;4.0;32
+Webcom Online;4.8;7
+Gericó Associates;4.3;16
+Shopopop;4.4;19
+Seperia;4.4;37
+Bunge;4.2;12
+Transak;4.2;37
+Cellwize Wireless Technologies;4.0;37
+Cartoon Saloon;4.4;26
+Iglu;4.7;42
+Panorama;4.2;16
+Sakura Japanese Steak, Seafood & Sushi;4.0;46
+Criteria;4.0;72
+Ad hoc;4.2;6
+Welcome Pickups;4.7;31
+ASK4 Group;4.6;28
+LearnWorlds;4.5;14
+Fingerprint;4.8;19
+Operto Guest Technologies;4.1;34
+AVLA;4.0;25
+Universidad Nacional Abierta y a Distancia;4.7;47
+GTC;4.3;33
+Zhilabs;4.0;9
+BRICKBRO;4.5;7
+Squaads.;4.2;10
+Kentech (Spain);4.4;3
+Lantania;4.3;6
+Verisk Information Technologies;4.2;30
+Caritas;4.3;26
+Superintendencia de Industria y Comercio;4.4;29
+netgo (Germany);4.2;13
+Aloha Poke;4.4;20
+TEAM 4 Kids Pediatric Therapy;4.2;39
+Government of Nepal;4.0;40
+Stronghold;4.0;36
+Political Intelligence;4.4;12
+Boluda Corporación;4.0;14
+EuroMed;4.1;19
+iolo;4.2;47
+Deliveroo Courier Services;4.1;39
+Andromeda Systems;4.2;38
+ABC Solutions;4.2;31
+Big Data Scientists;4.6;20
+PEAK Wind;4.2;26
+Titsa;4.4;11
+EMCASA;4.2;21
+QweQweQ AppLabs;4.0;9
+Ten Brinke;4.2;14
+Volcanic;4.1;20
+Achilles Group;4.0;23
+Grant PUD;4.1;40
+Sertran Transporte;4.0;40
+Big Dutchman;4.0;106
+ARDAGH METAL PACKAGING;4.3;31
+Topographic;4.3;44
+Dreem;4.4;37
+MJM;4.4;42
+Eficacia;4.2;54
+Inorbis Analytics;4.3;6
+ADEAS Hr;4.1;11
+Mondragon Unibertsitatea;4.0;5
+Virtual Cave;4.8;5
+Grupo Onetec;4.4;6
+EADTrust;5.0;5
+Keytoon Animation Studio;4.1;6
+WiTraC;4.2;4
+WiTraC;4.2;4
+Avantgarde (Spain);4.8;5
+Codebay Innovation S.L.;4.4;6
+Tecnun. Escuela de Ingeniería;4.3;9
+ACCIONA AGUA S.A.U.;4.1;7
+Podo;4.5;6
+Sólida Energias Renováveis;4.1;10
+BusUp;4.1;7
+Top Management;4.2;12
+Grupo Edebé;4.3;8
+Donte Group;5.0;2
+Nodes & Links;4.7;12
+CDP;4.1;23
+Fácil Espaider;4.4;30
+Mixta Africa;4.1;50
+EnergyCAP;4.7;40
+Banco Caja Social;4.4;51
+GRS Management;4.4;49
+Professional Sales Agents;4.4;16
+Deveryware;4.2;13
+Fundação Sistel;4.0;24
+Fonky;4.2;25
+Energi Core;4.2;34
+Disashop;4.0;5
+Adalab;5.0;3
+HARD ROCK HOTEL IBIZA;5.0;5
+Mijas Town Hall;4.8;6
+Talengo;4.2;6
+DSD Steel Group;4.1;25
+CBT;4.3;23
+CBT;4.3;23
+Agrosuper;4.4;40
+Modern Tribe;4.6;46
+TRG Screen;4.0;36
+Route4Me;4.2;82
+Optime Consulting;4.7;102
+Human Technopole;4.0;32
+GRUPO INDUKERN;4.3;7
+Tech Valley Talent;4.8;34
+Jobtome International;4.0;33
+Servicios de Ambulancias y Enfermería;4.1;16
+Appsilon;4.7;25
+PennyWise Solutions;4.1;50
+Katalyze Data;4.0;28
+Talently;4.2;32
+Boing;4.1;16
+Inneractive;4.4;12
+Varma;4.4;18
+Colegios Maristas;4.3;9
+Durian Industries;4.5;35
+Transearch International;4.0;42
+Xal Digital;4.0;41
+Saga Falabella;4.1;49
+Waldner Group;4.1;12
+HESCO;4.0;13
+Dober;4.2;29
+The Kebab Shop;4.1;20
+WeAreKeen;4.7;16
+Vitrolife AB;4.1;24
+IEP Therapy;4.8;23
+Contraloría General de la República;4.5;33
+Dcredit Servicios Financieros;4.2;6
+Numintec;4.5;8
+vivebiotech;4.0;5
+Turing Challenge;4.6;4
+Wattwin;4.2;6
+Diagnóstica Longwood;5.0;2
+Goikogril;4.5;6
+IMQ;4.4;8
+Pacific World;4.3;13
+Universidad Michoacana de San Nicolás de Hidalgo;4.0;38
+Jet2 Travel Technologies;4.0;29
+Lomonosov Moscow State University;4.3;46
+DNAMIC;4.6;55
+(RED);4.2;38
+St. Mary's School;4.0;32
+Partnerschaft Deutschland;4.0;27
+Seselec;4.2;10
+Servinformación;4.0;20
+Giant Swarm;4.5;15
+MediaPost;4.3;12
+Vertex Solutions;4.1;30
+SEP Events;4.3;27
+Winterberry Group;4.0;7
+IKOR (Spain);4.3;7
+Servicio Nacional de Salud;4.0;16
+ChargeGuru;4.5;15
+Affiliated Management Inc.;4.1;21
+Yape;4.5;27
+Dab Pumps;4.0;17
+Bakker Bart;4.0;19
+Sis ID;4.8;28
+Pioneer Investment;4.2;26
+Turbine Kreuzberg;4.8;33
+Web Developer;4.3;25
+ADDACTIS Worldwide;4.2;22
+ProMexico;4.3;51
+OIM;4.3;41
+Illuminet;4.1;33
+Primax;4.2;36
+Cobiscorp;4.0;39
+MediaSmart;4.8;8
+GrantSolutions;4.5;9
+Stoneweg;4.0;8
+Provolve IT;4.7;23
+DoubleCloud;4.7;8
+meinestadt;4.0;26
+Axonista;4.6;23
+Samokat;4.2;29
+BY MY CAR GROUP;4.1;33
+Thomson Professional And Regulatory;4.0;11
+Vuzix;4.4;13
+Syneto;4.6;14
+KPI6;4.7;11
+Corporación Nacional de Telecomunicaciones;4.0;31
+Emerald Cultural Institute;4.5;32
+Ignion;4.0;4
+Ministério do Meio Ambiente;4.3;40
+Maffei;4.1;8
+Tekla;4.0;29
+Frialsa;4.1;36
+CitNOW Group;5.0;26
+Cratos Equipment;4.2;24
+Copec;4.4;42
+Headspring (United Kingdom);5.0;4
+Gismart;4.2;39
+Context Travel;4.0;31
+Westin Hotels & Resorts;4.0;34
+Boopos;4.5;15
+Apogea;4.5;4
+Apogea;4.5;4
+Lumiform;4.8;21
+Qulix;4.0;33
+EMA Partners;4.4;29
+Sigli;4.8;22
+Austral Group;4.2;31
+Alicante;4.0;10
+AB Soft;4.2;24
+Flanders Investment and Trade;4.5;28
+TBM Consulting Group;4.0;20
+Atesa;4.6;18
+Real Federación Española de Fútbol;4.3;7
+Roomonitor;4.0;8
+HarBest Market;4.6;6
+Grupo Armando Alvarez;4.0;6
+Factor Libre;5.0;5
+CCIB;4.2;6
+ZakApps;4.5;40
+TextMaster;4.1;36
+SMD;4.4;31
+United Nations Capital Development Fund;4.0;51
+FGC;4.1;11
+Pasteletería;4.3;13
+Remofirst;4.7;22
+Pierre Fabre Pharma;4.1;24
+One Click LCA;4.3;25
+BIOS Management;4.3;12
+PorMiCuenta;4.4;14
+PPE Fios Esmaltados;4.5;31
+ANAGOG;4.5;20
+IEEE;4.5;18
+Grantify;4.5;20
+Arista Networks;4.7;31
+Caliper;4.0;26
+UCSD Academic Computing and Media Services;4.2;35
+TangoCode;4.8;21
+Upvest;4.7;18
+Leadstar Media;4.3;22
+Grail;4.0;10
+Ministerio de Sanidad, Consumo y Bienestar Social;4.6;7
+Gobierno de Aragon Servicio Aragonés de Salud;4.2;7
+MTNG Experience;4.5;5
+Smartick;4.4;5
+Norgestion;4.3;6
+Grupo Intermark;4.4;5
+Nexus Geographics;4.7;4
+7 i Tria;4.3;5
+Escapada Rural;4.6;5
+PiperLab;5.0;2
+Parc de Recerca Biomèdica de Barcelona;4.4;10
+Parc de Recerca Biomèdica de Barcelona;4.4;10
+Fundación Secretariado Gitano;4.6;8
+Geotelecom;4.1;7
+Zapiens (Spain);4.4;5
+Grupo Uvesa;4.3;8
+Jirada;4.2;6
+Gestión Pública de Extremadura;4.0;6
+Wincom;4.1;4
+Quercus Technologies;4.5;7
+Memora;4.4;6
+My Selections;4.2;27
+Aire;4.6;19
+Onshape;4.5;30
+Valoriza Agronegocios;4.2;41
+4D Pharma PLC;4.3;10
+FASTER;4.1;16
+Doubledot Media;4.8;28
+Castles Technology;4.0;25
+Leonisa;4.5;20
+Blue Stamp Travel;5.0;12
+Cobra;4.0;12
+Norman Foster Foundation;4.2;5
+Sembo;4.2;7
+Ono;4.1;7
+Supervisora de tienda;4.2;31
+Push Gaming;4.6;16
+NinjaHoldings;4.3;16
+24Slides;4.9;44
+Open Digital Services;4.2;5
+Friendly Rentals;4.1;9
+ZITRO;4.6;4
+Consejería de Sanidad y Consejería;4.0;15
+Grupo Facthum;4.0;8
+Domicilio;4.3;32
+Riscure;4.2;30
+Super Evil Megacorp;4.0;34
+Britannia English Academy;4.3;28
+AVSystem;4.8;16
+Insided;4.5;14
+Adesso;4.3;15
+Havas Play;4.1;12
+G. Group;4.5;16
+Indo;4.6;10
+DIGI ITALY;4.3;4
+YGroup Companies;4.3;4
+Corum Group;4.0;33
+Cloudx (Argentina);4.5;60
+Monalee;4.9;32
+CIEF;4.2;21
+China Three Gorges;4.0;12
+Essentiel Antwerp;4.2;19
+elements;4.8;16
+ABC Consulting;4.0;17
+Abbot;4.0;19
+Crossmint;4.8;13
+isendu;4.6;27
+Celsia;4.7;38
+Dataquest Labs;4.1;19
+Solteq;4.1;26
+German Online Institute;4.8;64
+Drivy;4.3;27
+Refineria Web;4.5;2
+AREX European Market;4.0;4
+GT Linkers;4.8;8
+VÓCALI;4.8;6
+ieTeam;4.1;6
+Ribe Salat Broker Correduria De Seguros Y Reaseguros;4.2;5
+Fundación Síndrome de Dravet;4.0;10
+Grupo Amper;4.0;5
+Gesgrup Outsourcing;4.0;8
+Robotnik Automation;4.7;6
+Atrebo;4.4;3
+American School of Madrid;4.2;6
+Delibreads;4.1;5
+Open Canarias;5.0;2
+Instituto de Ciencia de Materiales de Madrid;4.5;9
+Community Manager Online;4.3;17
+Top of Minds Executive Search;4.8;14
+Fintual;4.6;25
+WeON (Brazil);4.1;33
+Codasip;4.5;21
+Pachama;4.8;18
+Improvado;4.0;45
+Breega;4.8;20
+PayCargo;4.0;15
+MALEMA ENGINEERING;4.6;16
+Voiceworks;4.1;28
+Grupo Control;4.2;8
+Possible;4.4;8
+UGT;4.0;5
+Zazume;5.0;6
+Gaviota Simbac;4.0;11
+Mapex.;4.1;7
+Pablo (London);4.1;35
+Arus;4.5;41
+App Sistemas;4.3;29
+Global66;4.0;45
+Zimmermann;4.2;29
+Buendía Tours;4.5;5
+CENTUM research & technology;4.1;4
+Haufe Talent;4.6;5
+SSVFX;4.4;21
+StreamYard;4.8;12
+Dyte;5.0;26
+Jet Services;4.0;31
+Mobile Industrial Robots;4.0;18
+MCE Social Capital;4.9;17
+Educate!;4.2;33
+L'Addition;4.6;38
+Service Civique;4.1;42
+Skilling;4.7;16
+Vendo Services;4.5;10
+Asaitec Soluciones Informaticas;4.7;6
+22tribes;4.6;6
+Stratebi;4.0;1
+Ritmo Capital;4.4;5
+Loterías y Apuestas del Estado;4.2;5
+Ayanet;4.7;4
+Alpargatas Europe;4.4;5
+Enerland;4.2;5
+Velatia;4.4;5
+Sicor;4.2;5
+BBI Consultancy;4.0;36
+Crimtan;4.2;28
+Arena;4.3;24
+Cerámica San Lorenzo;4.2;31
+Gv Albañilería en General;4.1;31
+POMA;4.0;37
+SEPRO group;4.0;29
+Galera;4.5;29
+Compliance & Risks;4.4;25
+Swap Support;5.0;6
+Anecoop;4.1;11
+Oxbridge Academic Programs;4.2;26
+Massive Rocket;4.7;17
+Arte (Spain);5.0;4
+Roberto Verino;4.2;7
+Acid Tango;4.2;12
+Ayuntamiento;4.4;6
+AT Language Solutions;4.8;5
+GeeksHubs;4.5;7
+Ozona Group;4.5;5
+Ros Roca;4.3;4
+ForgeFlow;4.2;6
+Rockbotic;4.5;8
+DESIC;4.3;7
+Nativos Language Consultants;5.0;11
+Zero Consulting;4.5;5
+Entradas;4.0;5
+M Automotive;4.2;6
+eSail;4.4;6
+VIVA HOTELS & RESORTS;4.0;7
+Buena Vibra Group;4.1;17
+Máquinas Furlan;4.0;36
+Hahaha;4.3;12
+Oliver Parks Consulting;4.5;28
+TryHackMe;4.1;27
+Red Salud;4.2;30
+PumpMan;4.3;42
+BaseKit;4.6;26
+BaseKit;4.6;26
+HFG Insurance Recruitment;4.0;24
+Toyobo;4.0;33
+Mariana;4.0;23
+The Yuki Company;4.7;3
+Pi Data Strategy & Consulting;4.4;29
+NewEdge;4.1;18
+CG Spectrum;5.0;61
+Protranslate;4.1;40
+AWEX;4.1;31
+The PGA European Tour;4.3;25
+Unified Networks;4.0;28
+Burgess;4.2;14
+Aertssen Group;4.6;24
+HUNTY;4.6;26
+Universidad Simon Bolivar;4.0;37
+Ube;4.0;7
+Zurich Vertriebs;4.3;12
+Demalia;4.4;4
+NutaNXT Technologies;4.3;28
+Essen Aluminio;4.1;32
+Sunday;4.1;22
+CAPEMISA;4.6;33
+Università degli Studi della Campania Luigi Vanvitelli;4.0;27
+Banco de la Nacion (PERU);4.2;32
+Creel;4.4;35
+IBO Group;4.2;10
+AF;4.0;18
+Casas do Pintor;4.0;23
+Operaria;4.3;12
+Delivra;4.2;14
+Intercountry Management;4.1;26
+Sidetours Incoming Services;4.2;4
+Plenium Actividades Industriales;4.0;7
+SMART VISUAL DATA;4.3;3
+CITCEA-UPC;4.1;8
+Hospital Universitario Infanta Sofia;4.7;6
+Inesdi Business Techschool;4.3;4
+Astrom Technical Advisors;4.6;6
+Ticarum;4.5;5
+Allenta Consulting;4.8;10
+iLine Microsystems;5.0;2
+The Fitzgerald (Spain);4.1;5
+Aeat;4.2;6
+Grupo Gimeno;4.4;2
+HEADWAY EXECUTIVE;4.0;5
+Florida Universitària;4.3;7
+Tekia Ingenieros;4.5;5
+Carrots Lab;4.6;2
+Gomà-Camps;4.2;6
+Meditopia;4.0;16
+Clario Tech;4.9;30
+Civica Software;4.6;5
+Buenas Migas;4.2;7
+AOC Solutions;4.0;41
+Ministerio Público de la Defensa;4.5;25
+E-CUBE Strategy Consultants;4.6;30
+klm: sylter wohnen;4.2;19
+Metapraxis;4.6;15
+Tungsram;4.3;29
+José Manuel Pascual Pascual;4.4;9
+SAITEC;4.0;9
+inèdit;4.5;8
+V-Valley Iberian;4.0;6
+Mktg;3.8;20
+WinClap;4.5;42
+Carnivore Meat Company;4.6;34
+Executive Insight;4.5;22
+Rocket Agency;4.9;34
+Bulldozer Group;4.2;21
+Adam (Czech Republic);4.7;17
+Facet (UT);4.3;19
+Fortiche Production;4.4;14
+Sanduba's Burguer;4.0;15
+La Sirena;4.2;12
+Policlinica;4.3;20
+Hustler Marketing;4.4;22
+Minas Buenaventura;4.2;29
+Reinaerde;4.3;12
+DigitalGrowth;4.4;7
+Terratest Group;4.0;8
+Kings Games;4.0;4
+Vascobelo;4.0;18
+Gronda;5.0;19
+Villafañe & Asociados;4.2;3
+Overon;4.7;4
+SafeBrok;4.0;11
+Biodonostia;4.3;6
+Krashlando;4.6;3
+Clásica Urbana;4.4;6
+full stack development;4.5;19
+Mercans;4.2;40
+Data Virtuality;4.6;32
+CVE;4.3;23
+Manuport Logistics;4.0;25
+Petrolera;4.1;17
+Co.Mark;4.1;5
+Culdesac;4.4;7
+Cosmic;4.0;19
+Departamento Administrativo Nacional de Estadística;4.1;26
+Christie + Co;4.1;18
+GYS;4.0;14
+Tech Corps;4.5;25
+TABACCHERIA;4.1;26
+Psychology Today;4.1;29
+Kulina (Indonesia);4.2;30
+Naos;4.1;26
+ACF Technologies;4.1;20
+Acquis Insurance Management;4.5;34
+Renantis;4.1;8
+IECSA;4.2;9
+KUBUS;4.5;4
+Horizm;4.2;7
+Nomad Homes;4.3;7
+DataBeacon;5.0;2
+Centro de Referencia de Investigación, Desarrollo e Innovación ATM;4.7;7
+SGEL;5.0;2
+Alea Soluciones;4.5;5
+Automocion;4.0;3
+INBISA;4.4;2
+Alea Soluciones;4.5;5
+Apartamentos Turisticos;4.4;6
+SCCE;5.0;6
+Àngel Mir;4.2;7
+Álava Ingenieros;4.5;7
+ARENA Tech;4.2;5
+Mailify;4.5;6
+Elba Hoteles;4.2;8
+Centro de Investigaciones Biológicas;4.3;7
+Modelical;4.8;5
+Comisiones Obreras;4.2;5
+4Service;4.0;37
+Digital Knack;4.6;11
+FortNine.;4.5;24
+Rule Joy Trammell + Rubio;4.0;22
+CENSUS;4.0;24
+Nordcurrent;4.0;21
+BBVA Provincial;4.3;17
+Fundación Idea;4.1;11
+Adlook;4.6;19
+Festo;4.4;17
+P3 Logistic Parks;4.5;14
+hellotax;4.8;23
+Shore;4.0;24
+Grupo Idesa;4.2;29
+Spectrm;4.1;32
+iLogic;4.0;10
+CHOICE;4.0;20
+Universidad Sergio Arboleda;4.8;37
+Grupo San Miguel (Argentina);4.2;30
+Tu Albañil;4.2;21
+Encargada De Cocina;4.3;10
+KUMHO TYRE;4.2;10
+Fashiola;5.0;4
+SATEL;4.2;6
+EQA;4.2;9
+El Periódico;4.1;5
+Uptodown.com;4.5;9
+Pangeanic;4.2;8
+Green Giraffe;4.5;9
+Archangel Imaging;4.5;15
+Accelsiors CRO and Consultancy Services;4.3;31
+Real Plaza;4.1;23
+Colombo & Hurd;4.1;36
+Dos Pinos;4.0;30
+Chief Industries;4.0;29
+Hopscotch;4.0;28
+Eventoss;4.9;25
+JDK Group;4.1;30
+St. Patrick's Residence;4.1;24
+Airia;4.1;5
+Elespacio;4.4;8
+WITH Madrid;4.2;4
+Waynabox;4.0;8
+Dacsa Group;4.2;7
+Hipra Scientific;4.3;3
+Proceedit;4.1;17
+RHI Magnesita;4.3;8
+it factum;4.3;7
+Isometric;4.9;28
+Hospitable;4.8;19
+Evoca Group;4.0;20
+EBC;4.0;20
+MERIDIAM INFRASTRUCTURE NORTH AMERICA;4.1;19
+Strategic Account Management Association;4.1;21
+ALERION;4.0;10
+Vortex;4.3;14
+dgroup;4.4;7
+Apache;4.1;18
+European Council on Foreign Relations;4.1;18
+TÜNKERS;4.0;19
+Fieldcode;4.3;14
+Sirenum;4.7;13
+Rossi Group;4.5;41
+TC Group;4.4;21
+DEL;4.3;28
+EN HR solutions;4.1;33
+BestPrice.gr;4.2;26
+DEHN SE;4.0;18
+Bravado;4.4;18
+Tribeca;4.1;28
+Electronic Art;4.0;22
+Masentó Group;5.0;26
+Hula Networks;4.5;21
+Satocan Group;4.8;6
+Hotel Barcelona Princess;4.0;7
+Foxize;4.8;5
+Flexito;4.0;8
+Taptap Digital;4.9;7
+VICASOL;4.0;6
+Altia (Spain);4.1;5
+Sportmadness;4.0;10
+Grupo INMAPA;5.0;4
+AffiliRed;4.1;11
+Muehlhan;4.1;16
+Trabajo Jefe de obra;4.2;11
+RAXO;4.4;29
+Servicios de Limpieza Empresarial;4.1;13
+Upflow;5.0;32
+Delivering Happiness;4.6;13
+Tom Horn Gaming;4.4;18
+Minería;4.0;17
+Booster Box;4.3;20
+Darya Varia Laboratoria;4.2;25
+Inveon;4.3;27
+MLK Marketing;4.3;27
+Worldcoin;4.1;15
+Alea;4.1;27
+Deli Delícia;4.1;26
+Patron Capital Partners;4.6;21
+VideoWise;5.0;8
+The SU University of Bath;4.6;27
+Titan Logix;4.3;19
+Taurus International;4.1;23
+Sabormex;4.2;13
+Nada Restaurant;4.0;28
+180 Degrees Consulting;4.6;44
+Casual Films;4.2;12
+Cafe;4.2;40
+Universidad Francisco Marroquín;4.1;20
+The Mothership Group (UK);5.0;10
+Angelini Industries;4.1;8
+ENAC;4.1;9
+Dolores Street Community Services;4.0;15
+Skalar;4.2;17
+Disco;4.3;15
+Esmeralda;4.0;15
+much. (Germany);4.4;10
+Olmix;4.3;17
+Arktec;4.3;19
+I3E IT Resources;4.4;5
+Instituto de Telecomunicaciones y Aplicaciones Multimedia;4.3;7
+AKRN Scientific Consulting;4.1;7
+IAG7 Viajes;4.0;4
+Charles Marlow & Bros;5.0;6
+Tribalyte Technologies;4.0;6
+Invofox;4.0;6
+Mantequerías Arias;4.0;6
+Grupo Arestora;4.0;1
+Hospital Universitario Infanta;4.0;5
+Grupo Arestora;4.0;1
+MarketGoo;5.0;2
+Enxenio;4.5;2
+Gesein;4.0;1
+VIAJES EROSKI;4.0;7
+Gamestry;4.6;4
+Hospital General de Granollers;4.5;4
+Core Animation;4.9;7
+Institut d'Investigació Sanitària Pere Virgili;4.6;5
+Cultural Actex;4.0;7
+Juver Alimentación;4.1;6
+Improving Metrics;4.1;6
+Institut d'Investigació Sanitària Pere Virgili;4.6;5
+Cultural Actex;4.0;7
+Lynx view;4.4;5
+Illusorium;4.7;6
+RocaJunyent;4.3;4
+Bloquetech;4.0;4
+Izasa Medical;4.0;2
+Integra tecnología;4.1;4
+TradeHeader;5.0;7
+Izasa Medical;4.0;2
+COPE. CIF;4.6;3
+Grupo Colonial;4.0;5
+TRASMED GLE;4.4;7
+Bettergy;4.1;7
+Urbano Constructions;4.7;3
+Uniminuto;4.0;35
+Skynet;4.1;28
+IEF Instituto Estadual de Florestas;4.3;22
+IEF Instituto Estadual de Florestas;4.3;22
+Ohtels;4.5;2
+Plus Ultra;4.4;7
+Symborg;4.5;9
+OELS English;4.1;7
+Inversiva;4.9;8
+Eric Vökel Boutique Apartments;4.7;6
+ecosio;4.7;18
+Aloha Salads;4.1;20
+ARIADNEXT;4.5;11
+With Juno;4.7;17
+PROPIA;4.7;3
+Valtria;4.5;6
+Pamplona;4.6;7
+Halborn;4.5;7
+Eco-Emballages;4.0;10
+Publicis Emil;4.0;13
+SEITech Solutions;4.4;17
+Baril Advogados Associados;4.4;17
+Stern At Home Therapy;4.5;17
+Raquel Calçados;4.2;24
+JamesEdition;4.8;10
+DisplayNote;4.5;9
+Gobierno de Cantabria;4.2;7
+Grupo Dulcesol;4.2;8
+Arpada;4.7;4
+Telson Servicios Audiovisuales;4.1;7
+Doonamis;5.0;4
+ADTEL;4.4;6
+Nemomarlin Franchise;4.2;5
+GBS Finance;4.3;5
+ID Energy Group;4.1;9
+Atarfil;4.0;7
+Fundació CIM;4.1;5
+AB-BIOTICS;4.1;4
+Ministro de Educación, Cultura;4.5;8
+Exus Management Partners;4.7;5
+HiJiffy;4.9;12
+St. Stephen's and St. Agnes School;4.2;18
+UVIC;4.4;28
+OTS;4.2;24
+Law Office of Sandra Ritz;4.4;21
+European Solidarity Corps;4.4;15
+Copreci;4.1;8
+Clínica Internacional;4.1;22
+Limestone Digital;4.7;13
+Solutia Consulting;4.6;20
+International Real Estate Partners;4.1;19
+NK Architects;4.5;16
+WORKERBASE;4.9;13
+AAVALABS;4.7;15
+GA AGENCY;4.3;22
+Distru;4.8;28
+MDI;4.0;23
+Biyani Technologies;5.0;53
+AEI;4.3;16
+Camesa Indústria Têxtil;4.0;29
+COTS;4.1;20
+Banco Fassil;4.1;34
+Tecniplast;4.1;27
+Glassnode;4.6;10
+Tecniplast;4.1;27
+Mausa;4.1;17
+Instana;4.5;24
+Brandcrops;4.6;5
+Prinzipal Partners;4.7;6
+Bar Manolo;4.0;4
+Verizaciones Industriales de Andalucía;4.1;5
+Araoz & Rueda;4.0;1
+Bigle Legal;4.5;8
+Bigle Legal;4.5;8
+SAES;4.0;3
+O&S Consultores;4.5;5
+Institut Cerdà;4.4;6
+Grupo Calvo;4.7;4
+Bioclever;4.3;4
+Advantage Consultores;5.0;3
+Hospital Universitario Nuestra Señora de Candelaria;4.5;7
+Mirai España;4.3;4
+Seaplace;4.0;5
+Adessa Group;4.3;5
+RTGS.global;4.2;9
+SuperSport International;4.2;24
+Ai2;4.3;12
+Rosa Negra;4.3;20
+Executive Assistance;4.0;16
+Geoconsult;4.2;19
+BOI;4.1;19
+HYM Alliance;4.0;17
+Motorsports Authentics;4.0;19
+Motorsports Authentics;4.0;19
+Dragon's Lake;4.5;20
+Undo;4.6;19
+Atlas Cloud;4.3;26
+Sikla;4.6;13
+Profesores Asociados Egresados del Instituto Superior del Profesorado en Lenguas Vivas (PAELV);4.5;7
+Rodriguez Consulting;4.1;12
+FM Group;4.2;13
+Sheetgo;4.0;14
+MAPSA;4.2;13
+ESE Engineering and Software Development;4.3;22
+Marmalade Game Studio;4.1;12
+WSS;4.5;20
+LCA;4.3;15
+Kempower;4.2;18
+Atlanta First Agency;4.6;35
+Lumio;4.1;9
+The People Group;4.8;22
+PostHog;5.0;5
+Mercer Consulting;4.0;25
+Teletaxi;4.3;11
+CIDE;4.4;13
+Q-Tech;4.0;9
+Up2You;4.2;6
+Ontech;4.6;6
+Wegrow;4.9;9
+Relats;4.3;6
+Newclip Technics;4.7;13
+Intuition Machines;4.0;20
+C4Media;4.9;16
+C4Media;4.9;16
+The MERK Group;4.1;18
+NWORLD;4.1;6
+Harbiz;4.2;4
+Korg;4.0;1
+SAPIMSA;4.2;6
+Ortopedia Tecnica;4.5;8
+WBS Coding School;4.1;8
+LUPA;4.0;10
+Rising Pixel;4.5;4
+Institut de Química Avançada de Catalunya;4.5;8
+Frutas Montosa;4.5;4
+Dreamfit;4.3;6
+Take a Chef;4.2;6
+ShoeSize.Me;4.4;7
+Atlántica Agrícola;4.6;5
+Hipotels Hotels & Resorts;4.5;4
+Mio;4.6;23
+Applied Thought Auditors and Consultants;4.4;5
+Abby;4.3;18
+Bayswater College;4.4;29
+Native American Community Academy;4.1;16
+Kimpton Hotel & Restaurant Group;4.3;26
+Sovereign Brands;4.1;10
+Working Adventures Recruitment;4.2;10
+Platanitos;4.0;33
+Automat-it;4.7;9
+Movinx;4.5;17
+English for Business;4.7;14
+Institute for Bioscience and Biotechnology Research;4.5;10
+Institute for Bioscience and Biotechnology Research;4.5;10
+Abogada Autónoma;4.2;12
+Compact Solutions;4.3;26
+RealMassive;4.4;22
+National Center for Biotechnology Information;4.0;20
+Infinite Resource Solutions;4.3;23
+Banco Guayaquil;4.0;31
+Unvired;4.5;28
+Scanbuy;4.2;15
+Neurons Lab;4.9;17
+Ilustre Colegio de Abogados de Madrid;4.4;3
+PCBox;4.7;4
+Language Kingdom;4.6;9
+Secture;4.8;4
+Services Research & Mapping Consulting;4.4;6
+Think Ahead Academy;4.1;8
+Grupo Nova Cartographia;4.0;2
+ASM Web Services;4.4;6
+Pinturas Isaval;4.2;6
+SOM produces;4.3;6
+Digital 55;4.0;1
+IIBm;4.6;5
+Kodit.io;4.3;3
+SOLARIS;4.1;28
+Constructor University;4.1;23
+Pertutti;4.1;16
+Jones Bros.;4.2;24
+Sber Tech;4.1;19
+FlamencoTech;4.0;37
+La Pescadería;4.2;7
+IOTA Foundation;4.2;16
+iSpring;4.5;26
+SIPSA;4.2;9
+PROGES;4.1;6
+Palex;4.0;8
+Platform161;4.1;7
+Instituto Divina Pastora;4.0;11
+Verallia;4.2;7
+Galvin Technologies;4.0;12
+GoldenLine;4.2;10
+GoldenLine;4.2;10
+Bumper;4.5;19
+Mondragón Assembly;4.2;13
+DevelopsToday;4.6;7
+My Learning Hub;4.8;22
+Fakeeh University Hospital;4.1;12
+Optimi;4.1;5
+FDF;4.2;10
+Pixeldust Studios;4.3;21
+Coldwell Banker Apex Realtors;4.3;32
+K & R Transport ll;4.2;15
+Sawoo;4.6;20
+MBIS;4.2;25
+Transnacional - Empresa de Transportes Nacional de Passageiros;4.6;24
+MOCA;4.3;9
+Karuna (Russia);4.1;31
+Ship2B;4.0;3
+Science & Innovation Link Office;4.3;3
+Nostrum Biodiscovery;5.0;2
+NALBA Advisors;4.8;4
+Little Buddha Group;4.1;5
+Ascires;4.1;2
+Noucor;4.3;6
+AllRead Machine Learning Technologies;4.2;4
+Radio ECCA;4.1;7
+OXIMESA;4.3;5
+IRYCIS;4.0;5
+Aldelís;4.4;3
+SCS Structural Solutions;4.0;1
+ANADAT TECHNOLOGY;4.0;5
+Abance;4.1;5
+Gesternova;4.0;2
+KeepCoding;4.5;3
+LeciTrailer;4.3;5
+Drakhar Studio;4.0;4
+Bertrandt Spain;4.5;4
+People Moving Pixels;4.4;7
+Aicox soluciones;4.0;7
+Devicare;4.4;5
+23lunes Creative Animation Studio;4.5;9
+Publiespaña;4.2;2
+HALCON;4.2;11
+CAD Designers;4.6;10
+Atradius;4.5;12
+Catella Real Estate;4.1;19
+Valencia Technologies;4.6;4
+ConversionXL LLC;4.2;17
+Client Solutions;4.9;18
+ROBOX PROGRAMMING;4.3;12
+Beso by LLYC;4.1;21
+Enable (Mexico);4.0;19
+Mimo;4.3;20
+Abzu (Denmark);4.8;5
+Solaris Offgrid;4.3;4
+GRUPO ARPADA;4.4;6
+Hotel Helios;4.1;6
+Just Landed;4.0;10
+Orkestra;4.0;6
+Carniceria Gutierrez;5.0;2
+Nike Retail Sucursal En España;4.9;8
+Avallain;4.5;9
+HBG;4.0;5
+Pyrénées Andorra;4.1;10
+Lemontech;4.2;22
+The Pen Is Mightier Content Creators;4.6;16
+Appical;4.2;34
+Metabase (CA);5.0;9
+Pardalis & Nohavicka;4.5;26
+Home Run Financing;4.1;27
+Leitner Ropeways;4.1;20
+Kiwi;4.1;19
+Tarmac (MN);4.6;32
+Growatt;4.1;26
+PickNik;4.0;14
+Manager Gestão Condominial;4.4;22
+Please;4.8;5
+Square1;4.0;8
+GRUP EINA;4.0;5
+Zylk;4.5;5
+Nanta;4.1;8
+HOFF (Spain);4.1;5
+Nemotec;4.3;3
+Guzman Global;4.2;6
+AMPO;4.2;4
+Kernel Analytics;4.0;3
+Arania;4.0;4
+Alua Hotels & Resorts;4.3;4
+Nobel Recruitment;4.1;15
+Coflex;4.8;13
+City Investment Training;4.9;37
+Grupo Romero;4.5;19
+Cenit Transporte;4.4;26
+Nory (Ireland);4.0;11
+BARNES International Realty;4.2;16
+Jeroen Bosch Ziekenhuis;4.0;9
+TFAS;4.2;17
+ArchDaily;4.5;31
+Infomatrix Inc.;4.5;15
+Daytrip;4.1;16
+Listen & Learn;4.8;41
+Listen & Learn;4.8;41
+FLC;4.2;22
+Rallyware;4.0;22
+Dr. Panda;4.2;23
+BaseNet;4.6;3
+Kimak;4.3;6
+Software Advisory Service;4.8;15
+DVD;4.0;4
+La Gaceta;4.0;12
+Universidad de los Andes (Chile);4.2;19
+BeOne;4.2;13
+lolipop;4.5;13
+EDIFICIO;4.0;16
+Capicua;4.1;19
+Nueva EPS;4.1;19
+Fluent Forever;5.0;19
+Agunsa;4.2;18
+COMSAT;4.0;21
+Eurofighter;4.3;23
+Cosatto;4.8;27
+Kiln;5.0;21
+El Grupo Puerto de Cartagena;4.5;24
+VHM;4.2;23
+Advocate Art;4.4;41
+Colégio Piaget;4.1;25
+Capri Sun;4.5;21
+CoolGames;4.1;14
+Ensto;4.0;20
+IOCB;4.2;16
+Fair Finance;4.1;20
+Fair Finance;4.1;20
+Decentralized Masters;5.0;40
+Acilia Internet;4.1;5
+Farlabo;5.0;5
+Paraty Hotel;4.0;2
+Trescom;4.5;2
+Som Energia;4.4;5
+MAIO Legal;4.3;5
+Grepcon HSE & Services;4.0;7
+Escuela de Organización Industrial;4.6;8
+Assembler School of Software Engineering;5.0;1
+SharpLaunch;4.0;4
+Comercial Química Massó;4.0;3
+Rockin Media;4.0;3
+Med Playa;4.3;6
+Seven Solutions;4.1;5
+Axión;4.1;4
+AdPone;5.0;3
+Blok;4.5;7
+CedarBay;4.5;11
+SCN;4.6;13
+Voltae Engineering;4.1;7
+webtiser;4.4;14
+A!B!C Personal;5.0;3
+Cinco Hispanos;4.2;19
+Hiflow Rent;4.4;24
+Hotel One BY Pearl Continental;4.3;25
+Yonego;4.2;30
+Caledonian;4.5;26
+3000 Corp.;4.4;8
+3000 Corp.;4.4;8
+Process Engineering;4.1;17
+giosg;4.6;11
+Synergy Worldwide;4.0;18
+Soldadoras Industriales INFRA;4.1;11
+IAG Tech;4.2;5
+Escena;4.6;17
+Momentum 360;5.0;28
+SuperHeroes;4.0;13
+Carry1st;4.4;31
+Agencia de Viajes con prestigio Internacional;4.3;4
+Alma Technologies;4.3;8
+Depaho;4.5;7
+Spire Payments;4.2;6
+ASTARA;4.2;8
+ParkHelp;4.1;4
+Dromor;5.0;8
+Private Client Consultancy;4.7;4
+IDDTEK;4.4;3
+Budgetplaces;4.0;4
+Kaisa;4.1;23
+Eagle Vision Enterprise;4.5;22
+Restaurant Brands International;4.1;12
+deskbird;4.9;14
+CleanEdison;4.0;44
+TravelLocal;4.9;16
+Spirable;4.5;16
+RIA Novosti;4.1;22
+90 POE;4.7;20
+Buy Instagram Followers 365;4.0;18
+Gobernación de Antioquia;4.6;24
+Vicrila;4.0;2
+easygoband;4.0;6
+SIMAD;4.0;4
+AFJ Health & Safety;4.5;4
+Area Cooling Solutions;4.2;6
+Natac;4.7;4
+Grupo Control Seguridad;4.0;5
+Bmw Bank Gmbh Sucursal;4.1;8
+BOBOLI;4.4;6
