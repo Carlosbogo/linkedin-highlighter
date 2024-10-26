@@ -31,10 +31,10 @@ function matchElementsWithCSV(csvData, elements) {
         const existingDisplayElements = element.querySelectorAll('.csv-display');
         existingDisplayElements.forEach(display => display.remove());
 
-        // Check if the element matches any value in the first column of the CSV
+        // Check if the element matches any company name from the csv
         if (csvFirstColumnValues.includes(elementText)) {
             // Reset background color
-            element.style.backgroundColor = ''; // Clear previous highlights
+            element.style.backgroundColor = '';
 
             // Find the matching row in the CSV
             const matchingRow = csvData.find(row => row[0].trim() === elementText);
@@ -44,9 +44,8 @@ function matchElementsWithCSV(csvData, elements) {
 
             console.log(`Match found: ${elementText} => ${rating}`);
 
-            // Check if rating is >= 4.5 and apply different styling
             if (rating >= 4.5) {
-                element.style.backgroundColor = '#036D19'; // Highlight in blue for values >= 4.5
+                element.style.backgroundColor = '#036D19'; // Highlight in green for values >= 4.5
             } else {
                 element.style.backgroundColor = '#330F0A'; // Highlight in red for other values
             }
@@ -55,12 +54,12 @@ function matchElementsWithCSV(csvData, elements) {
             const displayElement = document.createElement('div');
             displayElement.textContent = rating + " - " + reviews + " Reviews" + " - ";
             displayElement.className = "csv-display"; // Adding class for easier removal
-            displayElement.style.color = "white"; // Change text color for better visibility
+            displayElement.style.color = "white";
 
             const linkText = document.createElement('a');
             linkText.href = link;
             linkText.target = "_blank"; // Open link in new tab
-            linkText.style.textDecoration = "underline"; // Optional underline for link
+            linkText.style.textDecoration = "underline";
             linkText.textContent = "Job board";
             linkText.addEventListener('click', (event) => {
                 event.stopPropagation();
@@ -73,7 +72,7 @@ function matchElementsWithCSV(csvData, elements) {
             console.log(`No match found for: ${elementText}. Removing closest <li> parent.`);
             const liParent = element.closest('li');
             if (liParent) {
-                liParent.remove(); // Remove the closest <li> parent
+                liParent.remove();
                 console.log('<li> element removed.');
             }
         }
