@@ -38,7 +38,7 @@ function matchElementsWithCSV(csvData, elements) {
 
             // Find the matching row in the CSV
             const matchingRow = csvData.find(row => row[0].trim() === elementText);
-            const rating = parseFloat(matchingRow[1].trim());
+            const rating = parseFloat(matchingRow[1].trim()).toFixed(1);
             const reviews = parseInt(matchingRow[2].trim());
             const link = matchingRow[3].trim();
 
