@@ -124,7 +124,7 @@ loadCSV()
         console.log("CSV Data Loaded:", csvData);
 
         // Run the matching function immediately on existing elements
-        const xpath = "//*[contains(@class, 'base-search-card__subtitle')]";
+        const xpath = "//*[contains(@class, 'subtitle')]";
         const nodesSnapshot = document.evaluate(xpath, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
         const initialElements = [];
         for (let i = 0; i < nodesSnapshot.snapshotLength; i++) {
