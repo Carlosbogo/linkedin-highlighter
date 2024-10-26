@@ -38,24 +38,21 @@ function matchElementsWithCSV(csvData, elements) {
 
             // Find the matching row in the CSV
             const matchingRow = csvData.find(row => row[0].trim() === elementText);
-            const secondColumnValue = matchingRow[1];
-            const secondColumnValueNum = parseFloat(secondColumnValue.trim());
+            const rating = parseFloat(matchingRow[1].trim());
+            const reviews = parseInt(matchingRow[2].trim());
 
-            const thirdColumnValue = matchingRow[2];
-            const thirdColumnValueNum = parseInt(thirdColumnValue.trim());
+            console.log(`Match found: ${elementText} => ${rating}`);
 
-            console.log(`Match found: ${elementText} => ${secondColumnValue}`);
-
-            // Check if second column value is >= 4.5 and apply different styling
-            if (secondColumnValueNum >= 4.5) {
+            // Check if rating is >= 4.5 and apply different styling
+            if (rating >= 4.5) {
                 element.style.backgroundColor = '#036D19'; // Highlight in blue for values >= 4.5
             } else {
                 element.style.backgroundColor = '#330F0A'; // Highlight in red for other values
             }
 
-            // Create a new element to display the second column value
+            // Create a new element to display the rating and reviews
             const displayElement = document.createElement('div');
-            displayElement.textContent = secondColumnValue + " - " + thirdColumnValue + " Reviews";
+            displayElement.textContent = rating + " - " + reviews + " Reviews" + " - ";
             displayElement.className = "csv-display"; // Adding class for easier removal
             displayElement.style.color = "white"; // Change text color for better visibility
             element.appendChild(displayElement); // Append to the matched element or place it as needed
