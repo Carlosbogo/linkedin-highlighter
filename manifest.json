@@ -15,7 +15,7 @@
     },
     "content_scripts": [
       {
-        "matches": ["<all_urls>"],
+        "matches": ["https://www.linkedin.com/jobs*"],
         "js": ["content-script.js"]
       }
     ],
