@@ -26,7 +26,7 @@ function matchElementsWithCSV(csvData, elements) {
 
         const elementText = element.textContent.trim();
         console.log(`Checking element:`, elementText);
-        
+
         // Clear previous matches
         const existingDisplayElements = element.querySelectorAll('.csv-display');
         existingDisplayElements.forEach(display => display.remove());
