@@ -1,5 +1,7 @@
 console.log("Content script is running.");
 
+const xpath = "//*[contains(@class, 'subtitle')]";
+
 // Function to fetch and parse the CSV file
 async function loadCSV() {
     const url = browser.runtime.getURL('data/companies.csv'); // Construct the correct URL
@@ -88,7 +90,6 @@ function observeNewElements(csvData) {
         mutationsList.forEach(mutation => {
             mutation.addedNodes.forEach(node => {
                 if (node.nodeType === 1) { // Check if it's an element node
-                    const xpath = "//*[contains(@class, 'subtitle')]";
                     const nodesSnapshot = document.evaluate(xpath, node, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
 
                     const newElements = [];
@@ -124,7 +125,6 @@ loadCSV()
         console.log("CSV Data Loaded:", csvData);
 
         // Run the matching function immediately on existing elements
-        const xpath = "//*[contains(@class, 'subtitle')]";
         const nodesSnapshot = document.evaluate(xpath, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
         const initialElements = [];
         for (let i = 0; i < nodesSnapshot.snapshotLength; i++) {
