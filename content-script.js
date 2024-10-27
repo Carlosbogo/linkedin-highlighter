@@ -14,6 +14,23 @@ async function loadCSV() {
     return rows; // returns an array of arrays
 }
 
+// Function to switch page if no match was found
+function goToNextPage() {
+    const currentPageElement = document.querySelector('button[aria-current="true"]');
+    console.log("Current page element:", currentPageElement);
+    if (currentPageElement) {
+        const currentPageLi = currentPageElement.closest('li');
+        const nextPageLi = currentPageLi ? currentPageLi.nextElementSibling : null;
+        if (nextPageLi) {
+            const nextButton = nextPageLi.querySelector('button');
+            if (nextButton) {
+                console.log("Navigating to the next page...");
+                nextButton.click();
+            }
+        }
+    }
+}
+
 // Function to match elements with CSV data and remove first <li> parent if no match
 function matchElementsWithCSV(csvData, elements) {
     const csvFirstColumnValues = csvData.map(row => row[0].trim());
@@ -118,6 +135,14 @@ function observeNewElements(csvData) {
 
     return observer; // Return the observer in case you want to disconnect or reconnect it later
 }
+
+// Listen for the space bar key press to navigate to the next page
+document.addEventListener("keydown", (event) => {
+    if (event.key === " " || event.key === "Spacebar") {
+        console.log("Space bar pressed. Checking for next page.");
+        goToNextPage();
+    }
+});
 
 // Load CSV and set up mutation observer to monitor new elements
 loadCSV()
