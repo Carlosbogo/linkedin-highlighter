@@ -1,16 +1,18 @@
 console.log("Content script is running.");
 
-const xpath = "//*[contains(@class, 'subtitle')]";
+const job_title_class = '.full-width artdeco-entity-lockup__title ember-view';
+const xpath = "//*[@class='artdeco-entity-lockup__subtitle ember-view']";
+const processedJobs = new Set();
 
 // Function to fetch and parse the CSV file
 async function loadCSV() {
-    const url = browser.runtime.getURL('data/companies.csv'); // Construct the correct URL
+    const url = browser.runtime.getURL('data/job_boards_660.csv'); // Construct the correct URL
     const response = await fetch(url);
     if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
     }
     const data = await response.text();
-    const rows = data.split('\r\n').map(row => row.split(';'));
+    const rows = data.split('\n').map(row => row.split(';'));
     return rows; // returns an array of arrays
 }
 
@@ -33,7 +35,6 @@ function goToNextPage() {
 
 // Function to match elements with CSV data and remove first <li> parent if no match
 function matchElementsWithCSV(csvData, elements) {
-    const csvFirstColumnValues = csvData.map(row => row[0].trim());
     console.log("Matching elements with CSV data:");
     console.log("Elements:", elements);
     elements.forEach(element => {
@@ -42,8 +43,8 @@ function matchElementsWithCSV(csvData, elements) {
             console.log(`Element ${element.textContent.trim()} has already been processed, skipping.`);
             return; // Skip this element
         }
-
-        const elementText = element.textContent.trim();
+        console.log("Element:", element.textContent);
+        const elementText = element.textContent.split('·')[0].trim();
         console.log(`Checking element:`, elementText);
 
         // Clear previous matches
@@ -51,44 +52,77 @@ function matchElementsWithCSV(csvData, elements) {
         existingDisplayElements.forEach(display => display.remove());
 
         // Check if the element matches any company name from the csv
-        if (csvFirstColumnValues.includes(elementText)) {
-            // Reset background color
-            element.style.backgroundColor = '';
 
-            // Find the matching row in the CSV
-            const matchingRow = csvData.find(row => row[0].trim() === elementText);
-            const rating = parseFloat(matchingRow[1].trim()).toFixed(1);
-            const reviews = parseInt(matchingRow[2].trim());
-            const link = matchingRow[3].trim();
-
-            console.log(`Match found: ${elementText} => ${rating}`);
-
-            if (rating >= 4.5) {
-                element.style.backgroundColor = '#036D19'; // Highlight in green for values >= 4.5
+        const matchingRow = csvData.find(row => row[0].trim() === elementText);
+        divParent = element.parentElement;
+        console.log("divParent:", divParent.children);
+        const jobIdentifier = divParent.children[0];
+        if (matchingRow && parseFloat(matchingRow[1].trim()) > 4.0) {
+            if (processedJobs.has(jobIdentifier)) {
+                const liParent = element.closest('li');
+                console.log(`Duplicate job found: ${jobIdentifier}. Removing element.`);
+                if (liParent) {
+                    liParent.remove();
+                }
+                return; // Exit early for duplicates
             } else {
-                element.style.backgroundColor = '#330F0A'; // Highlight in red for other values
+                processedJobs.add(jobIdentifier);
+
+                // Reset background color
+                element.style.backgroundColor = '';
+
+                // Find the matching row in the CSV
+                const rating = parseFloat(matchingRow[1].trim()).toFixed(1);
+                const reviews = parseInt(matchingRow[2].trim());
+                const link = matchingRow[3].trim();
+
+                console.log(`Match found: ${elementText} => ${rating}`);
+                if (rating >= 4.5) {
+                    element.style.backgroundColor = '#036D19'; // Highlight in green for values >= 4.5
+                } else {
+                    element.style.backgroundColor = '#330F0A'; // Highlight in red for other values
+                }
+
+                // Create a new element to display the rating and reviews
+                const displayElement = document.createElement('div');
+                displayElement.textContent = rating + " - " + reviews + " Reviews" + " - ";
+                displayElement.className = "csv-display"; // Adding class for easier removal
+                displayElement.style.color = "white";
+
+                const linkText = document.createElement('a');
+                linkText.href = link;
+                linkText.target = "_blank"; // Open link in new tab
+                linkText.style.textDecoration = "underline";
+                linkText.textContent = "Job board";
+                linkText.addEventListener('click', (event) => {
+                    event.stopPropagation();
+                });
+                displayElement.appendChild(linkText); // Append the link to the display element
+            element.appendChild(displayElement);
             }
-
-            // Create a new element to display the rating and reviews
-            const displayElement = document.createElement('div');
-            displayElement.textContent = rating + " - " + reviews + " Reviews" + " - ";
-            displayElement.className = "csv-display"; // Adding class for easier removal
-            displayElement.style.color = "white";
-
-            const linkText = document.createElement('a');
-            linkText.href = link;
-            linkText.target = "_blank"; // Open link in new tab
-            linkText.style.textDecoration = "underline";
-            linkText.textContent = "Job board";
-            linkText.addEventListener('click', (event) => {
-                event.stopPropagation();
-            });
-            displayElement.appendChild(linkText); // Append the link to the display element
-
-        element.appendChild(displayElement);
         } else {
             // If the element does not match any first column value in the CSV, remove the first <li> parent
             console.log(`No match found for: ${elementText}. Removing closest <li> parent.`);
+            fetch("http://localhost:8080", {
+                method: "POST",
+                mode:"no-cors",
+                headers: {
+                  "Content-Type": "text/plain",
+                },
+                body: elementText,
+              })
+                .then((response) => {
+                  if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                  }
+                  return response.text(); // Or response.json() if the proxy responds with JSON
+                })
+                .then((data) => {
+                  console.log("Response from proxy:", data);
+                })
+                .catch((error) => {
+                  console.error("Error sending data to the proxy:", error);
+                });
             const liParent = element.closest('li');
             if (liParent) {
                 liParent.remove();
