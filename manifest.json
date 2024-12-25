@@ -7,7 +7,8 @@
       "activeTab",
       "storage",
       "webRequest",
-      "webRequestBlocking"
+      "webRequestBlocking",
+      "http://localhost:8080/*"
     ],
     "background": {
       "scripts": ["background.js"],
