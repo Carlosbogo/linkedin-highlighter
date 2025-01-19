@@ -6,7 +6,7 @@ const processedJobs = new Set();
 
 // Function to fetch and parse the CSV file
 async function loadCSV() {
-    const url = browser.runtime.getURL('data/job_boards_660.csv'); // Construct the correct URL
+    const url = browser.runtime.getURL('data/company_ratings.csv'); // Construct the correct URL
     const response = await fetch(url);
     if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
