@@ -172,8 +172,8 @@ function observeNewElements(csvData) {
 
 // Listen for the space bar key press to navigate to the next page
 document.addEventListener("keydown", (event) => {
-    if (event.key === " " || event.key === "Spacebar") {
-        console.log("Space bar pressed. Checking for next page.");
+    if (event.key === "Tab") {
+        console.log("Tab pressed. Checking for next page.");
         goToNextPage();
     }
 });
